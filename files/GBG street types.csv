@@ -1,0 +1,5968 @@
+,name,street_type
+0,Kungälvsleden,leden
+2,Boråsleden,leden
+3,Gråbovägen,vägen
+4,Hjällbovägen,vägen
+5,Alingsåsleden,leden
+6,Kungsbackaleden,leden
+7,Stora Nygatan,gatan
+8,Östra Larmgatan,gatan
+9,Östra Hamngatan,gatan
+10,Lilla Nygatan,gatan
+11,Slussgatan,gatan
+12,Nya Allén,other
+13,Norra Allégatan,gatan
+14,Parkgatan,gatan
+15,Trädgårdsgatan,gatan
+16,Bastionsplatsen,other
+17,Lilla Kungsgatan,gatan
+18,Grönsakstorget,torget
+19,Södra Larmgatan,gatan
+20,Kungstorget,torget
+21,Lilla Kyrkogatan,gatan
+22,Korsgatan,gatan
+23,Drottninggatan,gatan
+24,Vallgatan,gatan
+25,Järnbrottsmotet,motet
+26,Marconimotet,motet
+27,Söderleden,leden
+28,Västerleden,leden
+29,Skattegårdsvägen,vägen
+30,Briljantgatan,gatan
+31,Turkosgatan,gatan
+32,Diamantgatan,gatan
+33,Näsetvägen,vägen
+34,Dag Hammarskjöldsleden,leden
+35,Fältspatsgatan,gatan
+36,Tunnlandsgatan,gatan
+37,Högsboleden,leden
+38,Gnistängstunneln,other
+39,Kaserntorget,torget
+40,Rosenlundsplatsen,other
+41,Rosenlundsgatan,gatan
+42,Sahlgrensgatan,gatan
+43,Ekelundsgatan,gatan
+44,Magasinsgatan,gatan
+45,Kyrkogatan,gatan
+46,Västra Hamngatan,gatan
+47,Packhusplatsen,other
+48,Smedjegatan,gatan
+49,Kronhusgatan,gatan
+50,Postgatan,gatan
+51,Sten Sturegatan,gatan
+52,Engelbrektsgatan,gatan
+53,Skånegatan,gatan
+54,Artillerigatan,gatan
+55,Gamlestadsvägen,vägen
+56,Mölndalsvägen,vägen
+57,Kortedalavägen,vägen
+58,Almanacksvägen,vägen
+59,Gärdsåsmotet,motet
+60,Stora Björn,other
+61,Bergsjövägen,vägen
+62,Kungshöjdsgatan,gatan
+63,Arsenalsgatan,gatan
+64,Hvitfeldtsgatan,gatan
+65,Luntantugatan,gatan
+66,Artilleristen Gladers Trappor,other
+67,Läroverksgatan,gatan
+68,Arkitektgatan,gatan
+69,Lilla Korsgatan,gatan
+70,Otterhällegatan,gatan
+71,Skräddaregatan,gatan
+72,Per Nyströms Trappa,other
+73,Norra Liden,other
+74,Teatergatan,gatan
+75,Chalmersgatan,gatan
+76,Viktor Rydbergsgatan,gatan
+77,Geijersgatan,gatan
+78,Arkivgatan,gatan
+79,Kristinelundsgatan,gatan
+80,Vasagatan,gatan
+81,Lilla Grevegårdsvägen,vägen
+82,Olof Asklunds Gata,gatan
+83,Gruvgatan,gatan
+84,J A Wettergrens gata,gatan
+85,Marconigatan,gatan
+86,Slottsskogsgatan,gatan
+87,Margretebergsgatan,gatan
+88,Carl Skottsbergs gata,gatan
+89,Prickskyttestigen,other
+90,Radiovägen,vägen
+91,Victor Hasselblads Gata,gatan
+92,Axel Adlers Gata,gatan
+93,Antenngatan,gatan
+94,A Odhners gata,gatan
+95,Näverlursgatan,gatan
+96,Lergöksgatan,gatan
+97,Hisingsleden,leden
+98,Hjalmar Brantingsgatan,gatan
+99,Yrvädersgatan,gatan
+100,Guldhedsgatan,gatan
+101,Björlandavägen,vägen
+102,Kongahällavägen,vägen
+103,Per Dubbsgatan,gatan
+104,Älvsborgsgatan,gatan
+105,Örgrytevägen,vägen
+106,Åkeredsvägen,vägen
+107,Önneredsvägen,vägen
+108,Mandolingatan,gatan
+109,Musikvägen,vägen
+110,Ståthållaregatan,gatan
+111,Läraregatan,gatan
+112,Eklandagatan,gatan
+113,Fabriksgatan,gatan
+114,Rävebergsvägen,vägen
+115,Dysiksgatan,gatan
+116,Oljevägen,vägen
+117,Bräckevägen,vägen
+118,Regnbågsgatan,gatan
+119,Karlavagnsgatan,gatan
+120,Lundby Hamngata,gatan
+121,Lindholmspiren,other
+122,Lindholmsallén,other
+123,Götaverksgatan,gatan
+124,Lars Kaggsgatan,gatan
+125,Regementsvägen,vägen
+126,Ånäsvägen,vägen
+127,Anders Carlssons Gata,gatan
+128,Theres Svenssons Gata,gatan
+129,Wieselgrensplatsen,other
+130,Tuvevägen,vägen
+131,Lundbytunneln,other
+132,Gustaf Melins gata,gatan
+133,Säröleden,leden
+134,Markmyntsgatan,gatan
+135,Sankt Sigfridsgatan,gatan
+136,Götatunneln,other
+137,Stora Åvägen,vägen
+138,Södra Långebergsgatan,gatan
+139,Sisjövägen,vägen
+140,Gårdstenstunneln,other
+141,Gårdstensliden,other
+142,Norrleden,leden
+143,Gårdstensvägen,vägen
+144,Berzeliigatan,gatan
+145,Änggårdens Gångbro,other
+146,Museibacken,backen
+147,Högsbogatan,gatan
+148,Kapplandsgatan,gatan
+149,Norra Långebergsgatan,gatan
+150,Torpamotet,motet
+151,Munkebäcks Allé,other
+152,Mellbyleden,leden
+153,Utbyvägen,vägen
+154,Ugglumsleden,leden
+155,Ljusårsvägen,vägen
+156,Januarigatan,gatan
+157,Munkebäcksmotet,motet
+158,Smyckegatan,gatan
+159,Björkhöjdsgatan,gatan
+160,Toftaåsgatan,gatan
+161,Stora Fiskebäcksvägen,vägen
+162,Lundbyleden,leden
+163,Marieholmsleden,leden
+164,Mårten Krakowgatan,gatan
+165,Mejerigatan,gatan
+166,Hälleflundregatan,gatan
+167,Hinse Bro,other
+168,Kobbegårdsvägen,vägen
+169,Askims Domarringsväg,vägen
+170,Tvärhandsgatan,gatan
+171,Halvtumsgatan,gatan
+172,Armlängdsgatan,gatan
+173,Växelmyntsgatan,gatan
+174,Högsbohöjdsmotet,motet
+175,Framnäsgatan,gatan
+176,Gibraltargatan,gatan
+177,Bildradiogatan,gatan
+178,Kondensatorsgatan,gatan
+179,Flygvädersgatan,gatan
+180,Rymdvågsgatan,gatan
+181,Sörredsvägen,vägen
+182,Majstångsgatan,gatan
+183,Mariagatan,gatan
+184,Lilla Drottninggatan,gatan
+185,Gustav Larsons Väg,other
+186,Volvo Jakobs Väg,other
+187,Röra Byväg,vägen
+188,Gunnar Engellaus väg,vägen
+189,Gamla Flygplatsvägen,vägen
+190,Torslandavägen,vägen
+191,Repslagaregatan,gatan
+192,Eldaregatan,gatan
+193,Signalgatan,gatan
+194,Hjorthagsgatan,gatan
+195,Kjellmansgatan,gatan
+196,Jungmansgatan,gatan
+197,Bergwalls trappor,other
+198,Vattugatan,gatan
+199,Övre Matrosgatan,gatan
+200,Storebackegatan,gatan
+201,Klamparegatan,gatan
+202,Krokegatan,gatan
+203,Bäckegatan,gatan
+204,Älghagsgatan,gatan
+205,Kompassgatan,gatan
+206,August Kobbsgatan,gatan
+207,Fjällgatan,gatan
+208,Paradisgatan,gatan
+209,Bockhornsgatan,gatan
+210,Sjömansgatan,gatan
+211,Sofiebergsgatan,gatan
+212,Brantbacken,backen
+213,Stavstigen,other
+214,Hallegatan,gatan
+215,Brämaregatan,gatan
+216,Hisingsgatan,gatan
+217,Ekebergsgatan,gatan
+218,Jägaregatan,gatan
+219,Pallasgatan,gatan
+220,Neptunusgatan,gatan
+221,Rörstrandsgatan,gatan
+222,Herkulesgatan,gatan
+223,Tunnbindaregatan,gatan
+224,Kvillegatan,gatan
+225,Väderkvarnsgatan,gatan
+226,Madängsgatan,gatan
+227,Vågmästaregatan,gatan
+228,Parmmätaregatan,gatan
+229,Kvilletorget,torget
+230,Panoramavägen,vägen
+231,Rambergsvägen,vägen
+232,Bergavägen,vägen
+233,Västra Stillestorpsgatan,gatan
+234,Östra Stillestorpsgatan,gatan
+235,Fjällvindsgatan,gatan
+236,Inlandsgatan,gatan
+237,Gamla Rambergsvägen,vägen
+238,Tillgängligheten,other
+239,Solstigen,other
+240,Övre Hallegatan,gatan
+241,Åsgatan,gatan
+242,Gunnar Engellaus Väg,other
+243,Virvelvindsgatan,gatan
+244,Löjtnantsgatan,gatan
+245,Lillhagsvägen,vägen
+246,Blankversgatan,gatan
+247,Lerbäcksvägen,vägen
+248,Minelundsvägen,vägen
+249,Gjutjärnsgatan,gatan
+250,Ringögatan,gatan
+251,Klippan,other
+252,Fiskhamnen,other
+253,Skärgårdsgatan,gatan
+254,Taubegatan,gatan
+255,Lilla gatan,gatan
+256,Jaegerdorffsplatsen,other
+257,Birgittagatan,gatan
+258,Kustroddaregatan,gatan
+259,Carnegiegatan,gatan
+260,Svanebäcksgatan,gatan
+261,Silverkällegatan,gatan
+262,Tegnérsgatan,gatan
+263,Första Långgatan,gatan
+264,Stigbergsliden,other
+265,Johannes Kyrkogång,other
+266,Anna Greta Wides Trappor,other
+267,Masthuggstorget,torget
+268,Haga Östergata,gatan
+269,Tredje Långgatan,gatan
+270,Pilgatan,gatan
+271,Östra Skansgatan,gatan
+272,Skolgatan,gatan
+273,Husargatan,gatan
+274,Södra Allégatan,gatan
+275,Kaponjärgatan,gatan
+276,Renströmsgatan,gatan
+277,Johannebergsgatan,gatan
+278,Olof Wijksgatan,gatan
+279,Gösta Rahmns Gata,gatan
+280,Kyrkstigen,other
+281,Molinsgatan,gatan
+282,Vasa Kyrkogata,gatan
+283,Oscar Fredriks Kyrkogata,gatan
+284,Andra Långgatan,gatan
+285,Fjärde Långgatan,gatan
+286,Plantagegatan,gatan
+287,Universitetsplatsen,other
+288,Norra Gatan,other
+289,PV Gatan,other
+290,Karl Gustavsgatan,gatan
+291,Vasaplatsen,other
+292,Thorildsgatan,gatan
+293,Föreningsgatan,gatan
+294,Erik Dahlbergsgatan,gatan
+295,Storgatan,gatan
+296,Viktoriagatan,gatan
+297,Södra Viktoriagatan,gatan
+298,Viktoriabron,other
+299,Bellmansgatan,gatan
+300,Haga Kyrkogata,gatan
+301,Haga Kyrkoplan,other
+302,Övre Fogelsbergsgatan,gatan
+303,Västergatan,gatan
+304,Frihamnsmotet,motet
+305,Frihamnen,other
+306,Ekedalsgatan,gatan
+307,Hålekärrsgatan,gatan
+308,Söderlingsgatan,gatan
+309,Spetsbergsgatan,gatan
+310,Hjortens trappor,other
+311,Myntgatan,gatan
+312,Kungsgatan,gatan
+313,Vitögatan,gatan
+314,Hjuviksvägen,vägen
+315,Bergspromenaden,other
+316,Övre Majorsgatan,gatan
+317,Övre Djupedalsgatan,gatan
+318,Prinsgatan,gatan
+319,Värmlandsgatan,gatan
+320,Vegagatan,gatan
+321,Bangatan,gatan
+322,Kastellgatan,gatan
+323,Majorsgatan,gatan
+324,Risåsgatan,gatan
+325,Djupedalsgatan,gatan
+326,Nedre Matrosgatan,gatan
+327,Konstepidemins väg,vägen
+328,Brunnsgatan,gatan
+329,Landsvägsgatan,gatan
+330,Leijonsparres väg,vägen
+331,Hamneskärsgatan,gatan
+332,Vingagatan,gatan
+333,Kjellestadsgatan,gatan
+334,Nordenskiöldsgatan,gatan
+335,Järntorget,torget
+336,Stora Dammenstigen,other
+337,Slottsskogspromenaden,other
+338,A O Elliots Väg,other
+339,Fågeldammsvägen,vägen
+340,Museivägen,vägen
+341,Björngårdsvägen,vägen
+342,Hålekärrsbacken,backen
+343,August Kobbs stig,other
+344,Björn Hedvalls stig,other
+345,Dufvas backe,other
+346,Säldammsbacken,backen
+347,Vedbacken,backen
+348,Bragestigen,other
+349,Linnéplatsen,other
+350,Rosengatan,gatan
+351,Linnégatan,gatan
+352,Kämpegatan,gatan
+353,Djurgårdsgatan,gatan
+354,Fiskhamnsmotet,motet
+355,Fiskhamnsgatan,gatan
+356,Kolumbusgatan,gatan
+357,Amiralitetsgatan,gatan
+358,Kommendörsgatan,gatan
+359,Dahlströmsgatan,gatan
+360,Fredbergsgatan,gatan
+361,Amerikagatan,gatan
+362,Oljekvarnsgatan,gatan
+363,Stenklevsgatan,gatan
+364,Koopmansgatan,gatan
+365,Stigbergstorget,torget
+366,Allmänna vägen,vägen
+367,Pölgatan,gatan
+368,Gamla Varvsgatan,gatan
+369,Karl Johansgatan,gatan
+370,Delawaregatan,gatan
+371,Djurgårdsplatsen,other
+372,Vargögatan,gatan
+373,Haråsgatan,gatan
+374,Kaptensgatan,gatan
+375,Klareborgsgatan,gatan
+376,Standargatan,gatan
+377,Ankargatan,gatan
+378,Skeppsgossegatan,gatan
+379,Mors backe,other
+380,Paternostergatan,gatan
+381,Såggatan,gatan
+382,Kabyssgatan,gatan
+383,Toppsegelsgatan,gatan
+384,Godhemsplatsen,other
+385,Tellgrensgatan,gatan
+386,Galateagatan,gatan
+387,Krukmakaregatan,gatan
+388,Mariebergsgatan,gatan
+389,Lotsgatan,gatan
+390,Styrmansgatan,gatan
+391,Godhemsgatan,gatan
+392,Ärlegatan,gatan
+393,Kabelgatan,gatan
+394,Kravellgatan,gatan
+395,Vantgatan,gatan
+396,Stortoppsgatan,gatan
+397,Kustgatan,gatan
+398,Blåsutgatan,gatan
+399,Seglaregatan,gatan
+400,Smålandsgatan,gatan
+401,Västgötagatan,gatan
+402,Hallandsgatan,gatan
+403,Wadmansgatan,gatan
+404,Hedåsgatan,gatan
+405,Gärdsåsgatan,gatan
+406,Sjustjärnan,other
+407,Rappedalsvägen,vägen
+408,Rannebergsvägen,vägen
+409,Persiljegatan,gatan
+410,Rosmaringatan,gatan
+411,Paprikagatan,gatan
+412,Körvelgatan,gatan
+413,Mejramgatan,gatan
+414,Anisgatan,gatan
+415,Kryddnejlikegatan,gatan
+416,Kryddpeppargatan,gatan
+417,Kummingatan,gatan
+418,Svarte Filips gata,gatan
+419,Teleskopgatan,gatan
+420,Sandspåret,other
+421,Siriusbacken,backen
+422,Olof Rudbecksgatan,gatan
+423,Härlandavägen,vägen
+424,Lugnet,other
+425,Gatsmygen,other
+426,Kungsladugårdsgatan,gatan
+427,Bokekullsgatan,gatan
+428,Skäpplandsgatan,gatan
+429,Landskapsstugevägen,vägen
+430,Lilla Dammpromenaden,other
+431,Björngårdsängen,other
+432,Mjölkebacksstigen,other
+433,Flaggatan,gatan
+434,Polstjärnegatan,gatan
+435,Stenbocksgatan,gatan
+436,Cronackersgatan,gatan
+437,Stålhandskegatan,gatan
+438,Säterigatan,gatan
+439,Åbogårdsgatan,gatan
+440,Mörnersgatan,gatan
+441,Prästvägen,vägen
+442,Solskiftesgatan,gatan
+443,Trekantsgatan,gatan
+444,Kalendervägen,vägen
+445,Vårmånadsgatan,gatan
+446,Siriusgatan,gatan
+447,Lilla Björn,other
+448,Björnväktarens gata,gatan
+449,Orion,other
+450,Kvibergs Broväg,vägen
+451,von Utfallsgatan,gatan
+452,Sävenäsleden,leden
+453,Kvibergsvägen,vägen
+454,Runstavsgatan,gatan
+455,Slakthusgatan,gatan
+456,Marieholmsgatan,gatan
+457,Institutsgatan,gatan
+458,Burgårdsplatsen,other
+459,Richertsgatan,gatan
+460,Valhallabron,other
+461,Odinsplatsen,other
+462,Polhemsplatsen,other
+463,Åkareplatsen,other
+464,Eva Rodhes Gata,gatan
+465,Adler Salvius Gata,gatan
+466,Barnhusgatan,gatan
+467,Burggreveplatsen,other
+468,Färgaregatan,gatan
+469,Folkungagatan,gatan
+470,Baldersgatan,gatan
+471,Stampgatan,gatan
+472,Baldersplatsen,other
+473,Burggrevegatan,gatan
+474,Alströmergatan,gatan
+475,Svingeln,other
+476,Bältgatan,gatan
+477,Norra Ågatan,gatan
+478,Almqvists Bro,other
+479,Garverigatan,gatan
+480,Lilla Garverigatan,gatan
+481,Redbergsvägen,vägen
+482,Gullbergsbrogatan,gatan
+483,Bauersgatan,gatan
+484,Kobbarnas Väg,other
+485,Lagerströmsplatsen,other
+486,Norra Gubberogatan,gatan
+487,Södra Gubberogatan,gatan
+488,Willinsbron,other
+489,Källhusgatan,gatan
+490,Vestagatan,gatan
+491,Venusgatan,gatan
+492,Norra Kustbanegatan,gatan
+493,Ullevigatan,gatan
+494,Rantorget,torget
+495,Johan Willins Gata,gatan
+496,Smedmästare Karlssons Gångväg,vägen
+497,Lilla Stampgatan,gatan
+498,Drakegatan,gatan
+499,Gårdavägen,vägen
+500,Åvägen,vägen
+501,Gårdatorget,torget
+502,Johan på Gårdas Gata,gatan
+503,Vädursgatan,gatan
+504,Blekeallén,other
+505,Tomtegatan,gatan
+506,Tritongatan,gatan
+507,Gudmundsgatan,gatan
+508,Underåsgatan,gatan
+509,Sven Rydells gata,gatan
+510,Burgårdsgatan,gatan
+511,Elfrida Andrées Gata,gatan
+512,Plejadgatan,gatan
+513,Förmansgatan,gatan
+514,Plåtslagaregatan,gatan
+515,Fridhemsgatan,gatan
+516,Grimmeredsvägen,vägen
+517,Tonhöjdsgatan,gatan
+518,Bohusgatan,gatan
+519,Årstidsgatan,gatan
+520,Rödstensvägen,vägen
+521,Kattholmsvägen,vägen
+522,Trebänavägen,vägen
+523,Astronomgatan,gatan
+524,Tycho Brahes Gata,gatan
+525,Keplers gata,gatan
+526,Danska Vägen,other
+527,Stafettgatan,gatan
+528,Syster Estrids Gata,gatan
+529,Doktor Lindhs Gata,gatan
+530,Atmosfärgatan,gatan
+531,Stratosfärgatan,gatan
+532,Bergsjöbadet,other
+533,Universumsbacken,backen
+534,Kosmosgatan,gatan
+535,Universumsgatan,gatan
+536,Zenitgatan,gatan
+537,Kometgatan,gatan
+538,Komettorget,torget
+539,Nebulosagatan,gatan
+540,Meteorgatan,gatan
+541,Saturnusgatan,gatan
+542,Plutovägen,vägen
+543,Stjärnbildsbacken,backen
+544,Flygfältsgatan,gatan
+545,Flygledarevägen,vägen
+546,Pianogatan,gatan
+547,Göteborgsvägen,vägen
+548,Smörslottsgatan,gatan
+549,Västra Skansgatan,gatan
+550,Mellangatan,gatan
+551,Frigångsgatan,gatan
+552,Lilla Bergsgatan,gatan
+553,Carl Grimbergsgatan,gatan
+554,Spekebergsgatan,gatan
+555,Medicinaregatan,gatan
+556,Bruksgatan,gatan
+557,Lilla Risåsgatan,gatan
+558,Sveagatan,gatan
+559,Carl Johans Kyrkoplan,other
+560,Vänmötet,other
+561,Stjernsköldsgatan,gatan
+562,Kålgårdsgatan,gatan
+563,Klintens väg,vägen
+564,Sundshagsgatan,gatan
+565,Skytteskogsgatan,gatan
+566,Slottsskrivaregatan,gatan
+567,Guvernörsgatan,gatan
+568,Conricusgatan,gatan
+569,Sandeklevsbacken,backen
+570,Stjärnbildsgatan,gatan
+571,Liljeforsgatan,gatan
+572,Gröndalsgatan,gatan
+573,Doktor Weltzins Gata,gatan
+574,Finn Malmgrensgatan,gatan
+575,Åkerlingsgatan,gatan
+576,Töpelsgatan,gatan
+577,Brudaremossen,other
+578,Olbersgatan,gatan
+579,Dybecksgatan,gatan
+580,Förtroligheten,other
+581,Olof Skötkonungsgatan,gatan
+582,Robertshöjdsgatan,gatan
+583,Engdahlsgatan,gatan
+584,Smidesgatan,gatan
+585,Galvaniseringsgatan,gatan
+586,Stenkolsgatan,gatan
+587,Kolgruvegatan,gatan
+588,Manufakturgatan,gatan
+589,Kalkbruksgatan,gatan
+590,Stålverksgatan,gatan
+591,Järnmalmsgatan,gatan
+592,Lergodsgatan,gatan
+593,Bankogatan,gatan
+594,Skiljemyntsgatan,gatan
+595,Lilla Kapplandsgatan,gatan
+596,Kullegatan,gatan
+597,Grågåsgatan,gatan
+598,Dalgångsgatan,gatan
+599,Lindströmsgatan,gatan
+600,Stenhuggaregatan,gatan
+601,Hultgrensgatan,gatan
+602,Bergsprängaregatan,gatan
+603,Pilbågsgatan,gatan
+604,Brushanegatan,gatan
+605,Formskäraregatan,gatan
+606,Schaktmästaregatan,gatan
+607,Doktor Allards Gata,gatan
+608,Östra Gunnesgärde,other
+609,Västra Gunnesgärde,other
+610,Gunnestorpsvägen,vägen
+611,Lilleskogsvägen,vägen
+612,Norumsgärde,other
+613,Norra Stenebyvägen,vägen
+614,Tångedal,other
+615,Amund Grefwegatan,gatan
+616,Landalagatan,gatan
+617,Holtermansgatan,gatan
+618,Daniel Petterssons gata,gatan
+619,Raketgatan,gatan
+620,Dalheimersgatan,gatan
+621,Hildedalsgatan,gatan
+622,Södra Hildedalsgatan,gatan
+623,Finlandsvägen,vägen
+624,Kjellbergsgatan,gatan
+625,Pontus Wiknersgatan,gatan
+626,Ålandsgatan,gatan
+627,Lennart Torstenssonsgatan,gatan
+628,Högåsplatsen,other
+629,Högåstrappan,other
+630,Ekmansgatan,gatan
+631,Soterusgatan,gatan
+632,Helmutsrogatan,gatan
+633,Drivhusgatan,gatan
+634,Egnahemsvägen,vägen
+635,Kolonigatan,gatan
+636,Rosensköldsgatan,gatan
+637,Spaldingsgatan,gatan
+638,Örnehufvudsgatan,gatan
+639,von Gerdesgatan,gatan
+640,Säve Flygplatsväg,vägen
+641,Tideräkningsgatan,gatan
+642,Wieselgrensgatan,gatan
+643,Eketrägatan,gatan
+644,Kyrkbytorget,torget
+645,Badvädersgatan,gatan
+646,Svartedalsgatan,gatan
+647,Långströmsgatan,gatan
+648,Solstrålegatan,gatan
+649,Norra Fjädermolnsgatan,gatan
+650,Varmfrontsgatan,gatan
+651,Rimfrostgatan,gatan
+652,Temperaturgatan,gatan
+653,Bernhards Gränd,other
+654,Södra Fjädermolnsgatan,gatan
+655,Orustgatan,gatan
+656,Chapmansgatan,gatan
+657,Kusttorget,torget
+658,Utlandagatan,gatan
+659,Saltholmsgatan,gatan
+660,Doktor Sven Johanssons Backe,other
+661,Petrifängsgatan,gatan
+662,Petterkattsgatan,gatan
+663,Decembergatan,gatan
+664,Allhelgonagatan,gatan
+665,Adventsvägen,vägen
+666,Tusenårsgatan,gatan
+667,Doktor Saléns gata,gatan
+668,Doktor Fries Torg,other
+669,Mossgatan,gatan
+670,Doktor Belfrages gata,gatan
+671,Ängemarken,other
+672,Lövskogsgatan,gatan
+673,Fanny Gréns Väg,other
+674,Södermalmsgatan,gatan
+675,Gränsgatan,gatan
+676,Askims Pilegårdsväg,vägen
+677,Lilla Pusterviksgatan,gatan
+678,Pusterviksgatan,gatan
+679,Brogatan,gatan
+680,Aschebergsgatan,gatan
+681,Kapellplatsen,other
+682,Kapellgatan,gatan
+683,Borraregatan,gatan
+684,Ängkärrsvägen,vägen
+685,Kusttorgsmotet,motet
+686,Delsjövägen,vägen
+687,Hundraårsgatan,gatan
+688,Halvsekelsgatan,gatan
+689,Kamgatan,gatan
+690,Slåttängsgatan,gatan
+691,Karin Boyes Gata,gatan
+692,Aröds Industriväg,vägen
+693,Hovåsvägen,vägen
+694,Verkmästaregatan,gatan
+695,Lindholmsvägen,vägen
+696,Miraallén,other
+697,Arbetaregatan,gatan
+698,Gjutaregatan,gatan
+699,Gamla Ceresgatan,gatan
+700,Polluxgatan,gatan
+701,Kastorsgatan,gatan
+702,Slottsberget,other
+703,Dockpromenaden,other
+704,Svaleboskogen,other
+705,Skalskärsgatan,gatan
+706,Södra Fiskebäcksvägen,vägen
+707,Norra Flundregatan,gatan
+708,Rasmusgården,other
+709,Klövervallsgatan,gatan
+710,Slättadammsgatan,gatan
+711,Kungsportsavenyen,other
+712,Södra Hamngatan,gatan
+713,Norra Deltavägen,vägen
+714,Deltavägen,vägen
+715,Swedenborgsgatan,gatan
+716,Backavägen,vägen
+717,Södra Deltavägen,vägen
+718,Västra Magårdsvägen,vägen
+719,Färgfabriksgatan,gatan
+720,Rundbäcksgatan,gatan
+721,Långängen,other
+722,Tingstadsvägen,vägen
+723,Stora Arödsgatan,gatan
+724,Tofsvipegatan,gatan
+725,Kornknarrsgatan,gatan
+726,Steglitsegatan,gatan
+727,Svalegatan,gatan
+728,Västra Arödsgatan,gatan
+729,Lilla Arödsgatan,gatan
+730,Ormbunkegatan,gatan
+731,Törnsångaregatan,gatan
+732,Gamla Böneredsvägen,vägen
+733,Nortagenevägen,vägen
+734,Böneredsgången,other
+735,Ellesbovägen,vägen
+736,Rösbovägen,vägen
+737,Chalmers Tvärgata,gatan
+738,Gibraltarvallsvägen,vägen
+739,Origovägen,vägen
+740,Furuplatsen,other
+741,Fyrverkaregatan,gatan
+742,Egnahemsplatsen,other
+743,Hedlundsgatan,gatan
+744,Ljusstöparegatan,gatan
+745,Skiljebacken,backen
+746,Tyrsjöliden,other
+747,Tyrsjövägen,vägen
+748,Kniparedsvägen,vägen
+749,Rågårdsvägen,vägen
+750,Lövmossevägen,vägen
+751,Varpmossevägen,vägen
+752,Tåledsvägen,vägen
+753,Björkuddsgatan,gatan
+754,Hammarliden,other
+755,Ingatorpsgatan,gatan
+756,Tapetseraregatan,gatan
+757,Doktor Dahlströms Gata,gatan
+758,Bergsjödalen,other
+759,Korpvägen,vägen
+760,Angereds Storåsväg,vägen
+761,Storås Industrigata,gatan
+762,Spadegatan,gatan
+763,Grusåsvägen,vägen
+764,Hammarkullens väg,vägen
+765,Storås Ridhusväg,vägen
+766,Ekevadsvägen,vägen
+767,Linnarhultsvägen,vägen
+768,Nolängsvägen,vägen
+769,Gretas Gata,gatan
+770,Nedre Linnarhultsvägen,vägen
+771,Åliden,other
+772,Åbranten,other
+773,Åkanten,other
+774,Åstranden,other
+775,Åbrinken,other
+776,Åkroken,other
+777,Ostgatan,gatan
+778,Smörgatan,gatan
+779,Kallebäcks källväg,vägen
+780,Kallebäcksvägen,vägen
+781,Omvägen,vägen
+782,Grafiska Vägen,other
+783,Varbergsgatan,gatan
+784,Falkenbergsgatan,gatan
+785,Brynolfsgatan,gatan
+786,Mäster Bengtsgatan,gatan
+787,Österlyckan,other
+788,Jättekullegatan,gatan
+789,Orrebacksgatan,gatan
+790,Torpagatan,gatan
+791,Spelmansgatan,gatan
+792,Gyllenkrooksgatan,gatan
+793,Vidblicksgatan,gatan
+794,Wijkandersgatan,gatan
+795,Walleriusgatan,gatan
+796,Palmstedtsgatan,gatan
+797,Kortvågsgatan,gatan
+798,Mellanvågsgatan,gatan
+799,Markvågsgatan,gatan
+800,Bandfiltersgatan,gatan
+801,Elektrongatan,gatan
+802,Örlogsvägen,vägen
+803,Örnfelts Väg,other
+804,Traneredsvägen,vägen
+805,Bergakärrsgatan,gatan
+806,Redegatan,gatan
+807,Södra Vägen,other
+808,Levgrensvägen,vägen
+809,Mackliersgatan,gatan
+810,Golvläggaregatan,gatan
+811,Lillåsgatan,gatan
+812,Pärt-Antons gata,gatan
+813,Solvändsgatan,gatan
+814,Annedals Trappor,other
+815,Skeppsbron,other
+816,Ögonmåttsgatan,gatan
+817,Stenkastsgatan,gatan
+818,Synhållsgatan,gatan
+819,Verktumsgatan,gatan
+820,Vitlinggatan,gatan
+821,Bergskäddegatan,gatan
+822,Lillövägen,vägen
+823,Sikgatan,gatan
+824,Abborregatan,gatan
+825,Amalia Jönssons gata,gatan
+826,Britta Sahlgrens gata,gatan
+827,Hulda Lindgrens gata,gatan
+828,Beatrice Lesslies gata,gatan
+829,Västra Stationsvägen,vägen
+830,Värslevägen,vägen
+831,Långlyckevägen,vägen
+832,Älvdansvägen,vägen
+833,Askims Kyrkväg,vägen
+834,Askims Svedjeväg,vägen
+835,Trollängsvägen,vägen
+836,Landhöjningsvägen,vägen
+837,Hovås Länsmansväg,vägen
+838,Stegebergsvägen,vägen
+839,Anders Zornsgatan,gatan
+840,Albert Engströmsgatan,gatan
+841,Månskäregatan,gatan
+842,Brödragatan,gatan
+843,Bäfverfeltsgatan,gatan
+844,Kopparormsgatan,gatan
+845,Skillnadsgatan,gatan
+846,Prästgårdsgatan,gatan
+847,Lövängsgatan,gatan
+848,Claessonsgatan,gatan
+849,Welandergatan,gatan
+850,Norströmsgatan,gatan
+851,Birkagatan,gatan
+852,Riddaregatan,gatan
+853,Friarelyckan,other
+854,Svankällevägen,vägen
+855,Gerrebacken,backen
+856,Krattskogsvägen,vägen
+857,Töltvägen,vägen
+858,Travarevägen,vägen
+859,Mobergets väg,vägen
+860,Smöjträvägen,vägen
+861,Draghästvägen,vägen
+862,Ridhästvägen,vägen
+863,Södra Stallbacken,backen
+864,Bruntebacken,backen
+865,Lilla Sabbatsvägen,vägen
+866,Svankälleliden,other
+867,Mysternavägen,vägen
+868,Lilla Mysternavägen,vägen
+869,Högmossevägen,vägen
+870,Ingåsvägen,vägen
+871,Laggvägen,vägen
+872,Mystängen,other
+873,Ponnybacken,backen
+874,Fjordhästvägen,vägen
+875,Fyrspannvägen,vägen
+876,Fyrspannsvägen,vägen
+877,Prilyckegatan,gatan
+878,Lillekärr Södra,other
+879,Kärravägen,vägen
+880,Fredholmsgatan,gatan
+881,Kärra Kapellväg,vägen
+882,Transportgatan,gatan
+883,Lerskäddegatan,gatan
+884,Persgatan,gatan
+885,Vävlagaregatan,gatan
+886,Sankt Pauligatan,gatan
+887,Lundgatan,gatan
+888,Mäster Johansgatan,gatan
+889,Svensksundsgatan,gatan
+890,Svenslyckegatan,gatan
+891,Rödtungegatan,gatan
+892,Källängsgatan,gatan
+893,Piggvarsgatan,gatan
+894,Rödingsgatan,gatan
+895,Lagmansgatan,gatan
+896,Segerlindsgatan,gatan
+897,Råstensgatan,gatan
+898,Tingvallsvägen,vägen
+899,Kaggeledsgatan,gatan
+900,Kaggeledsbacken,backen
+901,Uddeholmsgatan,gatan
+902,Bogärdesgatan,gatan
+903,Nedergårdsgatan,gatan
+904,Sparrgrensgatan,gatan
+905,Hästhovsgatan,gatan
+906,Hällskriftsgatan,gatan
+907,Karl Staaffsgatan,gatan
+908,Scholandersgatan,gatan
+909,Toleredsgatan,gatan
+910,Fjällviolen,other
+911,Fjällveronikan,other
+912,Fjällsyran,other
+913,Fjällsippan,other
+914,Fjällnejlikan,other
+915,Fjällkåpan,other
+916,Fjällhavren,other
+917,Fjällgrönan,other
+918,Fjällbruden,other
+919,Mölnesjögatan,gatan
+920,Fjällblomman,other
+921,Fjällbinkan,other
+922,Titteridammshöjden,other
+923,Höstvädersgatan,gatan
+924,Blidvädersgatan,gatan
+925,Stormvädersgatan,gatan
+926,Regnvädersgatan,gatan
+927,Vårvädersgatan,gatan
+928,Snövädersgatan,gatan
+929,Solrosgatan,gatan
+930,Byfogdegatan,gatan
+931,Lemmingsgatan,gatan
+932,Björcksgatan,gatan
+933,Hultebacken,backen
+934,Lillatorpsgatan,gatan
+935,Kvarngärdesgatan,gatan
+936,Bäckeliden,other
+937,Olshammarsgatan,gatan
+938,Båtsman Hisings Gata,gatan
+939,Burmans Gata,gatan
+940,Von Seths Gata,gatan
+941,Novembergatan,gatan
+942,Oktobergatan,gatan
+943,Junigatan,gatan
+944,Augustigatan,gatan
+945,Aprilgatan,gatan
+946,Gräsmånadsgatan,gatan
+947,Hömånadsgatan,gatan
+948,Julaftonsgatan,gatan
+949,Morgongatan,gatan
+950,Skymningsgatan,gatan
+951,Annandagsgatan,gatan
+952,Brittsommargatan,gatan
+953,Planetgatan,gatan
+954,Valdemar Noréns Gata,gatan
+955,Askims Verkstadsväg,vägen
+956,Hantverksvägen,vägen
+957,Kobbegården,other
+958,Kobbeslätten,other
+959,Maskingränd,gränd
+960,Hörsalsvägen,vägen
+961,Flöjtgatan,gatan
+962,Angeredsleden,leden
+963,Trollhätteleden,leden
+964,Sankt Sigfrids Plan,other
+965,Orangerigatan,gatan
+966,Spaljégången,other
+967,Överåsgatan,gatan
+968,Carlbergsgatan,gatan
+969,Prospect Hillgatan,gatan
+970,Prytzgatan,gatan
+971,Rangeltorpsgatan,gatan
+972,Margretelundsgatan,gatan
+973,Drakenbergsgatan,gatan
+974,Ovädersgatan,gatan
+975,Ellesbobacken,backen
+976,Rödbo Löparegata,gatan
+977,Rödbo Idrottsgata,gatan
+978,Rödbo Stafettgata,gatan
+979,Jordfallsbron,other
+980,Lilla Kongahällavägen,vägen
+981,Lantmilsgatan,gatan
+982,Skogsmilsgatan,gatan
+983,Fjärdingsgatan,gatan
+984,Blåklockegatan,gatan
+985,Gamla Björlandavägen,vägen
+986,Gullrisgatan,gatan
+987,Björnsonsgatan,gatan
+988,Ibsensgatan,gatan
+989,Magnetgatan,gatan
+990,Generatorsgatan,gatan
+991,Ångpannegatan,gatan
+992,Turbingatan,gatan
+993,Fredsbron,other
+994,Kryddhyllan,other
+995,Kanelgatan,gatan
+996,Timjansgatan,gatan
+997,Pimpinellagatan,gatan
+998,Malörtsgatan,gatan
+999,Salviagatan,gatan
+1000,Kryddvägen,vägen
+1001,Ingefärsgatan,gatan
+1002,Röhssgatan,gatan
+1003,Bärby korsväg,vägen
+1004,Säve stationsväg,vägen
+1005,Snarberget,other
+1006,Tångelund,other
+1007,Tångenvägen,vägen
+1008,Tångengården,other
+1009,Hedelundsvägen,vägen
+1010,Almhöjdsvägen,vägen
+1011,Kålsängegatan,gatan
+1012,Petters Hage,other
+1013,Glöstorpsvägen,vägen
+1014,Ankarhjelmsvägen,vägen
+1015,Nostravägen,vägen
+1016,Åslyckevägen,vägen
+1017,Utängarna,other
+1018,Ekehagsvägen,vägen
+1019,Ängstuvevägen,vägen
+1020,Ängstigen,other
+1021,Mosstuvevägen,vägen
+1022,Floravägen,vägen
+1023,Håkansdal,other
+1024,Hagelidsvägen,vägen
+1025,Silverfyndsvägen,vägen
+1026,Gunnestorps bygata,gatan
+1027,Strandskärsvägen,vägen
+1028,Tonfiskgatan,gatan
+1029,Sjötungegatan,gatan
+1030,Bergtungegatan,gatan
+1031,Backadalen,other
+1032,Lisa Sass Gata,gatan
+1033,Mötesplatsen,other
+1034,Vallpojksgatan,gatan
+1035,Stängselgatan,gatan
+1036,Fögderigatan,gatan
+1037,Tubogatan,gatan
+1038,Nordanvindsgatan,gatan
+1039,Kultjegatan,gatan
+1040,Anna Lesselsgatan,gatan
+1041,Foderbetsgatan,gatan
+1042,Tröskaregatan,gatan
+1043,Teologgatan,gatan
+1044,Monteliusgatan,gatan
+1045,Sehlstedtsgatan,gatan
+1046,Bååthsgatan,gatan
+1047,Fryxellsgatan,gatan
+1048,Harald Hjärnesgatan,gatan
+1049,Gästgivaregatan,gatan
+1050,Kopparslagaregatan,gatan
+1051,Volrat Thamsgatan,gatan
+1052,Wallenbergsgatan,gatan
+1053,Vedhuggargatan,gatan
+1054,Högströmsgatan,gatan
+1055,Solgårdsgatan,gatan
+1056,Glasmästaregatan,gatan
+1057,Solhusgatan,gatan
+1058,Bredfjällsgatan,gatan
+1059,Västerslänt,other
+1060,Villavallen,other
+1061,Blixtgatan,gatan
+1062,Sandeslättskroken,other
+1063,Hammarkroken,other
+1064,Kungsbackagatan,gatan
+1065,Söderbergsgatan,gatan
+1066,Tyggårdsgatan,gatan
+1067,Gustaf Adolfs Torg,other
+1068,Nedre Kvarnbergsgatan,gatan
+1069,Övre Spannmålsgatan,gatan
+1070,Mjölnaregatan,gatan
+1071,Mätaregatan,gatan
+1072,Tyska Bron,other
+1073,Spannmålsgatan,gatan
+1074,Ahrenbergsgatan,gatan
+1075,Ernst Torulfsgatan,gatan
+1076,Lydinghielmsgatan,gatan
+1077,Bromeliusgatan,gatan
+1078,Zachrissonsgatan,gatan
+1079,Fräntorpsgatan,gatan
+1080,Hembyggarevägen,vägen
+1081,Hemgärdesvägen,vägen
+1082,Brattåskärrsvägen,vägen
+1083,Rothvallsvägen,vägen
+1084,Sörgårdsvägen,vägen
+1085,Svartåvägen,vägen
+1086,Viskavägen,vägen
+1087,Hämplingevägen,vägen
+1088,Rödhakevägen,vägen
+1089,Kullegårdsvägen,vägen
+1090,Koltrastvägen,vägen
+1091,Saras väg,vägen
+1092,Hallens väg,vägen
+1093,Mimmis väg,vägen
+1094,Karins väg,vägen
+1095,Bergums Prästgårdsväg,vägen
+1096,Björkkullavägen,vägen
+1097,Grönkullavägen,vägen
+1098,Solkullavägen,vägen
+1099,Högrells Väg,other
+1100,Olofstorps Skolväg,vägen
+1101,Olofstorpsvägen,vägen
+1102,Bergkullavägen,vägen
+1103,Småkulla Gärde,other
+1104,Småkulla Hage,other
+1105,Småkullavägen,vägen
+1106,Övre Husargatan,gatan
+1107,Sjömärkesstigen,other
+1108,Ruskpricksvägen,vägen
+1109,Kvastpricksvägen,vägen
+1110,Luxus stig,other
+1111,Sjömärkesvägen,vägen
+1112,Slätpricksvägen,vägen
+1113,Fyrlyktevägen,vägen
+1114,Släggaregatan,gatan
+1115,Kunskapsgatan,gatan
+1116,Lärdomsgatan,gatan
+1117,Mattssonsliden,other
+1118,Skepparegången,other
+1119,Långavallsgatan,gatan
+1120,Klockbojsvägen,vägen
+1121,Skalkorgarna,other
+1122,Vinga fyrs Väg,other
+1123,Långrevsvägen,vägen
+1124,Norra hjuviksvägen,vägen
+1125,Spinnspövägen,vägen
+1126,Järnvågsgatan,gatan
+1127,Oscarsleden,leden
+1128,Andréegatan,gatan
+1129,Aprikosgatan,gatan
+1130,Melongatan,gatan
+1131,Wärnsköldsgatan,gatan
+1132,Älvsborgsplan,other
+1133,Kabbeleksgatan,gatan
+1134,Peter Bagges Gata,gatan
+1135,Gröna Vallen,other
+1136,Krokebacksgatan,gatan
+1137,Skogslundsgatan,gatan
+1138,Birger Jarlsgatan,gatan
+1139,Lilla Fridhemsgatan,gatan
+1140,Emigrantvägen,vägen
+1141,Olof Strålegatan,gatan
+1142,Strandridaregatan,gatan
+1143,Kennedygatan,gatan
+1144,Stilla gatan,gatan
+1145,Sannaplan,other
+1146,Slätvarsgatan,gatan
+1147,Oxhagsgatan,gatan
+1148,Fågelfängaregatan,gatan
+1149,Gröna gatan,gatan
+1150,Jordhyttegatan,gatan
+1151,Styrsögatan,gatan
+1152,Asperögatan,gatan
+1153,Öckerögatan,gatan
+1154,Donsögatan,gatan
+1155,Brännögatan,gatan
+1156,Bankebergsgatan,gatan
+1157,Strandvägen,vägen
+1158,Södra Flundregatan,gatan
+1159,Majgatan,gatan
+1160,Snäckvägen,vägen
+1161,Tranegatan,gatan
+1162,Hägergatan,gatan
+1163,Långlandia,other
+1164,Grötöplatsen,other
+1165,Knipplagatan,gatan
+1166,Sven Brolids Väg,other
+1167,Varholmsgatan,gatan
+1168,Hjärtholmsvägen,vägen
+1169,Klintens Trappor,other
+1170,Klarebergsmotet,motet
+1171,Lillhagsparken,other
+1172,Solslättsvägen,vägen
+1173,Arvid Lindmansgatan,gatan
+1174,Danagatan,gatan
+1175,Pilegårdsgatan,gatan
+1176,Danaplatsen,other
+1177,Blåvalsgatan,gatan
+1178,Johannes Ivarssons Väg,other
+1179,Röds Bygata,gatan
+1180,Röds Ängar,other
+1181,Spårekärrsgatan,gatan
+1182,Röds Sörgård,other
+1183,Röds Lekevall,other
+1184,Röds Merkuriusstig,other
+1185,Röds Junostig,other
+1186,Bulycke Gård,other
+1187,Lantvärnsgatan,gatan
+1188,Otterklintsvägen,vägen
+1189,Älvsborgsbron,other
+1190,Kantyxegatan,gatan
+1191,Marholmsvägen,vägen
+1192,Smithska vägen,vägen
+1193,Norra Breviksvägen,vägen
+1194,Hängestensdalen,other
+1195,Hällsviksvägen,vägen
+1196,Västra Midvintersgatan,gatan
+1197,Söndagsgatan,gatan
+1198,Lövmånadsgatan,gatan
+1199,Halliden,other
+1200,Gåsmossevägen,vägen
+1201,Bagaregårdsgatan,gatan
+1202,Falkgatan,gatan
+1203,Ernst Kristenssons gata,gatan
+1204,Brunkebergsgatan,gatan
+1205,Lyckåsvägen,vägen
+1206,Äsperedsgatan,gatan
+1207,Lilla Holmen,other
+1208,Stora Holmen,other
+1209,Äspereds Skogsväg,vägen
+1210,Vippärtsvägen,vägen
+1211,Väderutsikten,other
+1212,Ruskvädersgatan,gatan
+1213,Åskvädersgatan,gatan
+1214,Hagelvädersgatan,gatan
+1215,Bensinvägen,vägen
+1216,Tankgatan,gatan
+1217,Hults gata,gatan
+1218,Askims Sörgårdsväg,vägen
+1219,Askims Sävstig,other
+1220,Stockåkersvägen,vägen
+1221,Askims Hovslagareväg,vägen
+1222,Askims Ängåsstig,other
+1223,Askims Kyrkåsväg,vägen
+1224,Askims Ängsväg,vägen
+1225,Solliden,other
+1226,Lekullevägen,vägen
+1227,Hovås Ekorrstig,other
+1228,Hovås Bronsåldersväg,vägen
+1229,Golfbanevägen,vägen
+1230,Gärdesvägen,vägen
+1231,Kålgården,other
+1232,Hedens väg,vägen
+1233,Hedens äng,other
+1234,Långefjällsgatan,gatan
+1235,Geteryggsgatan,gatan
+1236,Gamla Boråsvägen,vägen
+1237,Sågspånsgatan,gatan
+1238,Kutterspånsgatan,gatan
+1239,Hyvelspånsgatan,gatan
+1240,Barkspadesgatan,gatan
+1241,Hyvlaregatan,gatan
+1242,Björkekärrsgatan,gatan
+1243,Kärnvedsgatan,gatan
+1244,Törvedsgatan,gatan
+1245,Splintvedsgatan,gatan
+1246,Studiegången,other
+1247,Rödvedsgatan,gatan
+1248,Helgdagsgatan,gatan
+1249,Tisdagsgatan,gatan
+1250,Onsdagsgatan,gatan
+1251,Fastlagsgatan,gatan
+1252,Malmsjögatan,gatan
+1253,Kullagergatan,gatan
+1254,Brahegatan,gatan
+1255,Östra Midvintersgatan,gatan
+1256,Lördagsgatan,gatan
+1257,Larsmässetorg,torget
+1258,Lärjehedsvägen,vägen
+1259,Nedre Hjällbogärdet,other
+1260,Nylösegatan,gatan
+1261,Måns Bryntessonsgatan,gatan
+1262,Ryttaregatan,gatan
+1263,Ambrosiusgatan,gatan
+1264,Trojenborgsplatsen,other
+1265,Björkrisvägen,vägen
+1266,Håbergsgatan,gatan
+1267,Gökevägen,vägen
+1268,Haletorpsvägen,vägen
+1269,Bergkantsvägen,vägen
+1270,Oxögedal,other
+1271,Oxerödsgatan,gatan
+1272,Wadköpingsgatan,gatan
+1273,Blendas Gata,gatan
+1274,Jacobs Gata,gatan
+1275,Prosten Ahlbergs Gata,gatan
+1276,Sunnerviksgatan,gatan
+1277,Gegerfeltsgatan,gatan
+1278,Vadstenagatan,gatan
+1279,Almstrandsgatan,gatan
+1280,Spantgatan,gatan
+1281,Skeppsbyggaregatan,gatan
+1282,Julias Gata,gatan
+1283,Hjalmar Bergmans Gata,gatan
+1284,Katjas Gata,gatan
+1285,Backa Strandgata,gatan
+1286,Rektor Rödings Gata,gatan
+1287,Ljungängsbacken,backen
+1288,Skänningegatan,gatan
+1289,Toredalsgatan,gatan
+1290,Munkedalsgatan,gatan
+1291,Tegskiftesgatan,gatan
+1292,Strömstadgatan,gatan
+1293,Östra Skärvallsgatan,gatan
+1294,Furåsen,other
+1295,Hönekullegatan,gatan
+1296,Ängsmaden,other
+1297,Älingebäcksvägen,vägen
+1298,Dockeredsbacken,backen
+1299,Dockeredsvägen,vägen
+1300,Torsgatan,gatan
+1301,Trollhättegatan,gatan
+1302,Lilla Klädpressaregatan,gatan
+1303,Hållstamsvägen,vägen
+1304,Granitvägen,vägen
+1305,Askims Myrstig,other
+1306,Kobbehallsvägen,vägen
+1307,Stenlavsvägen,vägen
+1308,Askims Röseväg,vägen
+1309,Bergtallsvägen,vägen
+1310,Askims Stenblocksväg,vägen
+1311,Alstigen,other
+1312,Högabergsvägen,vägen
+1313,Askims Urbergsväg,vägen
+1314,Askims Jättegrytsväg,vägen
+1315,Trollåsvägen,vägen
+1316,Askims Utsiktsväg,vägen
+1317,Bergstigen,other
+1318,Stenstigen,other
+1319,Myrbäcksvägen,vägen
+1320,Kläppestigen,other
+1321,Mystastigen,other
+1322,Övre Hägnavägen,vägen
+1323,Otterbäcksvägen,vägen
+1324,Nedre Hägnavägen,vägen
+1325,Askims Skytteväg,vägen
+1326,Askims Kvarnfallsväg,vägen
+1327,Askims Silverkälla,other
+1328,Askims Högalid,other
+1329,Lerduvevägen,vägen
+1330,Lerduveslingan,other
+1331,Kvarnliden,other
+1332,Skalldalsvägen,vägen
+1333,Skallgången,other
+1334,Jaktlyckan,other
+1335,Hovås Jägareväg,vägen
+1336,Lilla Hovåsvägen,vägen
+1337,Hovås Oxledsväg,vägen
+1338,Östra Kopparkärrsvägen,vägen
+1339,Hovås Liljestig,other
+1340,Hovås Videörtsstig,other
+1341,Hovås Vårlöksstig,other
+1342,Hovås Starrstig,other
+1343,Hovås Näckrosstig,other
+1344,Hovås Kärrviolsstig,other
+1345,Hovås Pilbladsstig,other
+1346,Hovås Kaveldunsstig,other
+1347,Hovås Kabbelekastig,other
+1348,Västra Kopparkärrsvägen,vägen
+1349,Årekärrsvägen,vägen
+1350,Oxforan,other
+1351,Hovås Enebärsgång,other
+1352,Hovås Kråkbärsgång,other
+1353,Hovås Nypongång,other
+1354,Hovås Odongång,other
+1355,Hovås Oxbärsgång,other
+1356,Hovås Slånbärsgång,other
+1357,Hovås Åkerbärsgång,other
+1358,Hovås Tranbärsgång,other
+1359,Hovås Snöbärsväg,vägen
+1360,Uggleåsvägen,vägen
+1361,Billdals Kyrkogårdsväg,vägen
+1362,Augustas väg,vägen
+1363,Ambjörnhagsvägen,vägen
+1364,Norra Lyckekärrsvägen,vägen
+1365,Billdals Kyrkväg,vägen
+1366,Säröbanan,other
+1367,Knektebacken,backen
+1368,Eklidsvägen,vägen
+1369,Kapten Klintons väg,vägen
+1370,Billdals Stationsväg,vägen
+1371,Knut Marks Väg,other
+1372,Johanneshusvägen,vägen
+1373,Hallekullevägen,vägen
+1374,Bassåsvägen,vägen
+1375,Sandåsen,other
+1376,Bäckslingan,other
+1377,Vidsundsvägen,vägen
+1378,Kofferdalsvägen,vägen
+1379,Knapehall,other
+1380,Sisjö Kullegata,gatan
+1381,Knapegårdsvägen,vägen
+1382,Ekonomivägen,vägen
+1383,Nergårdsvägen,vägen
+1384,Stockåkersplan,other
+1385,Hultsbrovägen,vägen
+1386,Tallboängen,other
+1387,Ryetvägen,vägen
+1388,Rävstigen,other
+1389,Hovås Lingonstig,other
+1390,Hovås Grävlingestig,other
+1391,Hovås Vassgång,other
+1392,Lövviksvägen,vägen
+1393,Klåva Gårdsväg,vägen
+1394,Hovås Herrgårdsväg,vägen
+1395,Hovås Sandkulleväg,vägen
+1396,Söndrevägen,vägen
+1397,Hovås Bautastensväg,vägen
+1398,Höjdvägen,vägen
+1399,Ryttarstigen,other
+1400,Kedjestigen,other
+1401,Granlidsvägen,vägen
+1402,Golfstigen,other
+1403,Wendels väg,vägen
+1404,Doktorsvägen,vägen
+1405,Hovås Ekåsväg,vägen
+1406,Smedvägen,vägen
+1407,Hovås Bäckastig,other
+1408,Fotspårsvägen,vägen
+1409,Sjövägen,vägen
+1410,Skålgropsvägen,vägen
+1411,Solhjulsvägen,vägen
+1412,Hovås Arkitektväg,vägen
+1413,Hovås Klintväg,vägen
+1414,Hovås Fasanstig,other
+1415,Linkuladalen,other
+1416,Övre Hövik,other
+1417,Nedre Hövik,other
+1418,Styrsö Sandviksbacke,other
+1419,Utterviksvägen,vägen
+1420,Lunnevägen,vägen
+1421,Sörängen,other
+1422,Ekudden,other
+1423,Brattenvägen,vägen
+1424,Skäretvägen,vägen
+1425,Styrsöbron,other
+1426,Stora Ängen,other
+1427,Halsviksängen,other
+1428,Amneviksvägen,vägen
+1429,Kolkärrsvägen,vägen
+1430,Styrsö Hamnväg,vägen
+1431,Långes gata,gatan
+1432,Brattenskogen,other
+1433,Madvägen,vägen
+1434,Småskärsvägen,vägen
+1435,Nordatlanten,other
+1436,Indiska Oceanen,other
+1437,Nordsjön,other
+1438,Kattegatt,other
+1439,Skagerack,other
+1440,Karl IX:s väg,vägen
+1441,Ceresgatan,gatan
+1442,Sannegårdsgatan,gatan
+1443,Gyssebergsvägen,vägen
+1444,Gålebergsvägen,vägen
+1445,Kvisteviksvägen,vägen
+1446,Korshamnsvägen,vägen
+1447,Skutviksvägen,vägen
+1448,Tjärtoftevägen,vägen
+1449,Körevägen,vägen
+1450,Hålvägen,vägen
+1451,Stuphålevägen,vägen
+1452,Asperö Kajväg,vägen
+1453,Fyra Uddars Väg,other
+1454,Asperö brygga,other
+1455,Källdalsvägen,vägen
+1456,Asperö Byväg,vägen
+1457,Tångebergsvägen,vägen
+1458,Doktor Bondesons gata,gatan
+1459,Doktor Billqvists gata,gatan
+1460,Christina Nilssons Gata,gatan
+1461,Vikingsgatan,gatan
+1462,Norra Sjöfarten,other
+1463,Lilla Badhusgatan,gatan
+1464,Oskarsgatan,gatan
+1465,Spannlandsgatan,gatan
+1466,Orgelgatan,gatan
+1467,Basungatan,gatan
+1468,Purpurgatan,gatan
+1469,Rödgatan,gatan
+1470,Brungatan,gatan
+1471,Hagkroksvägen,vägen
+1472,Klubbvägen,vägen
+1473,Landalabergen,other
+1474,Arendals Allé,other
+1475,Galileis Gata,gatan
+1476,Gärdsås Torg,other
+1477,Galaxgatan,gatan
+1478,Norrskensgatan,gatan
+1479,Merkuriusgatan,gatan
+1480,Tellusgatan,gatan
+1481,Rymdtorget,torget
+1482,Kvadrantgatan,gatan
+1483,Sockerbagaregatan,gatan
+1484,Perukmakaregatan,gatan
+1485,Ungmästaregatan,gatan
+1486,Drällvävaregatan,gatan
+1487,Remsnidaregatan,gatan
+1488,Olsmässogatan,gatan
+1489,Barefjällsgatan,gatan
+1490,Valborgsmässogatan,gatan
+1491,Burskapsgatan,gatan
+1492,Tornväktaregatan,gatan
+1493,Snörmakaregatan,gatan
+1494,Persmässogatan,gatan
+1495,Tenngjutaregatan,gatan
+1496,Fjällbogatan,gatan
+1497,Skorstensfejaregatan,gatan
+1498,Sadelmakaregatan,gatan
+1499,Grovsmedsgatan,gatan
+1500,Bokbindaregatan,gatan
+1501,Hattmakaregatan,gatan
+1502,Sporrmakaregatan,gatan
+1503,Svärdfejaregatan,gatan
+1504,Klensmedsgatan,gatan
+1505,Konstförvantsgatan,gatan
+1506,Herman Jonssonsgatan,gatan
+1507,Gelbgjutaregatan,gatan
+1508,Hovsmedsgatan,gatan
+1509,Österhedsgatan,gatan
+1510,Hindersmässogatan,gatan
+1511,Lärlingsgatan,gatan
+1512,Gesällgatan,gatan
+1513,Ungbrodersgatan,gatan
+1514,Urmakaregatan,gatan
+1515,Gillegatan,gatan
+1516,Hansebräckavägen,vägen
+1517,Björnbacken,backen
+1518,Radiomastgatan,gatan
+1519,Ettrörsgatan,gatan
+1520,Tvårörsgatan,gatan
+1521,Trerörsgatan,gatan
+1522,Fyrarörsgatan,gatan
+1523,Femrörsgatan,gatan
+1524,Åttarörsgatan,gatan
+1525,Sjurörsgatan,gatan
+1526,Sexrörsgatan,gatan
+1527,Radargatan,gatan
+1528,Järnbrotts Prästväg,vägen
+1529,Frölunda Kyrkogata,gatan
+1530,Södra Dragspelsgatan,gatan
+1531,Kortdistansgatan,gatan
+1532,Relägatan,gatan
+1533,Flygradiogatan,gatan
+1534,Jordledningsgatan,gatan
+1535,Sändaregatan,gatan
+1536,Mottagaregatan,gatan
+1537,Kristallgatan,gatan
+1538,Hörlursgatan,gatan
+1539,Förstärkaregatan,gatan
+1540,Högtalaregatan,gatan
+1541,Mikrofongatan,gatan
+1542,Modulatorsgatan,gatan
+1543,Televisionsgatan,gatan
+1544,Transistorgatan,gatan
+1545,Nymilsgatan,gatan
+1546,Svängrumsgatan,gatan
+1547,Orkestergatan,gatan
+1548,Saxofongatan,gatan
+1549,Klarinettgatan,gatan
+1550,Kaverös Äng,other
+1551,Fiolgatan,gatan
+1552,Gitarrgatan,gatan
+1553,Valthornsgatan,gatan
+1554,Speldosegatan,gatan
+1555,Munspelsgatan,gatan
+1556,Säckpipegatan,gatan
+1557,Kontrabasgatan,gatan
+1558,Altfiolgatan,gatan
+1559,Klangfärgsgatan,gatan
+1560,Kavåsvägen,vägen
+1561,Anna Östvägen,vägen
+1562,Vårstigen,other
+1563,Ingegärdsvägen,vägen
+1564,Stångebergsvägen,vägen
+1565,Pinnmovägen,vägen
+1566,Lonsegårdsvägen,vägen
+1567,Krokelyckan,other
+1568,Uppegårdsvägen,vägen
+1569,Trollvägen,vägen
+1570,Vretstigen,other
+1571,Uppegårdsliden,other
+1572,Getstigen,other
+1573,Klyfteråsvägen,vägen
+1574,Södra Sjöslingan,other
+1575,Lilliegatan,gatan
+1576,Överstegatan,gatan
+1577,Lilla Kärralundsgatan,gatan
+1578,Skårs led,other
+1579,Blekeslänten,other
+1580,Prebendegatan,gatan
+1581,Flygaregatan,gatan
+1582,Vårbroddsgatan,gatan
+1583,Estlandsgatan,gatan
+1584,Finlandsgatan,gatan
+1585,Hullgatan,gatan
+1586,Corneliusgatan,gatan
+1587,Londongatan,gatan
+1588,Bronsfatsgatan,gatan
+1589,Bronslursgatan,gatan
+1590,Bronsyxegatan,gatan
+1591,Torkelsgatan,gatan
+1592,Pärlstickaregatan,gatan
+1593,Stenströmsgatan,gatan
+1594,Modellörsgatan,gatan
+1595,Bågskyttestigen,other
+1596,Änggårdsgatan,gatan
+1597,Kroppåsstigen,other
+1598,Storängsgatan,gatan
+1599,Fyradalersgatan,gatan
+1600,Solbänksgatan,gatan
+1601,E A Rosengrens gata,gatan
+1602,Bäckedalsvägen,vägen
+1603,Hörnvägen,vägen
+1604,Bäcktuvevägen,vägen
+1605,August Strindbergs gångväg,vägen
+1606,Skogshagestigen,other
+1607,Korpbergsstigen,other
+1608,Frans Perssons väg,vägen
+1609,Morotsgången,other
+1610,Spenatgången,other
+1611,Salladsgången,other
+1612,Odlingsgången,other
+1613,Sparrisgången,other
+1614,Grönkålsgången,other
+1615,Långedragsvägen,vägen
+1616,Hovås Allé,other
+1617,Hultavägen,vägen
+1618,Majnabbehamnen,other
+1619,Spår 8,other
+1620,Orrspelsgatan,gatan
+1621,Fredriksdalsgatan,gatan
+1622,Lilleby Hamnväg,vägen
+1623,Ramnebacken,backen
+1624,Eliebergsvägen,vägen
+1625,Lindåkravägen,vägen
+1626,Hålskogsgatan,gatan
+1627,Vattentornsgatan,gatan
+1628,Ella Gybergs väg,vägen
+1629,Brottkärrs Byväg,vägen
+1630,Matildehemsvägen,vägen
+1631,Västergårdsvägen,vägen
+1632,Doteviksvägen,vägen
+1633,Östra Grinnekärrsvägen,vägen
+1634,Grinnekärrsvägen,vägen
+1635,Norra Grinnekärrsvägen,vägen
+1636,Annorlundavägen,vägen
+1637,Havsklinten,other
+1638,Ingalundavägen,vägen
+1639,Järkholmsvägen,vägen
+1640,Lindåsvägen,vägen
+1641,Billdals Lindgång,other
+1642,Billdals Björkväg,vägen
+1643,Billdals Almväg,vägen
+1644,Billdals Pilgång,other
+1645,Billdals Kastanjegång,other
+1646,Billdals Lärkträdsväg,vägen
+1647,Billdals Apelgång,other
+1648,Billdals Rönnväg,vägen
+1649,Billdals Aspväg,vägen
+1650,Billdals Hasselväg,vägen
+1651,Lövskogsåsen,other
+1652,Krogabäcksvägen,vägen
+1653,Tättingegatan,gatan
+1654,Näktergalsgatan,gatan
+1655,Kungsstensmotet,motet
+1656,Drottningtorget,torget
+1657,Konvaljegatan,gatan
+1658,Tjärblomsgatan,gatan
+1659,Halmstadgatan,gatan
+1660,Rävsalsgatan,gatan
+1661,Putsegårdsgatan,gatan
+1662,Norra Sälöfjordsgatan,gatan
+1663,Älvefjordsgatan,gatan
+1664,Källöfjordsgatan,gatan
+1665,Rivöfjordsgatan,gatan
+1666,Lilla Rivöfjordsgatan,gatan
+1667,Hakefjordsgatan,gatan
+1668,Mandelblomsgatan,gatan
+1669,Nordmarksgatan,gatan
+1670,Gökropsgatan,gatan
+1671,Kölnåsgatan,gatan
+1672,Hällkistegatan,gatan
+1673,Kvarnhålegatan,gatan
+1674,Norrviksgatan,gatan
+1675,Södra Sälöfjordsgatan,gatan
+1676,Vårvindsgatan,gatan
+1677,Vårflodsgatan,gatan
+1678,Schalinsgatan,gatan
+1679,Långåkersgatan,gatan
+1680,Liegatan,gatan
+1681,Höbärgningsgatan,gatan
+1682,Storstensvägen,vägen
+1683,Enrisvägen,vägen
+1684,Rydholmsgatan,gatan
+1685,Alevägen,vägen
+1686,Enskiftesgatan,gatan
+1687,Edvard Rodhes väg,vägen
+1688,Västra Bräckevägen,vägen
+1689,Diakonissgatan,gatan
+1690,Södra Vårvindsgatan,gatan
+1691,Diakonivägen,vägen
+1692,Bräcke Västergårds väg,vägen
+1693,Ullmansgatan,gatan
+1694,Lundbygatan,gatan
+1695,Inägogatan,gatan
+1696,Lilla inägogatan,gatan
+1697,Gamla Lundbygatan,gatan
+1698,Celsiusgatan,gatan
+1699,Östra Eriksbergsgatan,gatan
+1700,Kolhamnsgatan,gatan
+1701,Nordreviksvägen,vägen
+1702,Valebergsvägen,vägen
+1703,Vågnedalsvägen,vägen
+1704,Lindebovägen,vägen
+1705,Sjöbackevägen,vägen
+1706,Sjöbacken,backen
+1707,Billdals Häggväg,vägen
+1708,Mellanbergsvägen,vägen
+1709,Häcklevägen,vägen
+1710,Billdals Sommarväg,vägen
+1711,Lantmätaregatan,gatan
+1712,Vårlöksgatan,gatan
+1713,Smörbollsgatan,gatan
+1714,Lyckekärrsvägen,vägen
+1715,Hedens backe,other
+1716,Furuhälls väg,vägen
+1717,Idas väg,vägen
+1718,Elvira Samuelssons Väg,other
+1719,Nybonns väg,vägen
+1720,Kopparåsvägen,vägen
+1721,Kopparåsen,other
+1722,Gunborgavägen,vägen
+1723,Billdals Hagenväg,vägen
+1724,Lesikavägen,vägen
+1725,Svindalsvägen,vägen
+1726,Rörflatsvägen,vägen
+1727,Harstigen,other
+1728,Hästebäcksvägen,vägen
+1729,Klevevägen,vägen
+1730,Billdals Storegårdsväg,vägen
+1731,Letsegårdsstigen,other
+1732,Äsebackevägen,vägen
+1733,Lilla Skintebovägen,vägen
+1734,Gullyckevägen,vägen
+1735,Kruniusvägen,vägen
+1736,Johanneshus,other
+1737,Åsdammsvägen,vägen
+1738,Holkebacken,backen
+1739,Åsberget,other
+1740,Nyängsvägen,vägen
+1741,Grindvägen,vägen
+1742,Bredängen,other
+1743,Åsbacken,backen
+1744,Humlekärrsvägen,vägen
+1745,Hovås Oxsjöväg,vägen
+1746,Hovås Hagstig,other
+1747,Amundövik,other
+1748,Arvid Lignells Väg,other
+1749,Nylänningen,other
+1750,Sösbacken,backen
+1751,Brända Berget,other
+1752,Brottkärrs Tennisväg,vägen
+1753,Brännemysten,other
+1754,Charles väg,vägen
+1755,Hovås Enebacke,other
+1756,Skogslyckevägen,vägen
+1757,Hovås Intagsväg,vägen
+1758,Askims Trappstig,other
+1759,Gamla Särövägen,vägen
+1760,Klåvavägen,vägen
+1761,Lyckhemsvägen,vägen
+1762,Hovås Graneråsväg,vägen
+1763,Järkholmsliden,other
+1764,Golfbacken,backen
+1765,Bockhamnsvägen,vägen
+1766,Sommargårdsvägen,vägen
+1767,Hinderstigen,other
+1768,Jans väg,vägen
+1769,Askims Badväg,vägen
+1770,Hultviksvägen,vägen
+1771,Villavägen,vägen
+1772,Hults Sörgårdsväg,vägen
+1773,Banaliden,other
+1774,Lyckevägen,vägen
+1775,Dannemansvägen,vägen
+1776,Askims Krokegårdsväg,vägen
+1777,Askims Pixboväg,vägen
+1778,Askims Jordhyttebacke,other
+1779,Conrad Olssons väg,vägen
+1780,Askims Nämndemansväg,vägen
+1781,Askims Mabäcksväg,vägen
+1782,Tornestigen,other
+1783,Åsstigen,other
+1784,Gjutebrunnsvägen,vägen
+1785,Askims Stenlid,other
+1786,Gjutegården,other
+1787,Brännåsvägen,vägen
+1788,Hägnegårdsvägen,vägen
+1789,Båtstenarna,other
+1790,Askims Skogsväg,vägen
+1791,Ögärdesvägen,vägen
+1792,Askims Fornborgsväg,vägen
+1793,Askims Granstig,other
+1794,Triangelstigen,other
+1795,Askims Uggleväg,vägen
+1796,Rågångstigen,other
+1797,Solarvsplan,other
+1798,Askåkersplan,other
+1799,Stomvägen,vägen
+1800,Kullstigen,other
+1801,Kyrkliden,other
+1802,Carl Gunérs backe,other
+1803,Askims Backaväg,vägen
+1804,Askims Övergårdsväg,vägen
+1805,Trädesgatan,gatan
+1806,Knapegatan,gatan
+1807,Skiftesgatan,gatan
+1808,Östra Sannegårdskajen,other
+1809,Ångaren Ediths Gata,gatan
+1810,Ångaren Ernas Gata,gatan
+1811,Ångaren Indias Gata,gatan
+1812,Barken Storegrunds Gata,gatan
+1813,Barken Beatrices Gata,gatan
+1814,Nordviksgatan,gatan
+1815,Skålmekärrsvägen,vägen
+1816,Delsjönässtigen,other
+1817,Gåsmossen,other
+1818,Alprosen,other
+1819,Lilla Idtjärnsgatan,gatan
+1820,Bergums Kyrkväg,vägen
+1821,Björsbovägen,vägen
+1822,Rotenvägen,vägen
+1823,Björsjöås Gård,other
+1824,Skärsjölundsvägen,vägen
+1825,Måhultsvägen,vägen
+1826,Trollsjövägen,vägen
+1827,Björkhällan,other
+1828,Hyltevägen,vägen
+1829,Pilegården,other
+1830,Pumpgatan,gatan
+1831,Prästkragsgatan,gatan
+1832,Nattviolsgatan,gatan
+1833,Aringsgatan,gatan
+1834,Åbohusgatan,gatan
+1835,Örtagårdsgatan,gatan
+1836,Kohagsgatan,gatan
+1837,Motorgatan,gatan
+1838,Kvillebäcksvägen,vägen
+1839,Östra Magårdsvägen,vägen
+1840,Godemansgatan,gatan
+1841,Villa Parkudden,other
+1842,Lindåsstråket,other
+1843,Lindåshedens Skogsväg,vägen
+1844,Billdals Vårväg,vägen
+1845,Lilla Mellanbergsvägen,vägen
+1846,Lovisa Ströms väg,vägen
+1847,Billdals Badväg,vägen
+1848,Killingsholmen,other
+1849,Askims Industriväg,vägen
+1850,Ängholmen,other
+1851,Regattagatan,gatan
+1852,Västerhavsvägen,vägen
+1853,Rodergatan,gatan
+1854,Babordsgatan,gatan
+1855,Pejlingsgatan,gatan
+1856,Styrbordsgatan,gatan
+1857,Talattagatan,gatan
+1858,Austvägen,vägen
+1859,Solhöjdsgränd,gränd
+1860,Torpedgatan,gatan
+1861,Försvarsgatan,gatan
+1862,Väbelgatan,gatan
+1863,Skonertgatan,gatan
+1864,Skogsrydsgatan,gatan
+1865,Fullriggaregatan,gatan
+1866,Blodboksgatan,gatan
+1867,Hängbjörksgatan,gatan
+1868,Cedergatan,gatan
+1869,Kostergatan,gatan
+1870,Slupgatan,gatan
+1871,Hästeviksgatan,gatan
+1872,Tjädergatan,gatan
+1873,Fortgatan,gatan
+1874,Palmsundsgatan,gatan
+1875,Kolmodins väg,vägen
+1876,Galärgatan,gatan
+1877,Tapphusvägen,vägen
+1878,Södra Sjöfarten,other
+1879,Gösta Fraenkels Väg,other
+1880,Kolhyvarestigen,other
+1881,Cypressgatan,gatan
+1882,Valnötsgatan,gatan
+1883,Poppelgatan,gatan
+1884,Eckragatan,gatan
+1885,Ubåtsgatan,gatan
+1886,Käringbergsgatan,gatan
+1887,Brantgatan,gatan
+1888,Patrullgatan,gatan
+1889,Kuttergatan,gatan
+1890,Koggegatan,gatan
+1891,Jullestigen,other
+1892,Dingegatan,gatan
+1893,Stävgatan,gatan
+1894,August Barks gata,gatan
+1895,August Barks Gata,gatan
+1896,Aron Jonasons Gångväg,vägen
+1897,Albert Ehrensvärds Gångväg,vägen
+1898,Nathalia Ahlströms Gångväg,vägen
+1899,Vasa Kyrkoplan,other
+1900,Lillebyvägen,vägen
+1901,Slättgärdsgatan,gatan
+1902,Rörmyren,other
+1903,Stubbeledsgatan,gatan
+1904,Sollidsgatan,gatan
+1905,Delfingatan,gatan
+1906,Svalebogatan,gatan
+1907,Späckhuggaregatan,gatan
+1908,Örtugsgatan,gatan
+1909,Otto Elanders Gata,gatan
+1910,Kronogårdsvägen,vägen
+1911,Åseby Västergård,other
+1912,Åseby Östergård,other
+1913,Östra Bärmeråsvägen,vägen
+1914,Västra Bärmeråsvägen,vägen
+1915,Kronogårdslyckan,other
+1916,Västra Kronogårdsvägen,vägen
+1917,Bufjällsleden,leden
+1918,Hugo Grauers Gata,gatan
+1919,Vera Sandbergs Allé,other
+1920,Arvid Hedvalls Backe,other
+1921,Olgas trappor,other
+1922,Sappörgatan,gatan
+1923,Fältskärsgatan,gatan
+1924,Taptogatan,gatan
+1925,Tuvgatan,gatan
+1926,Norra Rosenbergsgatan,gatan
+1927,Södra Rosenbergsgatan,gatan
+1928,Valltrappsgatan,gatan
+1929,Logistikvägen,vägen
+1930,Slättgatan,gatan
+1931,Enegatan,gatan
+1932,Lilla Cedergatan,gatan
+1933,Motorbåtsgatan,gatan
+1934,Livbåtsgatan,gatan
+1935,Roddbåtsgatan,gatan
+1936,Småbåtsgatan,gatan
+1937,Galeasgatan,gatan
+1938,Toredammen,other
+1939,Koppargatan,gatan
+1940,Mässingsgatan,gatan
+1941,Bronsgatan,gatan
+1942,Malmgatan,gatan
+1943,Silvergatan,gatan
+1944,Platinagatan,gatan
+1945,Sven Källfelts Gata,gatan
+1946,Stallegårdsvägen,vägen
+1947,Billingegatan,gatan
+1948,Grotteparksvägen,vägen
+1949,Sheldons Väg,other
+1950,Stjärnbåtsgatan,gatan
+1951,Starbåtsgatan,gatan
+1952,Mårdgatan,gatan
+1953,Bävergatan,gatan
+1954,Uttergatan,gatan
+1955,Hermelingatan,gatan
+1956,Sobelgatan,gatan
+1957,Illergatan,gatan
+1958,Hagens Stationsväg,vägen
+1959,Logatan,gatan
+1960,Rådjursgatan,gatan
+1961,Bisamgatan,gatan
+1962,Hagens Kapellväg,vägen
+1963,Hagens Prästväg,vägen
+1964,Killingegången,other
+1965,Minkgatan,gatan
+1966,Nerzgatan,gatan
+1967,Hästeviksgången,other
+1968,Kaningatan,gatan
+1969,Fregattgatan,gatan
+1970,Korvettgatan,gatan
+1971,Lilla Skonertgatan,gatan
+1972,Västra Palmgrensgatan,gatan
+1973,Tandkullegatan,gatan
+1974,Hinsholmsgatan,gatan
+1975,Mogatan,gatan
+1976,Atlandsgatan,gatan
+1977,Kvillestråket,other
+1978,Törnrosgatan,gatan
+1979,Silltrutgatan,gatan
+1980,Brevduvegatan,gatan
+1981,Moripegatan,gatan
+1982,Trastgatan,gatan
+1983,Blåhakegatan,gatan
+1984,Lomgatan,gatan
+1985,Lyrfågelgatan,gatan
+1986,Östra Palmgrensgatan,gatan
+1987,Tärngatan,gatan
+1988,Måsgatan,gatan
+1989,Domherregatan,gatan
+1990,Vipgatan,gatan
+1991,Ljungdalsgatan,gatan
+1992,Hängpilsgatan,gatan
+1993,Redebacken,backen
+1994,Rönngatan,gatan
+1995,Hasselgatan,gatan
+1996,Algatan,gatan
+1997,Oxelgatan,gatan
+1998,Aspgatan,gatan
+1999,Osbergsgatan,gatan
+2000,Fältgatan,gatan
+2001,Fridlandsgatan,gatan
+2002,Sydlandsgatan,gatan
+2003,Johannelundsgatan,gatan
+2004,Bygatan,gatan
+2005,Övre Bygatan,gatan
+2006,Lindgatan,gatan
+2007,Bergsbogatan,gatan
+2008,Stigvägen,vägen
+2009,Hinsholmens Bryggväg,vägen
+2010,Blåmusslegatan,gatan
+2011,Ostrongatan,gatan
+2012,Pärlmusslegatan,gatan
+2013,Skonaren Ingos Gata,gatan
+2014,Ringösvängen,other
+2015,Södra frihamnspiren,other
+2016,Traneredsparken,other
+2017,Lerumsvägen,vägen
+2018,Silvermyntsgatan,gatan
+2019,Kopparmyntsgatan,gatan
+2020,Sikelgatan,gatan
+2021,Vaktmansgatan,gatan
+2022,Svetsaregatan,gatan
+2023,Dollargatan,gatan
+2024,Sterlingsgatan,gatan
+2025,Alice Bonthornsgatan,gatan
+2026,Ostindiefararen,other
+2027,Östra Dockpiren,other
+2028,Maskingatan,gatan
+2029,Styrfarten,other
+2030,Pollaregatan,gatan
+2031,Manövergången,other
+2032,Volvogatan,gatan
+2033,Stapelbädden,other
+2034,Jyllandsgatan,gatan
+2035,Ödmansgatan,gatan
+2036,Sörhallsgatan,gatan
+2037,Bautastensgatan,gatan
+2038,Köpenhamnsgatan,gatan
+2039,Draggensgatan,gatan
+2040,Kronotorpsgatan,gatan
+2041,Århusgatan,gatan
+2042,Oslogatan,gatan
+2043,Trondheimsgatan,gatan
+2044,Norska Gatan,other
+2045,Tönsbergsgatan,gatan
+2046,Utmarksgatan,gatan
+2047,Skagengatan,gatan
+2048,Lilla Solstrålegatan,gatan
+2049,Astris Gata,gatan
+2050,Maj på Malös Gata,gatan
+2051,Rönnerdahls Gata,gatan
+2052,Carmencitas Gata,gatan
+2053,Huldas Karins Gata,gatan
+2054,Flemingsgatan,gatan
+2055,Visthusgatan,gatan
+2056,Arlagången,other
+2057,Särlagången,other
+2058,Ekhagen,other
+2059,Kaprifolievägen,vägen
+2060,Sommersgatan,gatan
+2061,Stenåldersvägen,vägen
+2062,Smala Vägen,other
+2063,Fornminnesvägen,vägen
+2064,Stamrotesvägen,vägen
+2065,Öarna,other
+2066,Biskopsgatan,gatan
+2067,Toriniusgatan,gatan
+2068,Lambergsgatan,gatan
+2069,Sockenvägen,vägen
+2070,Västanvindsgatan,gatan
+2071,Östanvindsgatan,gatan
+2072,Sunnanvindsgatan,gatan
+2073,Guldpokalsgatan,gatan
+2074,Lilla Skogsrydsgatan,gatan
+2075,Lönngatan,gatan
+2076,Läktaregatan,gatan
+2077,Ostindiegatan,gatan
+2078,Forthamnsvägen,vägen
+2079,Kanotgatan,gatan
+2080,Tallstigen,other
+2081,Kärrsmossegatan,gatan
+2082,Lerlyckegatan,gatan
+2083,Äppelgatan,gatan
+2084,Frostgatan,gatan
+2085,Pärongatan,gatan
+2086,Midsommargatan,gatan
+2087,Vårgatan,gatan
+2088,Överås Parkväg,vägen
+2089,Jättegrytsgatan,gatan
+2090,Jakobsdalsgatan,gatan
+2091,Laboratoriegatan,gatan
+2092,Pipblåsaregatan,gatan
+2093,Påskbergsgatan,gatan
+2094,Kronhjortsgatan,gatan
+2095,Topeliusgatan,gatan
+2096,Karlfeldtsgatan,gatan
+2097,Betaniagatan,gatan
+2098,Örgryte Stomgata,gatan
+2099,Årbogatan,gatan
+2100,Trumpetaregränd,gränd
+2101,Hagmarksgatan,gatan
+2102,Rönnbärsstigen,other
+2103,Övre Pipblåsaregatan,gatan
+2104,Södra Tandåsgatan,gatan
+2105,Anneholmsgatan,gatan
+2106,Tandåsplatsen,other
+2107,Hemstigen,other
+2108,Grönstensvägen,vägen
+2109,Gulsparvsgatan,gatan
+2110,Stenskvättegatan,gatan
+2111,Hackspettsgatan,gatan
+2112,Snöskategatan,gatan
+2113,Bofinksgatan,gatan
+2114,Pilfinksgatan,gatan
+2115,Egmontsgatan,gatan
+2116,Storagårdsgatan,gatan
+2117,Fredrika Bremersgatan,gatan
+2118,Kärrhöksgatan,gatan
+2119,Sigtunagatan,gatan
+2120,Runiusgatan,gatan
+2121,Böstigen,other
+2122,Stötgatan,gatan
+2123,Nonnensgatan,gatan
+2124,Carl Larssonsgatan,gatan
+2125,Daltorpsgatan,gatan
+2126,Herrgårdsgatan,gatan
+2127,Rättaregången,other
+2128,Valåsgatan,gatan
+2129,Lunnatorpsgatan,gatan
+2130,Skogshyddegatan,gatan
+2131,Barrskogsgatan,gatan
+2132,Lilla Danska Vägen,other
+2133,Sventorpsliden,other
+2134,Barrskogsgränd,gränd
+2135,Trestegsgatan,gatan
+2136,Häcklöparegatan,gatan
+2137,Stavhopparegatan,gatan
+2138,Femkampsgatan,gatan
+2139,Hökegatan,gatan
+2140,Borgaregatan,gatan
+2141,Bondegatan,gatan
+2142,Olskroksgatan,gatan
+2143,Ängsvaktaregatan,gatan
+2144,Poppelmansgatan,gatan
+2145,Ribbingsgatan,gatan
+2146,Tågmästaregatan,gatan
+2147,Kålltorpsgatan,gatan
+2148,Assessorsgatan,gatan
+2149,Lokföraregatan,gatan
+2150,Spelmansplatsen,other
+2151,Balsamingatan,gatan
+2152,Vallmogatan,gatan
+2153,Munkebäcksgatan,gatan
+2154,Ärenprisgatan,gatan
+2155,Resedagatan,gatan
+2156,Landerigatan,gatan
+2157,Svangatan,gatan
+2158,Sävenäsgatan,gatan
+2159,Kaflegatan,gatan
+2160,Strömsgatan,gatan
+2161,Stenbacken,backen
+2162,Fåfängegatan,gatan
+2163,Tomtebacksgatan,gatan
+2164,Sulitelmagatan,gatan
+2165,Storhöjdsgatan,gatan
+2166,Kobergsgatan,gatan
+2167,Kransen,other
+2168,Wahlbergsgatan,gatan
+2169,Vidkärrsgatan,gatan
+2170,Morängatan,gatan
+2171,Rådmansgatan,gatan
+2172,Vidkärrsstigen,other
+2173,Borgmästaregatan,gatan
+2174,Nordåsgatan,gatan
+2175,Strömmensbergsstigen,other
+2176,Jonseredsgatan,gatan
+2177,Löparegatan,gatan
+2178,Idrottsgatan,gatan
+2179,Kungälvsgatan,gatan
+2180,Övre Olskroksgatan,gatan
+2181,Örngatan,gatan
+2182,Mintensgatan,gatan
+2183,Jenny Lindsgatan,gatan
+2184,Wrangelsgatan,gatan
+2185,Kemivägen,vägen
+2186,Karlagatan,gatan
+2187,Slätten,other
+2188,Ingeborgsgatan,gatan
+2189,Lilla Karlagatan,gatan
+2190,Stukelyckan,other
+2191,Högalyckan,other
+2192,Bergsträdgården,other
+2193,Platågatan,gatan
+2194,Hebegatan,gatan
+2195,Vävskedsgatan,gatan
+2196,Ulfsparregatan,gatan
+2197,Snoilskygatan,gatan
+2198,Bågevägen,vägen
+2199,Lundehagsgatan,gatan
+2200,Villagången,other
+2201,Skatåsvägen,vägen
+2202,A E Holmbergs gata,gatan
+2203,Strängnäsgatan,gatan
+2204,Lindrothsgatan,gatan
+2205,A C Lindblads gata,gatan
+2206,Hugo Hammars gata,gatan
+2207,Tredjedalsgatan,gatan
+2208,Kung Sverres gata,gatan
+2209,Sankt Olofsgatan,gatan
+2210,Kung Håkons gata,gatan
+2211,Toremossegatan,gatan
+2212,Mossbacken,backen
+2213,Hemmansägaregatan,gatan
+2214,Tresnipsgatan,gatan
+2215,Trättebäcksliden,other
+2216,Älvsysselgatan,gatan
+2217,Hedebygatan,gatan
+2218,Holmgårdsgatan,gatan
+2219,Knektdalsgatan,gatan
+2220,Snorregatan,gatan
+2221,Vikbogatan,gatan
+2222,Krabbeliderna,other
+2223,Rödalidsvägen,vägen
+2224,Enebergsvägen,vägen
+2225,Norfeltsvägen,vägen
+2226,Torehatts backe,other
+2227,Krabbelyckan,other
+2228,Miklagårdsgatan,gatan
+2229,Tväråsgatan,gatan
+2230,Ploggatan,gatan
+2231,Oterdahlsgatan,gatan
+2232,Älvhålegatan,gatan
+2233,Kringelgatan,gatan
+2234,Gyllingbergsgatan,gatan
+2235,Bäckängsgatan,gatan
+2236,Åkerögatan,gatan
+2237,Astrakangatan,gatan
+2238,Betesgatan,gatan
+2239,Körsbärsvägen,vägen
+2240,Plommongatan,gatan
+2241,Bäckuddsgatan,gatan
+2242,Flunsåsliden,other
+2243,Lysekilsgatan,gatan
+2244,Flunsås Trappor,other
+2245,Arrendatorsgatan,gatan
+2246,Blackevägen,vägen
+2247,Landamäresgatan,gatan
+2248,Drottning Blankas gata,gatan
+2249,Vikvärjesgatan,gatan
+2250,Älvgrimegatan,gatan
+2251,Toregrindsstigen,other
+2252,Vendernas gata,gatan
+2253,Spinettbacken,backen
+2254,Lona Knapes Gata,gatan
+2255,Gustaf Werners gata,gatan
+2256,Viloplatsen,other
+2257,Waernsgatan,gatan
+2258,Prästgatan,gatan
+2259,Martin Anderssons gata,gatan
+2260,Lilla Olskroksgatan,gatan
+2261,Berggrensgatan,gatan
+2262,Alfred Wigelius väg,vägen
+2263,Alfred Gärdes Väg,other
+2264,Sjölyckan,other
+2265,Lilla Bommen,other
+2266,Stenabron,other
+2267,Cederbourgsgatan,gatan
+2268,Carlandersplatsen,other
+2269,Övre Buråsliden,other
+2270,Lundgrensgatan,gatan
+2271,Norra Krokslättsgatan,gatan
+2272,Rudedammsgatan,gatan
+2273,Dammgatan,gatan
+2274,Vörtgatan,gatan
+2275,Vibrafongatan,gatan
+2276,Rubingatan,gatan
+2277,Smaragdgatan,gatan
+2278,Björkhöjdsstigen,other
+2279,Björkhöjdsgången,other
+2280,Juvelgatan,gatan
+2281,Lingonvägen,vägen
+2282,Vinbärsvägen,vägen
+2283,Hjortronvägen,vägen
+2284,Jordgubbsvägen,vägen
+2285,Blåbärsvägen,vägen
+2286,Klarbärsvägen,vägen
+2287,Kemigården,other
+2288,Fricksgatan,gatan
+2289,Källsprångsgatan,gatan
+2290,Trollbärsvägen,vägen
+2291,Kråkbärsgatan,gatan
+2292,Hugo Levins Väg,other
+2293,Slättåsvägen,vägen
+2294,Lemansgatan,gatan
+2295,Teknologgatan,gatan
+2296,Bernhard Karlgrens gångväg,vägen
+2297,Sylvestergatan,gatan
+2298,Stuartsgatan,gatan
+2299,Waterloogatan,gatan
+2300,Kodammsbron,other
+2301,Rotfruktsgatan,gatan
+2302,Friggagatan,gatan
+2303,Partihandelsgatan,gatan
+2304,Colliandersgatan,gatan
+2305,Assar Gabrielssons Väg,other
+2306,Kindboviksvägen,vägen
+2307,Reutersgatan,gatan
+2308,Hantverkaregatan,gatan
+2309,Skomakaregatan,gatan
+2310,Malmstensgatan,gatan
+2311,Erik Dahlbergstrappan,other
+2312,Arthur Lunds Gångväg,vägen
+2313,Oscar Hanssons Trappor,other
+2314,Kapten Bertilssons Väg,other
+2315,Norra Sjöslingan,other
+2316,Almedalsvägen,vägen
+2317,Kaprisgatan,gatan
+2318,Ingebäcksvägen,vägen
+2319,Ingebäcksliden,other
+2320,Skjutbanegatan,gatan
+2321,Ljunggatan,gatan
+2322,Furugatan,gatan
+2323,Syréngatan,gatan
+2324,Hagtornsgatan,gatan
+2325,Emma Jacobssons Trappor,other
+2326,Helge Zimdals Gångväg,vägen
+2327,Guldhedens kyrkbacke,other
+2328,Doktor Bex Gata,gatan
+2329,Lilla Ingebäcksvägen,vägen
+2330,Gamla Farvägen,vägen
+2331,Hagtornsstigen,other
+2332,Länkharvsgatan,gatan
+2333,Gunnaredsvägen,vägen
+2334,Gunnaredsstigen,other
+2335,Trädgårdsgärdet,other
+2336,Gamla Almedalsvägen,vägen
+2337,Persikogatan,gatan
+2338,Grevebergsgatan,gatan
+2339,Hallstensgatan,gatan
+2340,Högsätersgatan,gatan
+2341,Bengt Lidnersgatan,gatan
+2342,Dicksonsgatan,gatan
+2343,Skyttegatan,gatan
+2344,Lyckans väg,vägen
+2345,Trollspisgatan,gatan
+2346,Lagerbringsgatan,gatan
+2347,Fribergsgatan,gatan
+2348,Meijerbergsgatan,gatan
+2349,Ljungbackegatan,gatan
+2350,Doktor Westrings Gata,gatan
+2351,Syster Emmas Gata,gatan
+2352,Doktor Wengbergs Gata,gatan
+2353,Doktor Håléns gata,gatan
+2354,Blå Stråket,other
+2355,Gula Stråket,other
+2356,Vita Stråket,other
+2357,Bruna Stråket,other
+2358,Gröna Stråket,other
+2359,Röda Stråket,other
+2360,Fagerdalsvägen,vägen
+2361,Kärrfibblestigen,other
+2362,J A Fagerbergs Väg,other
+2363,Bäckravinsgatan,gatan
+2364,Lilla Tolsereds väg,vägen
+2365,Fagerlyckan,other
+2366,Fagergläntan,other
+2367,Ögontröstgatan,gatan
+2368,Kungsljusgatan,gatan
+2369,Vindragaregatan,gatan
+2370,Hårdvallsgatan,gatan
+2371,Halvardsgatan,gatan
+2372,Skanörsgatan,gatan
+2373,Köpingsgatan,gatan
+2374,Marstrandsgatan,gatan
+2375,Klättervägen,vägen
+2376,Pilhäcksgatan,gatan
+2377,Rösebergsgatan,gatan
+2378,Rösebacken,backen
+2379,Kalmargatan,gatan
+2380,Rundhultsgatan,gatan
+2381,Håkansgatan,gatan
+2382,Enekullegatan,gatan
+2383,Kalvhagsliderna,other
+2384,Korsklevegatan,gatan
+2385,Jättestensgatan,gatan
+2386,Baltzersgatan,gatan
+2387,Taklöksvägen,vägen
+2388,Månviolsvägen,vägen
+2389,Malvavägen,vägen
+2390,Gulmårevägen,vägen
+2391,Kamomillvägen,vägen
+2392,Tomatvägen,vägen
+2393,Vinlandsgatan,gatan
+2394,Bjurslättsliden,other
+2395,Vinkelliden,other
+2396,Hackeliden,other
+2397,Bjurstigen,other
+2398,Jomsborgsgatan,gatan
+2399,Tryggvegatan,gatan
+2400,Klaremossevägen,vägen
+2401,Björkliden,other
+2402,Drakblommegatan,gatan
+2403,Kattfotsgatan,gatan
+2404,Maskrosgatan,gatan
+2405,Fyrklöversgatan,gatan
+2406,Solhagagatan,gatan
+2407,Kärravinkeln,other
+2408,Husholmsgatan,gatan
+2409,Nortagenegången,other
+2410,Klockarevägen,vägen
+2411,Orrekullagatan,gatan
+2412,Södra Ligården,other
+2413,Trankärrsgatan,gatan
+2414,Karlsbogårdsgatan,gatan
+2415,Doktor Heymans gata,gatan
+2416,Lillängsgatan,gatan
+2417,Hejderidaregatan,gatan
+2418,Syringsgatan,gatan
+2419,Thorild Wulffsgatan,gatan
+2420,Älvaleken,other
+2421,Håbergsstigen,other
+2422,Askimsgatan,gatan
+2423,Apotekaregatan,gatan
+2424,Malmgårdsgatan,gatan
+2425,Särögatan,gatan
+2426,Änggårdsplatsen,other
+2427,Lantmannagatan,gatan
+2428,Kryddgårdsgatan,gatan
+2429,Västra Keillersgatan,gatan
+2430,Östra Keillersgatan,gatan
+2431,Västra Andersgårdsgatan,gatan
+2432,Bäckedalsgatan,gatan
+2433,Drängegatan,gatan
+2434,Stataregatan,gatan
+2435,Vildapelsgatan,gatan
+2436,Stenhammarsgatan,gatan
+2437,Mässans gata,gatan
+2438,Nedre Fogelbergsgatan,gatan
+2439,Reservoarstigen,other
+2440,Axel Krooks gångväg,vägen
+2441,Husviksvägen,vägen
+2442,Varpevägen,vägen
+2443,Faggeliden,other
+2444,Flogenvägen,vägen
+2445,Källängen,other
+2446,Hästsprånget,other
+2447,Vassdalsvägen,vägen
+2448,Nuddlavägen,vägen
+2449,Strussnäsvägen,vägen
+2450,Mansdalsstigen,other
+2451,Flaggbergsstigen,other
+2452,Haggårdsvägen,vägen
+2453,Stämmesund,other
+2454,Ändlyckan,other
+2455,Sköreliden,other
+2456,Kvigvallen,other
+2457,Långejorden,other
+2458,Brattefjäll,other
+2459,Kalvhagen,other
+2460,Husefladen,other
+2461,Jydeklovan,other
+2462,Sandviksdalen,other
+2463,Ramsdalsvägen,vägen
+2464,Skogsgapet,other
+2465,Skedetvägen,vägen
+2466,Ersdalen,other
+2467,Lönndalsvägen,vägen
+2468,Valmossestigen,other
+2469,Ankdammen,other
+2470,Lilla Hallstaviken,other
+2471,Stora Hallstaviken,other
+2472,Bönekällan,other
+2473,Torggatan,gatan
+2474,Köpmansgatan,gatan
+2475,Bräcke Östergårds Väg,other
+2476,Ellen Hanssons Väg,other
+2477,Fågelrovägen,vägen
+2478,Norra Fågelrovägen,vägen
+2479,Sydatlanten,other
+2480,Stilla Havet,other
+2481,Förrådsgatan,gatan
+2482,Godsgatan,gatan
+2483,Hamneviksvägen,vägen
+2484,Lilla Bulyckevägen,vägen
+2485,Seminariegatan,gatan
+2486,Kärrlyckegatan,gatan
+2487,Arendalsvägen,vägen
+2488,Kårebogatan,gatan
+2489,Bentylgatan,gatan
+2490,Lökholmsstigen,other
+2491,Panneviksvägen,vägen
+2492,Åreskiftet,other
+2493,Lönnskärsdamm,other
+2494,Nickelmyntsgatan,gatan
+2495,Penninggatan,gatan
+2496,Järnmyntsgatan,gatan
+2497,Sjömilsgatan,gatan
+2498,Marklandsplatsen,other
+2499,Tulebergsvägen,vägen
+2500,Skanstorget,torget
+2501,Klädpressaregatan,gatan
+2502,Tolvskillingsgatan,gatan
+2503,Föraregatan,gatan
+2504,Konduktörsgatan,gatan
+2505,Järnbrottsgatan,gatan
+2506,Ängåsgatan,gatan
+2507,Nitaregatan,gatan
+2508,Diktaregatan,gatan
+2509,Övre Montörsgatan,gatan
+2510,Lilla Brandmansgatan,gatan
+2511,Stensprängaregatan,gatan
+2512,Ekehöjdsgatan,gatan
+2513,Lilla Ekehöjdsgatan,gatan
+2514,Målaregatan,gatan
+2515,Guldsmedsgatan,gatan
+2516,Filaregatan,gatan
+2517,Lilla Montörsgatan,gatan
+2518,Vävaregatan,gatan
+2519,Stuvaregatan,gatan
+2520,Montörsgatan,gatan
+2521,Gryningsgatan,gatan
+2522,Aftongatan,gatan
+2523,Middagsgatan,gatan
+2524,Typografgatan,gatan
+2525,Åkaregatan,gatan
+2526,Agronomgatan,gatan
+2527,Maskinistgatan,gatan
+2528,Storedalsgatan,gatan
+2529,Lenvädersgatan,gatan
+2530,Fyrmästaregången,other
+2531,Johan Alins Gata,gatan
+2532,Frölundaborgs Allé,other
+2533,Källegårdsvägen,vägen
+2534,Oljenäsvägen,vägen
+2535,Svalörtsgatan,gatan
+2536,Bolmörtsgatan,gatan
+2537,Lilla Dalavägen,vägen
+2538,Norra Pingstliljegatan,gatan
+2539,Dalavägen,vägen
+2540,Ringblommegatan,gatan
+2541,Blombacken,backen
+2542,Floxgatan,gatan
+2543,Violblommegatan,gatan
+2544,Sedumgatan,gatan
+2545,Harmonigatan,gatan
+2546,Rudbovägen,vägen
+2547,Skrivaregatan,gatan
+2548,Ritaregatan,gatan
+2549,Ampedalsvägen,vägen
+2550,Rävlyevägen,vägen
+2551,Dovhjortsstigen,other
+2552,Rubelgatan,gatan
+2553,Dukatsgatan,gatan
+2554,Marklandsgatan,gatan
+2555,Norra Hamngatan,gatan
+2556,Kaprifolgatan,gatan
+2557,Trälåsvägen,vägen
+2558,Britthagsvägen,vägen
+2559,Ruddalsvägen,vägen
+2560,Lilla Trälåsvägen,vägen
+2561,Odlarevägen,vägen
+2562,Irisgatan,gatan
+2563,Tulpangatan,gatan
+2564,Backsvalegatan,gatan
+2565,Bergaredstrappan,other
+2566,Berglärkan,other
+2567,Lärje Tolsegård,other
+2568,Björningsåsen,other
+2569,Fyrväpplingsgatan,gatan
+2570,Terränglöparen,other
+2571,Ormeslättsstigen,other
+2572,Korpåsbacken,backen
+2573,Monsungatan,gatan
+2574,Vaktmästaregången,other
+2575,Nybyggesgatan,gatan
+2576,Övre Storåsvägen,vägen
+2577,Källsprångsstigen,other
+2578,Malte Jacobssons Gångväg,vägen
+2579,Besvärsgången,other
+2580,Besvärsgatan,gatan
+2581,Dunderstigen,other
+2582,Belegatan,gatan
+2583,Mimergatan,gatan
+2584,Nimbusgatan,gatan
+2585,Kvarnpirsgatan,gatan
+2586,Stångjärnsgatan,gatan
+2587,Holländaregatan,gatan
+2588,Banérsgatan,gatan
+2589,Harald Stakegatan,gatan
+2590,Batterigatan,gatan
+2591,Lövskogsbacken,backen
+2592,Terminalvägen,vägen
+2593,Lilla Terminalvägen,vägen
+2594,Raffinaderivägen,vägen
+2595,Einar Eriksons Gata,gatan
+2596,Lilla Hjuviksvägen,vägen
+2597,Amhults Långelid,other
+2598,Krossvägen,vägen
+2599,Fördelarvägen,vägen
+2600,Erik väderhatts gata,gatan
+2601,Väderskiftesgatan,gatan
+2602,Tövädersgatan,gatan
+2603,Väderskeppsgatan,gatan
+2604,Vädertjänstgatan,gatan
+2605,Väderstrecksgatan,gatan
+2606,Vädersolsgatan,gatan
+2607,Torsåsgatan,gatan
+2608,Stenbergsgatan,gatan
+2609,Kärrsmossen,other
+2610,Laholmsgatan,gatan
+2611,Rågåkern,other
+2612,Tånåsvägen,vägen
+2613,Orkidévägen,vägen
+2614,Gullbergs Strandgata,gatan
+2615,Leråkersmotet,motet
+2616,Fågelvägen,vägen
+2617,Kungsportsplatsen,other
+2618,Rudenschöldsgatan,gatan
+2619,Tjärebergsvägen,vägen
+2620,Grådalsvägen,vägen
+2621,Horsikavägen,vägen
+2622,Donsö Hamnväg,vägen
+2623,Korsholmebacke,other
+2624,Rävstensvägen,vägen
+2625,Nordövägen,vägen
+2626,Myrevalevägen,vägen
+2627,Torholmsvägen,vägen
+2628,Eneliden,other
+2629,Storesandsvägen,vägen
+2630,Balsebrunnsvägen,vägen
+2631,Ringkullevägen,vägen
+2632,Lygnevägen,vägen
+2633,Kilenvägen,vägen
+2634,Näsebergsvägen,vägen
+2635,Lebergsvägen,vägen
+2636,Stallebergsvägen,vägen
+2637,Säddalsvägen,vägen
+2638,Raoul Wallenbergs Gata,gatan
+2639,Vasabron,other
+2640,Hjulplogsgatan,gatan
+2641,Distansgatan,gatan
+2642,Nils Ericsonsgatan,gatan
+2643,Segelmakaregatan,gatan
+2644,Saltmätaregatan,gatan
+2645,Nålmakaregatan,gatan
+2646,Murmästaregatan,gatan
+2647,Karduansmakaregatan,gatan
+2648,Bårdskäraregatan,gatan
+2649,Byttmakaregatan,gatan
+2650,Boktryckaregatan,gatan
+2651,Bildsnidaregatan,gatan
+2652,Barberaregatan,gatan
+2653,Drejaregatan,gatan
+2654,Frimästaregatan,gatan
+2655,Hammarsmedsgatan,gatan
+2656,Gördelmakareplatsen,other
+2657,Fällmakaregatan,gatan
+2658,Sysslomansgatan,gatan
+2659,Backegårdsgatan,gatan
+2660,Mickelsmässogatan,gatan
+2661,Allmänna Skedet,other
+2662,Västra Tvärskedet,other
+2663,Kyrkebacken,backen
+2664,Handskmakaregatan,gatan
+2665,Knivsmedsgatan,gatan
+2666,Anders Mattssonsgatan,gatan
+2667,Bäckeflatsgatan,gatan
+2668,Stadsvaktegatan,gatan
+2669,Månsegårdsgatan,gatan
+2670,Ängtegsgatan,gatan
+2671,Utjordsgatan,gatan
+2672,Trebackegatan,gatan
+2673,Fjällbackagatan,gatan
+2674,Ellösgatan,gatan
+2675,Östra Sänkverksgatan,gatan
+2676,Sänkverksgatan,gatan
+2677,Klimatgatan,gatan
+2678,Klaralidsvägen,vägen
+2679,Mossbergsvägen,vägen
+2680,Forsbäcksvägen,vägen
+2681,Helgeredsvägen,vägen
+2682,Isbergsvägen,vägen
+2683,Skogsvägen,vägen
+2684,Hagvägen,vägen
+2685,Provbana,other
+2686,Sjumilastigen,other
+2687,Sjmilabacken,backen
+2688,Daggdroppegatan,gatan
+2689,Hjällboplatsen,other
+2690,Synnerödsvägen,vägen
+2691,Solvädersbyn,other
+2692,Dimvädersgatan,gatan
+2693,Skalbacksvägen,vägen
+2694,Lyckhöjdsvägen,vägen
+2695,Stenbacksvägen,vägen
+2696,Stora Vettes väg,vägen
+2697,Nykomsvägen,vägen
+2698,Smällbärsvägen,vägen
+2699,Asplyckevägen,vägen
+2700,Allebyvägen,vägen
+2701,Björlanda Strand,other
+2702,Store Udds Väg,other
+2703,Skogsviksvägen,vägen
+2704,Nya Gärdets Väg,other
+2705,Nya Bergets Väg,other
+2706,Flygflottiljens Väg,other
+2707,Fältflygarnas Väg,other
+2708,Flyglottornas väg,vägen
+2709,Lilla Oxhagens Väg,other
+2710,Kvarnevigatan,gatan
+2711,Kungsportsbron,other
+2712,Basargatan,gatan
+2713,Götabergsgatan,gatan
+2714,Sven Hultins Gata,gatan
+2715,Lilla Regementsvägen,vägen
+2716,Doktor Wigardhs Gata,gatan
+2717,Järntorgsgatan,gatan
+2718,Majnabbegatan,gatan
+2719,Kilsgatan,gatan
+2720,Vassgatan,gatan
+2721,Lilla Marieholmsgatan,gatan
+2722,Emerentias Backe,other
+2723,Kobbe lid,other
+2724,Brandmansgatan,gatan
+2725,Norra Vaktmansgatan,gatan
+2726,Laboratorietrappan,other
+2727,Sjöstjärnans Gränd,other
+2728,Doktor Lehmanns Gångväg,vägen
+2729,Lisebergsbron,other
+2730,Getebergsledsbron,other
+2731,Carl Gunérs väg,vägen
+2732,Datavägen,vägen
+2733,Askims Lillbackaväg,vägen
+2734,Fruktgatan,gatan
+2735,Blomstergatan,gatan
+2736,Övre Rönnbärsstigen,other
+2737,Södermansgatan,gatan
+2738,Jakobshöjdsvägen,vägen
+2739,Nya Älvegårdsvägen,vägen
+2740,Skärvstensvägen,vägen
+2741,Brunnsbotorget,torget
+2742,Humoreskgatan,gatan
+2743,Kåserigatan,gatan
+2744,Dramatikgatan,gatan
+2745,Memoargatan,gatan
+2746,Balladgatan,gatan
+2747,Litteraturgatan,gatan
+2748,Sångspelsgatan,gatan
+2749,Klassikergatan,gatan
+2750,Författaregatan,gatan
+2751,Anekdotgatan,gatan
+2752,Norra Backavägen,vägen
+2753,Andra Kvillängsvägen,vägen
+2754,Vänskapsvägen,vägen
+2755,Trollstigen,other
+2756,Sankt Jörgens Väg,other
+2757,Sankt Jörgens Port,other
+2758,Lilla Glasmästargatan,gatan
+2759,Glasmästareplatsen,other
+2760,Gräddgatan,gatan
+2761,Smörbacken,backen
+2762,Kallebäcks Byväg,vägen
+2763,Grönwallsgången,other
+2764,Skårs Trappor,other
+2765,Skårs Allé,other
+2766,Fagerängsgatan,gatan
+2767,Arbogagatan,gatan
+2768,Dykarens gata,gatan
+2769,Västra Sannegårdskajen,other
+2770,Holländareplatsen,other
+2771,Hornsgatan,gatan
+2772,Arfvidssonsgatan,gatan
+2773,Götaholmsgatan,gatan
+2774,Skaragatan,gatan
+2775,Treriksgatan,gatan
+2776,Hjulmakaregatan,gatan
+2777,Motgången,other
+2778,Kastvindsgatan,gatan
+2779,Stockholmsgatan,gatan
+2780,Pölsebogatan,gatan
+2781,Kölsträckningen,other
+2782,Dalgången,other
+2783,Åkerstigen,other
+2784,Rosengången,other
+2785,Syrengången,other
+2786,Västra Malmgatan,gatan
+2787,Hypotesgatan,gatan
+2788,Närgången,other
+2789,Hörselgången,other
+2790,Teknikgatan,gatan
+2791,Uppfinnaregatan,gatan
+2792,Diagonalen,other
+2793,Gamla Sörredsvägen,vägen
+2794,Södra Låssbyvägen,vägen
+2795,Låssbyvägen,vägen
+2796,Stallberga,other
+2797,Lurebackavägen,vägen
+2798,Ambrosdalen,other
+2799,Låssbylyckorna,other
+2800,Skräddaregården,other
+2801,Kvisljungeby,other
+2802,Adolf Landströms Väg,other
+2803,Bygårdsvägen,vägen
+2804,Kvistvägen,vägen
+2805,Ingridsberg,other
+2806,Askesbyvägen,vägen
+2807,Hagbergsvägen,vägen
+2808,Lindesnäsvägen,vägen
+2809,Öxnäsvägen,vägen
+2810,Öxnäs Västergård,other
+2811,Madkullavägen,vägen
+2812,Öxnäs Kulleväg,vägen
+2813,Bärby Nedergård,other
+2814,Bärbyvägen,vägen
+2815,Södra Bärbyvägen,vägen
+2816,Bärby Bygdegårdsväg,vägen
+2817,Bärby Herrgårdsväg,vägen
+2818,Kalshedsvägen,vägen
+2819,Kalsheds Sörgård,other
+2820,Asmundtorpsvägen,vägen
+2821,Skändlavägen,vägen
+2822,Tuve kyrkväg,vägen
+2823,Lilla Skändlavägen,vägen
+2824,Asmundtorp Nedergård,other
+2825,Skändla Sörgårdsväg,vägen
+2826,Holmgärdesvägen,vägen
+2827,Holmvägen,vägen
+2828,Stora Holm Övningsväg,vägen
+2829,Holmhagsvägen,vägen
+2830,Björkebacksvägen,vägen
+2831,Svärdslundsvägen,vägen
+2832,Granhällsvägen,vägen
+2833,Stora Holms Säteri,other
+2834,Bergsgårdsvägen,vägen
+2835,Tuve sörgård,other
+2836,Hukevägen,vägen
+2837,Jockeyvägen,vägen
+2838,Skogomevägen,vägen
+2839,Tuveliden,other
+2840,Stenlyckan,other
+2841,Solbergs Sörgårdsväg,vägen
+2842,Halvegårdsvägen,vägen
+2843,Köldgatan,gatan
+2844,Jordbrukaregatan,gatan
+2845,Korndalsvägen,vägen
+2846,Delsjö Golfbaneväg,vägen
+2847,Dammkärrsvägen,vägen
+2848,Halsviksporten,other
+2849,Kråkeberget,other
+2850,Villabrovägen,vägen
+2851,Furufjällsvägen,vägen
+2852,Styrsö Tångenväg,vägen
+2853,Furufjällsstigen,other
+2854,Vindnäsvägen,vägen
+2855,Båsenvägen,vägen
+2856,Gamla Tångenvägen,vägen
+2857,Valengången,other
+2858,Styrsö Valenväg,vägen
+2859,Västra Lakullen,other
+2860,Östra Lakullen,other
+2861,Styrsö Kungspark,other
+2862,Kallbadsvägen,vägen
+2863,Styrsö Braviksväg,vägen
+2864,Braviks Huvud,other
+2865,Braviksstrand,other
+2866,Årrestigen,other
+2867,Peter Silfverskiölds väg,vägen
+2868,Arbores väg,vägen
+2869,Svante Orells väg,vägen
+2870,Sigrid Engströms backe,other
+2871,Prästelyckan,other
+2872,Lilla Byvägen,vägen
+2873,Halsviksvägen,vägen
+2874,Sörbryggorna,other
+2875,Hjäleviken,other
+2876,Bagarns Brygga,other
+2877,Bagarns Väg,other
+2878,Linkulavägen,vägen
+2879,Marias Backe,other
+2880,Buskärsgatan,gatan
+2881,Skogstorpsgatan,gatan
+2882,Rositas Gata,gatan
+2883,Karl Strannes Gata,gatan
+2884,Gamlebrunnsgatan,gatan
+2885,Salterigatan,gatan
+2886,Bratteråsgatan,gatan
+2887,Bratteråsbacken,backen
+2888,Gundla Mosse,other
+2889,Tåvägen,vägen
+2890,Idas Backe,other
+2891,Kössö Bryggväg,vägen
+2892,Hamnedalsvägen,vägen
+2893,Strannevägen,vägen
+2894,Smuttenvägen,vägen
+2895,Västra Knarrholmsvägen,vägen
+2896,Södra Knarrholmsvägen,vägen
+2897,Gaterseredsvägen,vägen
+2898,Spelmansgården,other
+2899,Börjes väg,vägen
+2900,C R Hanssons Väg,other
+2901,Gatersered Sörgård,other
+2902,Tråkärrsslättvägen,vägen
+2903,Masthamnsgatan,gatan
+2904,Tvärskedet,other
+2905,Förländegatan,gatan
+2906,Vallareleden,leden
+2907,Lilla Luftvärnsvägen,vägen
+2908,Krutstråket,other
+2909,Kvibergs Bäckväg,vägen
+2910,Luftvärnsvägen,vägen
+2911,Kvibergsnäs Allé,other
+2912,Marketenterivägen,vägen
+2913,Krutvägen,vägen
+2914,Strandängsledet,other
+2915,Tumlehedsvägen,vägen
+2916,Skeddalsvägen,vägen
+2917,Skiljedalsvägen,vägen
+2918,Kallebäcks Västergård,other
+2919,Västra Långevattnet,other
+2920,Bäckebolsvägen,vägen
+2921,Cederflychts Gata,gatan
+2922,Friedländers Gata,gatan
+2923,Mårbackagatan,gatan
+2924,Ekebygatan,gatan
+2925,Körkarlens Gata,gatan
+2926,Kavaljersgatan,gatan
+2927,Gösta Berlings Gata,gatan
+2928,Ejdergatan,gatan
+2929,Skälltorpsvägen,vägen
+2930,Tagenevägen,vägen
+2931,Importgatan,gatan
+2932,Backadalsgången,other
+2933,Akkas Gata,gatan
+2934,Nils Holgerssons Gata,gatan
+2935,Jordfallsvägen,vägen
+2936,Backeredsvägen,vägen
+2937,Smedlyckan,other
+2938,Ingela Gathenhielms gata,gatan
+2939,Brottkärrsvägen,vägen
+2940,Södra Särövägen,vägen
+2941,Utvecklingsgatan,gatan
+2942,Tankegången,other
+2943,Insiktsgatan,gatan
+2944,Sjupundsgatan,gatan
+2945,Framgången,other
+2946,Nedstigen,other
+2947,Omgången,other
+2948,Uppstigen,other
+2949,Aniaragatan,gatan
+2950,Barytongatan,gatan
+2951,Tenorgatan,gatan
+2952,Soprangatan,gatan
+2953,Muskotgatan,gatan
+2954,Träkilsgatan,gatan
+2955,Dunfins Gata,gatan
+2956,Selma Lagerlöfs Parkstråk,other
+2957,Krokegårdsgatan,gatan
+2958,Banehagsgatan,gatan
+2959,Harry Martinsons Väg,other
+2960,Banehagsliden,other
+2961,A R Lorents gata,gatan
+2962,Backadalsgatan,gatan
+2963,Laghamragatan,gatan
+2964,Nyhemsgatan,gatan
+2965,Skogsängsvägen,vägen
+2966,Enhemsgatan,gatan
+2967,Gläntevägen,vägen
+2968,Långhagsgatan,gatan
+2969,Plockerotegatan,gatan
+2970,Parkuddsgatan,gatan
+2971,Gullhavregatan,gatan
+2972,Halmgatan,gatan
+2973,Högatan,gatan
+2974,Gräsgatan,gatan
+2975,Kvarnbergsgatan,gatan
+2976,Hästhagestigen,other
+2977,Frölunda Smedjegata,gatan
+2978,Flisgatan,gatan
+2979,Grevegårdens Kyrkväg,vägen
+2980,Beryllgatan,gatan
+2981,Krysolitvägen,vägen
+2982,Kvartsvägen,vägen
+2983,Smultronvägen,vägen
+2984,Bergkristallparken,other
+2985,Kastanjeallén,other
+2986,Krusbärsvägen,vägen
+2987,Opalgatan,gatan
+2988,Lägatan,gatan
+2989,Häradsdomarevägen,vägen
+2990,Pappersmakaregatan,gatan
+2991,Stora Kronogårdsgatan,gatan
+2992,Bällsrogatan,gatan
+2993,Lilla Bällskärsgatan,gatan
+2994,Legendgatan,gatan
+2995,Sonettgatan,gatan
+2996,Poetgatan,gatan
+2997,Nya Tingstadsgatan,gatan
+2998,Östes Gata,gatan
+2999,Västes Gata,gatan
+3000,Apelsingatan,gatan
+3001,Clementingatan,gatan
+3002,Pomeransvägen,vägen
+3003,Limevägen,vägen
+3004,Bärnstensgatan,gatan
+3005,Bergkristallsgatan,gatan
+3006,Umbragången,other
+3007,Umbragatan,gatan
+3008,Blågatan,gatan
+3009,Violettgatan,gatan
+3010,Violettgången,other
+3011,Rörviksgatan,gatan
+3012,Indigogatan,gatan
+3013,Blågången,other
+3014,Spektrumsgatan,gatan
+3015,Östra Palettgatan,gatan
+3016,Västra Palettgatan,gatan
+3017,Karmosingatan,gatan
+3018,Purpurgången,other
+3019,Cinnobergatan,gatan
+3020,Gredelingatan,gatan
+3021,Karmosingången,other
+3022,Aveskärsgatan,gatan
+3023,Lovartsgatan,gatan
+3024,Mastgatan,gatan
+3025,Riggatan,gatan
+3026,Lejdaregatan,gatan
+3027,Nyårsvägen,vägen
+3028,Påfvenfeltsvägen,vägen
+3029,Påvelundsgatan,gatan
+3030,Trettondagsvägen,vägen
+3031,Madbäcksvägen,vägen
+3032,Pingstvägen,vägen
+3033,Bogsprötsgatan,gatan
+3034,Påskvägen,vägen
+3035,Klyvarbomsgatan,gatan
+3036,Lastrumsgatan,gatan
+3037,Fredagstomten,other
+3038,Lars Israel Wahlmans väg,vägen
+3039,Mungårdsgatan,gatan
+3040,Kalle Svensas Stig,other
+3041,Sundkällevägen,vägen
+3042,Hults bro,other
+3043,Gubben Pistols Stig,other
+3044,Almen,other
+3045,Bele Nordins Väg,other
+3046,Bror Carlssons Trappor,other
+3047,Knipplekullen,other
+3048,Dockbron,other
+3049,Krysspricksvägen,vägen
+3050,Bäckebolslyckan,other
+3051,Bäckebolsängen,other
+3052,Grinnekullegatan,gatan
+3053,Brunnehagen,other
+3054,Sjöbodsvägen,vägen
+3055,Fyrtornsvägen,vägen
+3056,Södra Fyrljusvägen,vägen
+3057,Fyrbåksvägen,vägen
+3058,Flintåsvägen,vägen
+3059,Arosgatan,gatan
+3060,Iskällareliden,other
+3061,Sävidsbovägen,vägen
+3062,Stenaredsvägen,vägen
+3063,Planåsvägen,vägen
+3064,Östra Andersgårdsgatan,gatan
+3065,Byggmästaregatan,gatan
+3066,Björkedalsgatan,gatan
+3067,Södra Pingstliljegatan,gatan
+3068,Piongatan,gatan
+3069,Gnistängsmotet,motet
+3070,Nya Varvsallén,other
+3071,Västra Sjöslingan,other
+3072,Kaktusvägen,vägen
+3073,Blåeldsgatan,gatan
+3074,Bergaredsvägen,vägen
+3075,Haraldsgatan,gatan
+3076,Arvid Wallgrens backe,other
+3077,Albin Holms backe,other
+3078,Änggårdsbacken,backen
+3079,Hagelyckegatan,gatan
+3080,Ovanskogsliden,other
+3081,Ovanskogstrappan,other
+3082,Lövhagegången,other
+3083,Håkansdalsvägen,vägen
+3084,Furubergsvägen,vägen
+3085,Hinnebäcksgatan,gatan
+3086,Arvesgärde,other
+3087,Grönahögsvägen,vägen
+3088,Snöripegatan,gatan
+3089,Morkullegatan,gatan
+3090,Orregatan,gatan
+3091,Staregatan,gatan
+3092,Havstrutgatan,gatan
+3093,Talgoxegatan,gatan
+3094,Björnbärsgatan,gatan
+3095,Partihallsförbindelsen,other
+3096,Esbjörns väg,vägen
+3097,Härlanda Skogsväg,vägen
+3098,Stekastigen,other
+3099,Steken,other
+3100,Lilla Stekens Väg,other
+3101,Kronorättarens väg,vägen
+3102,Ättehögsgatan,gatan
+3103,Hjällbogärdet,other
+3104,Välkommen,other
+3105,Tallbacksvägen,vägen
+3106,Sjögräsvägen,vägen
+3107,Nolviks Kile,other
+3108,Nolviks Äng,other
+3109,Tåtåkersvägen,vägen
+3110,Nordtångsvägen,vägen
+3111,Trångelyckan,other
+3112,Sätebergsvägen,vägen
+3113,Rävkullestigen,other
+3114,Sjömans väg,vägen
+3115,Kallhedsnäsväg,vägen
+3116,Vikhallsvägen,vägen
+3117,Kippholmsvägen,vägen
+3118,Beckasinsvägen,vägen
+3119,Doppingegatan,gatan
+3120,Sjätte Kvillängsvägen,vägen
+3121,Femte Kvillängsvägen,vägen
+3122,Fjärde Kvillängsvägen,vägen
+3123,Tredje Kvillängsvägen,vägen
+3124,Aklejavägen,vägen
+3125,Lupinvägen,vägen
+3126,Växthusvägen,vägen
+3127,Tuvevallen,other
+3128,Grimboåsen,other
+3129,Mosslyckevägen,vägen
+3130,Bengtstorpsstigen,other
+3131,Färgeåsstigen,other
+3132,Gullkragsgatan,gatan
+3133,Nansensgatan,gatan
+3134,Vitsippsgatan,gatan
+3135,Ängskogsvägen,vägen
+3136,Västra Tuvevägen,vägen
+3137,Aröds Genväg,vägen
+3138,Dungestigen,other
+3139,Norumsbergsvägen,vägen
+3140,Gamla Gunnestorpsvägen,vägen
+3141,Grästuvevägen,vägen
+3142,Gamla Lillhagsvägen,vägen
+3143,Berghöjdsgatan,gatan
+3144,Källehöjdsgatan,gatan
+3145,Täljstensgatan,gatan
+3146,Lillbacksgatan,gatan
+3147,Vandtegsgatan,gatan
+3148,Bergskogsgatan,gatan
+3149,Ädelstensgatan,gatan
+3150,Gneisgatan,gatan
+3151,Brinkvägen,vägen
+3152,Lilla Brinkvägen,vägen
+3153,Galterövägen,vägen
+3154,Fjällbo Park,other
+3155,J A Pripps gata,gatan
+3156,Rangströmsliden,other
+3157,Per Olas Väg,other
+3158,Bratteliden,other
+3159,Gunnesby Koloniområde,other
+3160,Älvlea,other
+3161,Näsberget,other
+3162,Skålviseredsvägen,vägen
+3163,Gullövägen,vägen
+3164,Åskekärrsvägen,vägen
+3165,Västra Gullöslätten,other
+3166,Hamburg Torp,other
+3167,Bolstensvägen,vägen
+3168,Tullare Hög,other
+3169,Österhögsvägen,vägen
+3170,Grimås Hög,other
+3171,Lilla Torps Allé,other
+3172,Gunnilse backaväg,vägen
+3173,Gunnilse Granväg,vägen
+3174,Smörvattnevägen,vägen
+3175,Kroken,other
+3176,Jeppestigen,other
+3177,Södra Åreskiftet,other
+3178,Sundtången,other
+3179,Herrekroken,other
+3180,Letsegårdsvägen,vägen
+3181,Lindomevägen,vägen
+3182,Angereds Kyrkväg,vägen
+3183,Bäringsvägen,vägen
+3184,Myrbovägen,vägen
+3185,Andalen,other
+3186,Barnmorskan Almas väg,vägen
+3187,Diagnosvägen,vägen
+3188,Åketorpsgatan,gatan
+3189,Hagatorpsgatan,gatan
+3190,Hedatorpsgatan,gatan
+3191,Majtorpsgatan,gatan
+3192,Söderhagsgatan,gatan
+3193,Stora Mysternavägen,vägen
+3194,Sabbatsvägen,vägen
+3195,Gerrebackavägen,vägen
+3196,Fölvägen,vägen
+3197,Fuxvägen,vägen
+3198,Russvägen,vägen
+3199,Stora Tolsereds Väg,other
+3200,Skimmelvägen,vägen
+3201,Norra Stallbacksvägen,vägen
+3202,Lillekärr Norra,other
+3203,Böneredsgatan,gatan
+3204,Skvaltkvarnsvägen,vägen
+3205,Johannas Väg,other
+3206,Janneliden,other
+3207,Tolseredsravinen,other
+3208,Svarvstensvägen,vägen
+3209,Nordre älvs landvägsbro,other
+3210,Norra Fyrljusvägen,vägen
+3211,Fyrskensvägen,vägen
+3212,Lysbojsvägen,vägen
+3213,Liedstrandsgatan,gatan
+3214,Runebergsgatan,gatan
+3215,Pukegatan,gatan
+3216,Vävstolsgatan,gatan
+3217,Schéelegatan,gatan
+3218,Alelundsgatan,gatan
+3219,Tandåsgatan,gatan
+3220,Apelgången,other
+3221,Flyghamnsvägen,vägen
+3222,Carlandersstigen,other
+3223,Axel Romdahls Trappor,other
+3224,Baron Rogers Gata,gatan
+3225,Salsavägen,vägen
+3226,Rumbavägen,vägen
+3227,Tangovägen,vägen
+3228,Rydqvistgatan,gatan
+3229,Curt Weibulls Gångväg,vägen
+3230,Taggsvansbacken,backen
+3231,Rimsmedsgatan,gatan
+3232,Folkvisegatan,gatan
+3233,Prologgatan,gatan
+3234,Monologgatan,gatan
+3235,Gamla vägen,vägen
+3236,Vrångö Bryggväg,vägen
+3237,Småvalavägen,vägen
+3238,Bergängen,other
+3239,Grållekroksvägen,vägen
+3240,Trebenavägen,vägen
+3241,Tjärnvägen,vägen
+3242,Mittviksvägen,vägen
+3243,Vrångö Hamnväg,vägen
+3244,Torpavallsgatan,gatan
+3245,Östra Torpavägen,vägen
+3246,Behandlingsvägen,vägen
+3247,Krumeluren,other
+3248,Hjuviks Bryggväg,vägen
+3249,Björlanda Kyrkväg,vägen
+3250,Hallerödsvägen,vägen
+3251,Markurellgatan,gatan
+3252,Guldmyntsgatan,gatan
+3253,Marieholmsbron,other
+3254,Hagbergsgatan,gatan
+3255,Lövgärdesvägen,vägen
+3256,Burgårdsstråket,other
+3257,Lillkullegatan,gatan
+3258,Sommarvädersgatan,gatan
+3259,Sprängkullsgatan,gatan
+3260,Syrhålavägen,vägen
+3261,Fågleviksvägen,vägen
+3262,Solhällsvägen,vägen
+3263,Länsmansstigen,other
+3264,Klaravägen,vägen
+3265,Billdalsvägen,vägen
+3266,Beväringsgatan,gatan
+3267,Nymånegatan,gatan
+3268,Timgatan,gatan
+3269,Sekundgatan,gatan
+3270,Minutgatan,gatan
+3271,Sofierogatan,gatan
+3272,Nedre Buråsliden,other
+3273,Eddabacken,backen
+3274,Lilla Björlandavägen,vägen
+3275,Bymolnsgatan,gatan
+3276,Toltorpsgatan,gatan
+3277,Rönnbacken,backen
+3278,Södra Bergsgårdsgärdet,other
+3279,Gunnilsevägen,vägen
+3280,Rusthållarebacken,backen
+3281,Svartlavsvägen,vägen
+3282,Brunstorps By,other
+3283,Högagårdsvägen,vägen
+3284,Säve Kyrkväg,vägen
+3285,Svensbyvägen,vägen
+3286,Brunstorps Byväg,vägen
+3287,Brunstorpsvägen,vägen
+3288,Brunstorps Hage,other
+3289,Brunstorps Äng,other
+3290,Gullringevägen,vägen
+3291,Tofters Väg,other
+3292,Gullringegård,other
+3293,Kullens Väg,other
+3294,Säve kyrkebyväg,vägen
+3295,Fjälletvägen,vägen
+3296,Brunstorpsdalen,other
+3297,Nordslättsvägen,vägen
+3298,Älvkullevägen,vägen
+3299,Norra Nordslättsvägen,vägen
+3300,Tornekullsvägen,vägen
+3301,Nordängen,other
+3302,Valvgången,other
+3303,Gamla Allén,other
+3304,Getebergsled,other
+3305,Kallebäcksbron,other
+3306,Doktor Spaaks Gångväg,vägen
+3307,Heurlins Plats,other
+3308,Gunvors Backe,other
+3309,Grundsundsvägen,vägen
+3310,Böttö Fyrs väg,vägen
+3311,Pusterviksplatsen,other
+3312,Kapellgången,other
+3313,Ottos Väg,other
+3314,Timmermansgatan,gatan
+3315,Doktor Rosenbergs Gångväg,vägen
+3316,Barometergatan,gatan
+3317,Termometergatan,gatan
+3318,Högtrycksgatan,gatan
+3319,Lågtrycksgatan,gatan
+3320,Lufttrycksgatan,gatan
+3321,Risholmsvägen,vägen
+3322,Måsholmsvägen,vägen
+3323,Sandviksvägen,vägen
+3324,Krossholmsvägen,vägen
+3325,Nötöstigen,other
+3326,Lilla Krossholmsvägen,vägen
+3327,Ålefiskarns väg,vägen
+3328,Långholmsvägen,vägen
+3329,Kringelhamnen,other
+3330,Gräslyckan,other
+3331,Västerlyckan,other
+3332,Fritjofsstigen,other
+3333,Longitudvägen,vägen
+3334,Klämman,other
+3335,Skuteskärsvägen,vägen
+3336,Elinsbergsstigen,other
+3337,Hamnfyrsvägen,vägen
+3338,Ankarljusvägen,vägen
+3339,Styrljusvägen,vägen
+3340,Sidojlusvägen,vägen
+3341,Klippfyrsvägen,vägen
+3342,Bifyrsvägen,vägen
+3343,Ledfyrsvägen,vägen
+3344,Kustfyrsvägen,vägen
+3345,Blixtfyrsvägen,vägen
+3346,Fyrskeppsvägen,vägen
+3347,Långe Jans Väg,other
+3348,Högby Fyrs Väg,other
+3349,Malö Fyrs Väg,other
+3350,Spårö Fyrs Väg,other
+3351,Kullens Fyrs Väg,other
+3352,Skagens Fyrs Väg,other
+3353,Tärnö Fyrs Väg,other
+3354,Stallbacken,backen
+3355,Vikens Väg,other
+3356,Vikbrovägen,vägen
+3357,Hästeviks Strand,other
+3358,Björkåsvägen,vägen
+3359,Solberget,other
+3360,Bergklevet,other
+3361,Lilletummens Väg,other
+3362,Lilletummens Backe,other
+3363,Lilletummeliden,other
+3364,Stenkleveliden,other
+3365,Labodal,other
+3366,Mosskullevägen,vägen
+3367,Mosskullestigen,other
+3368,Gabriels Lycka,other
+3369,Trolldalsvägen,vägen
+3370,Trollberget,other
+3371,Sandenvägen,vägen
+3372,Karholmsvägen,vägen
+3373,Gamla Tingstadsgatan,gatan
+3374,Brunnsparksbron,other
+3375,Palacehusets personalbro,other
+3376,Nordostpassagen,other
+3377,Ebbe Lieberathsgatan,gatan
+3378,Ensmärkesvägen,vägen
+3379,Ensmärkesstigen,other
+3380,Kupeskärsgatan,gatan
+3381,Gårda Bron,other
+3382,Tanneskärsgatan,gatan
+3383,Vättnedalsvägen,vägen
+3384,Tynneredsvägen,vägen
+3385,Gråskärsgatan,gatan
+3386,Backeskärsgatan,gatan
+3387,Silleskärsgatan,gatan
+3388,Lilla Önneredsvägen,vägen
+3389,Klåveskärsgatan,gatan
+3390,Juteskärsgatan,gatan
+3391,Halleskärsgatan,gatan
+3392,Ersåsgatan,gatan
+3393,Hasslingegatan,gatan
+3394,Enskärsgatan,gatan
+3395,Dörjeskärsgatan,gatan
+3396,Göta Älvsgatan,gatan
+3397,Norra Fiskebäcksvägen,vägen
+3398,Fjällglimmen,other
+3399,Skeppet Ärans Väg,other
+3400,Gunnaredsvallen,other
+3401,Höglandsgatan,gatan
+3402,Valhallagatan,gatan
+3403,Ligårdsvägen,vägen
+3404,Storåsstigen,other
+3405,Bergsgårdsgärdet,other
+3406,Eriksbo Västergärde,other
+3407,Eriksbo Östergärde,other
+3408,Handbollsvägen,vägen
+3409,Rundbollsvägen,vägen
+3410,Fotbollsvägen,vägen
+3411,Bondegärdet,other
+3412,Skrinnarvägen,vägen
+3413,Torvhögsvägen,vägen
+3414,Grepgatan,gatan
+3415,Sankt Jörgens Allé,other
+3416,Peppargatan,gatan
+3417,Angeredsvinkeln,other
+3418,Korsebergs Backe,other
+3419,Rengatan,gatan
+3420,Wirséns Väg,other
+3421,Officersbacken,backen
+3422,Fredrik Bloms Väg,other
+3423,Siöstiernas Allé,other
+3424,Idtjärnsgatan,gatan
+3425,Hjortgatan,gatan
+3426,Hammarkullegatan,gatan
+3427,Hammarkulletorget,torget
+3428,Gropens Gård,other
+3429,Lilla Blomstigen,other
+3430,Gunnaredsterassen,other
+3431,Agnesbergsvägen,vägen
+3432,Norra Röseredsvägen,vägen
+3433,Titteridammstigen,other
+3434,Förstamajgatan,gatan
+3435,Albert Lorentssons väg,vägen
+3436,Båtebacken,backen
+3437,Bergums Nedregårdsväg,vägen
+3438,Bergums Uppegårdsväg,vägen
+3439,Fjällspiran,other
+3440,Bergshöjden,other
+3441,Spjällevägen,vägen
+3442,Töttefällevägen,vägen
+3443,Måkullevägen,vägen
+3444,Västövägen,vägen
+3445,Donsö Bryggväg,vägen
+3446,Gunkällevägen,vägen
+3447,Långehallsvägen,vägen
+3448,Lurkenvägen,vägen
+3449,Säveåns Strandgata,gatan
+3450,Högenvägen,vägen
+3451,Eric Börjessons väg,vägen
+3452,Höstmånadsgatan,gatan
+3453,Kortedala Idrottsväg,vägen
+3454,Sandeslättsbacken,backen
+3455,Titteridammsvägen,vägen
+3456,Saffransgatan,gatan
+3457,Hästhagen,other
+3458,Bengta Hanssons väg,vägen
+3459,Grindstugegränd,gränd
+3460,Friggaplatsen,other
+3461,Åkerigatan,gatan
+3462,Hulanvägen,vägen
+3463,Solgärdesvägen,vägen
+3464,Askims Strandväg,vägen
+3465,Rosenhöjdsvägen,vägen
+3466,Riddarstigen,other
+3467,Bokskogsbacken,backen
+3468,Högaffelsgatan,gatan
+3469,Skräddarns Väg,other
+3470,Hjälmavägen,vägen
+3471,Åseby Gård,other
+3472,Knattens väg,vägen
+3473,Nytorpsliden,other
+3474,Äspekullen,other
+3475,Trädetvägen,vägen
+3476,Trimvägen,vägen
+3477,Motionsvägen,vägen
+3478,Friluftsvägen,vägen
+3479,Vigörvägen,vägen
+3480,Toppformsvägen,vägen
+3481,Spänstvägen,vägen
+3482,Rekreationsvägen,vägen
+3483,Konditionsvägen,vägen
+3484,Jannes äng,other
+3485,Kamratgårdsvägen,vägen
+3486,Friidrottens väg,vägen
+3487,Blacktjärnsgatan,gatan
+3488,Angereds Lastgata,gatan
+3489,Orrekulla Industrigata,gatan
+3490,Kroksjövägen,vägen
+3491,Anneredsvägen,vägen
+3492,Kärralundsgatan,gatan
+3493,Anders Personsgatan,gatan
+3494,Rosendalsgatan,gatan
+3495,Kungagårdsängen,other
+3496,Välteliden,other
+3497,Hultsbrobacken,backen
+3498,Förgätmigejgången,other
+3499,Smörblommegången,other
+3500,Backsippegången,other
+3501,Tusenskönegången,other
+3502,Gulsporregången,other
+3503,Lyckestigen,other
+3504,Gunnars väg,vägen
+3505,Gulärlegången,other
+3506,Rosenfinksgången,other
+3507,Sävsparvsgången,other
+3508,Rödstjärtsgången,other
+3509,Kungsfågelsgången,other
+3510,Flugsnapparegången,other
+3511,Hortensiagången,other
+3512,Blåklintsgången,other
+3513,Ginstgången,other
+3514,Azaleagången,other
+3515,Penségången,other
+3516,Campingvägen,vägen
+3517,Lekvägen,vägen
+3518,Björnhällsliden,other
+3519,Exportgatan,gatan
+3520,Lilla Lekullevägen,vägen
+3521,Hyltegården,other
+3522,Vidjestigen,other
+3523,Häradsskrivarevägen,vägen
+3524,Ringestensvägen,vägen
+3525,Götgatan,gatan
+3526,Fjäderharvsgatan,gatan
+3527,Lilla Fjäderharvsgatan,gatan
+3528,Angereds Torg,other
+3529,Topasgatan,gatan
+3530,Fridtunavägen,vägen
+3531,Stötekärrsvägen,vägen
+3532,Påskrisgatan,gatan
+3533,Nolebrunnsgatan,gatan
+3534,Björnåsgatan,gatan
+3535,Hultbotjärn,other
+3536,Bergknallen,other
+3537,Hällstigen,other
+3538,Trolltjärn,other
+3539,Askims Furuväg,vägen
+3540,Hällmarken,other
+3541,Björnmossevägen,vägen
+3542,Askims Svartmosseväg,vägen
+3543,Grimmereds by,other
+3544,Korsåsliden,other
+3545,Skogens Gård,other
+3546,Bottnevägen,vägen
+3547,Branddammsbacken,backen
+3548,Haraldsons väg,vägen
+3549,Kulörgatan,gatan
+3550,Bronsgjutaregatan,gatan
+3551,Bronsfyndsgatan,gatan
+3552,Opaltorget,torget
+3553,Båtyxegatan,gatan
+3554,Flintyxegatan,gatan
+3555,Korsåsgatan,gatan
+3556,Bronsringsgatan,gatan
+3557,Bronsurnegatan,gatan
+3558,Lilla Varholmen,other
+3559,Grevegårdsvägen,vägen
+3560,Akvamaringatan,gatan
+3561,Turmalingatan,gatan
+3562,Månstensgatan,gatan
+3563,Grässkärsgatan,gatan
+3564,Röseskärsgatan,gatan
+3565,Ersåsbacken,backen
+3566,Önnereds Byväg,vägen
+3567,Snäckeskärsgatan,gatan
+3568,Önnereds Hamnväg,vägen
+3569,Lilla Ljungskärsgatan,gatan
+3570,Dyrstensvägen,vägen
+3571,Stora Ljungskärsgatan,gatan
+3572,Jätteleken,other
+3573,Sandeslättsgatan,gatan
+3574,Gunnilse stationsväg,vägen
+3575,Strömsundsvägen,vägen
+3576,Trångets Södra Väg,other
+3577,Hällmålningsvägen,vägen
+3578,Sillviks Havskoloni,other
+3579,Sillviksbacken,backen
+3580,Julianas Gård,other
+3581,Amandas Gård,other
+3582,Önnereds Bryggväg,vägen
+3583,Knalteskärsgatan,gatan
+3584,Önnereds Brygga,other
+3585,Flatskärsgatan,gatan
+3586,Bolleskärsgatan,gatan
+3587,Kråkeskärsgatan,gatan
+3588,Knippleskärsgatan,gatan
+3589,Gottskärsgatan,gatan
+3590,Asperöslingan,other
+3591,Gulaskärsgatan,gatan
+3592,Tärneskärsgatan,gatan
+3593,Ekeskärsgatan,gatan
+3594,Saltskärsgatan,gatan
+3595,Högskärsgatan,gatan
+3596,Kumleskärsgatan,gatan
+3597,Stenskärsgatan,gatan
+3598,Vipeskärsgatan,gatan
+3599,Svartskärsvägen,vägen
+3600,Lyngskärsvägen,vägen
+3601,Västra Eriksbergsgatan,gatan
+3602,Plåtmyntsgatan,gatan
+3603,Strandplatsgatan,gatan
+3604,Annas Gård,other
+3605,Idas Gård,other
+3606,Bergakungen,other
+3607,Julianska gatan,gatan
+3608,Gregorianska gatan,gatan
+3609,Fullmånegatan,gatan
+3610,Kvartsekelsgatan,gatan
+3611,Blå Hangarens Plats,other
+3612,Norra Lysevägen,vägen
+3613,Viktor Setterbergs Väg,other
+3614,Lilla Postegårdsgatan,gatan
+3615,Stora Postegårdsgatan,gatan
+3616,Rödkullegatan,gatan
+3617,Rimmaregatan,gatan
+3618,Skidbacken,backen
+3619,Träslövsgatan,gatan
+3620,Klintåsgatan,gatan
+3621,Övre Börsåsgatan,gatan
+3622,Palmträgatan,gatan
+3623,Slingerstigen,other
+3624,Önskevädersgatan,gatan
+3625,Önskvädersgatan,gatan
+3626,Molnvädersgatan,gatan
+3627,Torkvädersgatan,gatan
+3628,Väderilsgatan,gatan
+3629,Hängestensvägen,vägen
+3630,Annikas gata,gatan
+3631,Gertruds gata,gatan
+3632,Östra Breviksvägen,vägen
+3633,Landbovägen,vägen
+3634,Tjuvdalsvägen,vägen
+3635,Fogelmarksvägen,vägen
+3636,Hammars Badväg,vägen
+3637,Sjötullsvägen,vägen
+3638,Sjödalen,other
+3639,Sandlyckevägen,vägen
+3640,Toppvägen,vägen
+3641,Hammarvägen,vägen
+3642,Ole-Måns gata,gatan
+3643,Torparns gata,gatan
+3644,Färgspelsgatan,gatan
+3645,Johns gata,gatan
+3646,Videlundsgatan,gatan
+3647,Sockerbruket,other
+3648,Adolf Edelsvärds gata,gatan
+3649,4,other
+3650,Nolviksvägen,vägen
+3651,Sjömarksvägen,vägen
+3652,Barriärvägen,vägen
+3653,Bäckströms väg,vägen
+3654,Vittens gata,gatan
+3655,Tulljaktsvägen,vägen
+3656,Smugglarevägen,vägen
+3657,Norra Saltsjönäsvägen,vägen
+3658,Niklas gata,gatan
+3659,Näsets Backaväg,vägen
+3660,Södra Saltsjönäsvägen,vägen
+3661,Bua Västergårdsvägen,vägen
+3662,Bastebergsvägen,vägen
+3663,Tuppfjätsgatan,gatan
+3664,Västergårds Vale,other
+3665,Dalstigen,other
+3666,Stenbräckevägen,vägen
+3667,Tjuvdalsliden,other
+3668,Tjuvdalsbacken,backen
+3669,Västra Breviksvägen,vägen
+3670,Södra Breviksvägen,vägen
+3671,Valvägen,vägen
+3672,Breviks Ängar,other
+3673,Gullkullen,other
+3674,Nordfjällsvägen,vägen
+3675,Lilla Nordfjällsvägen,vägen
+3676,Östfjällsvägen,vägen
+3677,Möttviksvägen,vägen
+3678,Näsets Vinkelväg,vägen
+3679,Vadlagsgatan,gatan
+3680,Näsbovägen,vägen
+3681,Källviksvägen,vägen
+3682,Näsets Badväg,vägen
+3683,Kungshamnsgatan,gatan
+3684,Vallhamnsgatan,gatan
+3685,Borghamnsgatan,gatan
+3686,Sandhamnsgatan,gatan
+3687,Bjölavägen,vägen
+3688,Klagshamnsgatan,gatan
+3689,Åkereds Skolväg,vägen
+3690,Bergsätersgatan,gatan
+3691,Åkereds Äng,other
+3692,Bronsåldersgatan,gatan
+3693,Remissvägen,vägen
+3694,Bangårdsgatan,gatan
+3695,Båtsman Kapers Gata,gatan
+3696,Stenholmsvägen,vägen
+3697,Glimmerstigen,other
+3698,Knostervägen,vägen
+3699,Smithska Vägen,other
+3700,Sjösandsvägen,vägen
+3701,Enbärsgången,other
+3702,Stenbärsvägen,vägen
+3703,Enbärsvägen,vägen
+3704,Krösebacken,backen
+3705,Lafingatan,gatan
+3706,Lärjeholmsvägen,vägen
+3707,Hallstenshagen,other
+3708,Flygplatsvägen,vägen
+3709,Envägen,vägen
+3710,Citrusgatan,gatan
+3711,Citrongatan,gatan
+3712,Karneolgatan,gatan
+3713,Guldringen,other
+3714,Tallmostigen,other
+3715,Munjasvägen,vägen
+3716,Furåsbacken,backen
+3717,Skottårsgatan,gatan
+3718,Dagjämningsgatan,gatan
+3719,Storåsgatan,gatan
+3720,Ängkärrsgången,other
+3721,Bullegummans gata,gatan
+3722,Stackmolnsgatan,gatan
+3723,Månadsgatan,gatan
+3724,Veckogatan,gatan
+3725,Kristinehöjdsgatan,gatan
+3726,Rosenhillsgatan,gatan
+3727,Bokgatan,gatan
+3728,Fiskebäcks Hamn,other
+3729,Karpgatan,gatan
+3730,Lakegatan,gatan
+3731,Göteborgseskaderns Plats,other
+3732,Vakthusbacken,backen
+3733,Residensbron,other
+3734,Masthamnsbron,other
+3735,Aspegången,other
+3736,Forsstenagatan,gatan
+3737,Gräsåsvägen,vägen
+3738,Solsätervägen,vägen
+3739,Iglatjärnsvägen,vägen
+3740,Stora Älsjövägen,vägen
+3741,Lilla Älsjövägen,vägen
+3742,Iglabranten,other
+3743,Iglabacken,backen
+3744,Iglakroken,other
+3745,Iglaslänten,other
+3746,Hallmans Väg,other
+3747,Mellangärdet,other
+3748,Stora Billingens Cykelväg,vägen
+3749,Aronsbergsvägen,vägen
+3750,Tössåsvägen,vägen
+3751,Risås Hage,other
+3752,Freses Väg,other
+3753,Bergums Furåsväg,vägen
+3754,Krokslätts Parkgata,gatan
+3755,Billdals Lövskogsväg,vägen
+3756,Övre Besvärsgatan,gatan
+3757,Eskils Lycka,other
+3758,Ernst Fontells Plats,other
+3759,Tyghusvägen,vägen
+3760,Alivallsgatan,gatan
+3761,Östergärde Industriväg,vägen
+3762,Linjespringarens Väg,other
+3763,Styckjunkaregatan,gatan
+3764,Björsareds Genväg,vägen
+3765,Makrillgatan,gatan
+3766,Dalängsgatan,gatan
+3767,Blåsvädersgatan,gatan
+3768,Rödspottegatan,gatan
+3769,Skäddegatan,gatan
+3770,Forellgatan,gatan
+3771,Slätskäddegatan,gatan
+3772,Akustikvägen,vägen
+3773,Rundradiogatan,gatan
+3774,Räkgången,other
+3775,Sandmusslegatan,gatan
+3776,Skärvallsgatan,gatan
+3777,Laxgatan,gatan
+3778,Västerlandsgatan,gatan
+3779,Svanehöjdsgatan,gatan
+3780,Krabban,other
+3781,Styrgången,other
+3782,Norra Sextantgatan,gatan
+3783,Kapproddaregatan,gatan
+3784,Sextantgatan,gatan
+3785,Loggvägen,vägen
+3786,Rattgatan,gatan
+3787,Solhöjdsgatan,gatan
+3788,Torgny Segerstedtsgatan,gatan
+3789,Kastanjegatan,gatan
+3790,Blomstrandsvägen,vägen
+3791,Lavettgatan,gatan
+3792,Kustvaktsgatan,gatan
+3793,Vanadisgatan,gatan
+3794,Fästningsvägen,vägen
+3795,Arendals Skans,other
+3796,Dockvallsgatan,gatan
+3797,Berghällsgatan,gatan
+3798,Barkassgatan,gatan
+3799,Grangatan,gatan
+3800,Silvergransgatan,gatan
+3801,Stentångsvägen,vägen
+3802,Förpiken,other
+3803,Följebåtsgatan,gatan
+3804,Sjögången,other
+3805,Pråmgatan,gatan
+3806,Masthuggskajen,other
+3807,Djupviksvägen,vägen
+3808,Lotsutkiken,other
+3809,Tånguddsbacken,backen
+3810,Fiskebåtsgatan,gatan
+3811,Bogserbåtsgatan,gatan
+3812,Tärnstigen,other
+3813,Norra slingan,other
+3814,Ringvägen,vägen
+3815,Lokattsbacken,backen
+3816,Ekorregatan,gatan
+3817,Tigerstigen,other
+3818,Flygare Tåhlins Väg,other
+3819,Finnjollegatan,gatan
+3820,Flygare Netzlers Väg,other
+3821,Sjöblads Väg,other
+3822,Vita Gavelns Väg,other
+3823,Nolehultsvägen,vägen
+3824,Båtsman Lustigs Gata,gatan
+3825,Tuve Torg,other
+3826,Silvertärnegången,other
+3827,Lunnefågelgången,other
+3828,Skrattmåsgången,other
+3829,Labbgången,other
+3830,Havssulegången,other
+3831,Viggstigen,other
+3832,Katrinelundsstigen,other
+3833,Stensbovägen,vägen
+3834,Styrsö Kyrkogång,other
+3835,Femvägsskälet,other
+3836,Gånglåten,other
+3837,Gamla Arendalsvägen,vägen
+3838,Stamgårdsvägen,vägen
+3839,Lilla Marconigatan,gatan
+3840,Spinettplatsen,other
+3841,Positivgatan,gatan
+3842,Kaverösporten,other
+3843,Kaverösterrassen,other
+3844,Famngatan,gatan
+3845,Frekvensvägen,vägen
+3846,Morsestigen,other
+3847,Mor Livas stig,other
+3848,Skyttegillets Väg,other
+3849,J A Gahms gata,gatan
+3850,Vintergatan,gatan
+3851,F O Petersons gata,gatan
+3852,Askims Timmermansväg,vägen
+3853,Röllikegången,other
+3854,Ängsklockegången,other
+3855,Skogsviolgången,other
+3856,Hult Åsens väg,vägen
+3857,Ströget,other
+3858,Flågbergsvägen,vägen
+3859,Gränsvägen,vägen
+3860,Frida Hjertbergs Gata,gatan
+3861,Elektrovägen,vägen
+3862,Doktor Mombasas Allé,other
+3863,Terrassgatan,gatan
+3864,Bubergsvägen,vägen
+3865,Gisslefjällsliden,other
+3866,Gisselfjällsliden,other
+3867,Kärrdalsvägen,vägen
+3868,Stora Härsjöplatsen,other
+3869,Såpbrukets Gångväg,vägen
+3870,Backa Bergögata,gatan
+3871,Åkerslundsvägen,vägen
+3872,Lilla Torps Hage,other
+3873,Förskolevägen,vägen
+3874,Hällristningsvägen,vägen
+3875,Snapphanestigen,other
+3876,Per-Hans väg,vägen
+3877,Vråsseredsvägen,vägen
+3878,Bäcksins Väg,other
+3879,Myrstigen,other
+3880,Terapislingan,other
+3881,Prickbojsvägen,vägen
+3882,Torshällsvägen,vägen
+3883,Övre Hällsviksvägen,vägen
+3884,Torsslottsvägen,vägen
+3885,Isbojsvägen,vägen
+3886,Trubadurens Väg,other
+3887,Hållö Fyrs Väg,other
+3888,Lilla Hällsviksvägen,vägen
+3889,Genuavägen,vägen
+3890,Skutehagsvägen,vägen
+3891,Grimbodalen,other
+3892,Lillhagsvinkeln,other
+3893,Kulvertkonstens Väg,other
+3894,Övre Lysbojsvägen,vägen
+3895,Skepparevägen,vägen
+3896,Igelkottstigen,other
+3897,Smörjoljegatan,gatan
+3898,Ryanäsvägen,vägen
+3899,Cisterngatan,gatan
+3900,Brännoljegatan,gatan
+3901,Petroleumgatan,gatan
+3902,Nabbevägen,vägen
+3903,Förö Måsväg,vägen
+3904,Dalanäsvägen,vägen
+3905,Folke Filbyters Stig,other
+3906,Cederflychts gata,gatan
+3907,Stora Förövägen,vägen
+3908,Sandlidsvägen,vägen
+3909,Åketorpsvägen,vägen
+3910,Sandrevelsvägen,vägen
+3911,Sandbanksvägen,vägen
+3912,Nya Skogomevägen,vägen
+3913,Sandtagsvägen,vägen
+3914,Sandkullsvägen,vägen
+3915,Sandjordsvägen,vägen
+3916,Mesanvägen,vägen
+3917,Fockvägen,vägen
+3918,Fjordvägen,vägen
+3919,Gamla Lillebyvägen,vägen
+3920,Doktor Hjorts Gata,gatan
+3921,Hökåsvägen,vägen
+3922,Propellergången,other
+3923,Blixtåsvägen,vägen
+3924,Brottkärrs Bergegård,other
+3925,Volvo Cars Visitor Centre,other
+3926,Volvo Cars Visitor Centre Test Track,other
+3927,Entreprenadvägen,vägen
+3928,Katrinerovägen,vägen
+3929,Norumshöjd,other
+3930,Norumsvägen,vägen
+3931,Kvillepiren,other
+3932,Brottkärr Stenkulla,other
+3933,Havsörnsplatsen,other
+3934,Havsörnsgatan,gatan
+3935,Åkerrensgatan,gatan
+3936,Utåkersgatan,gatan
+3937,Bisittaregatan,gatan
+3938,Övergårdsstigen,other
+3939,Kallsgatan,gatan
+3940,Fraktgodsgatan,gatan
+3941,Längdhopparegången,other
+3942,Maratongången,other
+3943,Diskusgången,other
+3944,Höjdhopparegången,other
+3945,Kulstötaregången,other
+3946,Godvädersgatan,gatan
+3947,Spjutkastaregången,other
+3948,Sprintergången,other
+3949,Friskväderstorget,torget
+3950,Tiokampsgången,other
+3951,Sägengatan,gatan
+3952,Backa Kyrkogata,gatan
+3953,Almquistgatan,gatan
+3954,Sagogatan,gatan
+3955,Splitsaregatan,gatan
+3956,Bulyckevägen,vägen
+3957,Åseby Mellangård,other
+3958,Edwin Ahlqvists väg,vägen
+3959,Harry Lundahls väg,vägen
+3960,Gunnel Weinås väg,vägen
+3961,Helge Härnemans väg,vägen
+3962,Thord Lindbloms Väg,other
+3963,Vindilsgatan,gatan
+3964,Utbynässtigen,other
+3965,Brodalen,other
+3966,Utbynäsgatan,gatan
+3967,Arvid Bjerkesgatan,gatan
+3968,Lärje Östergård,other
+3969,Lärje Rättaregård,other
+3970,Bäckebols Gård,other
+3971,Kalvsundsgatan,gatan
+3972,Klockljungsliden,other
+3973,Södra Inägogatan,gatan
+3974,Douglasgatan,gatan
+3975,Högstena Gård,other
+3976,Bittan Johanssons gångväg,vägen
+3977,Mossängsgatan,gatan
+3978,Lärksångsgatan,gatan
+3979,Ewertsgatan,gatan
+3980,Plantskolevägen,vägen
+3981,Emelie Lejmans Väg,other
+3982,Nybergsgatan,gatan
+3983,Korgmakaregatan,gatan
+3984,Kolmätaregatan,gatan
+3985,Klockgjutaregatan,gatan
+3986,Hovslagaregatan,gatan
+3987,Lästmakaregatan,gatan
+3988,Tegelslagaregatan,gatan
+3989,Schmidtsgatan,gatan
+3990,Skärsliparegatan,gatan
+3991,Minuthandelsgatan,gatan
+3992,Stilgjutaregatan,gatan
+3993,Hulda Mattssons Gångväg,vägen
+3994,Utby Kyrkoplan,other
+3995,Buntmakaregatan,gatan
+3996,Kyndelsmässogatan,gatan
+3997,Gilleplan,other
+3998,Vagnmakaregatan,gatan
+3999,Lilla Vagnmakaregatan,gatan
+4000,Martinavägen,vägen
+4001,Kanngjutaregatan,gatan
+4002,Pennygången,other
+4003,Fyrkgången,other
+4004,Fotögatan,gatan
+4005,Vrångögatan,gatan
+4006,Örebrogatan,gatan
+4007,Naddalsvägen,vägen
+4008,Donsö Gärde,other
+4009,Donsö Valeväg,vägen
+4010,Lökholmsvägen,vägen
+4011,Kviavägen,vägen
+4012,Åsenliden,other
+4013,Storabergsvägen,vägen
+4014,Donsö Backe,other
+4015,Källebacken,backen
+4016,Skatkullevägen,vägen
+4017,Grytefotsvägen,vägen
+4018,Blekebackeliden,other
+4019,Blekebacken,backen
+4020,Grådalsstigen,other
+4021,Myrevalestigen,other
+4022,Strandberget,other
+4023,Väderbodarna,other
+4024,Klostermuren,other
+4025,Personalvägen,vägen
+4026,Karossvägen,vägen
+4027,Volvo Demo Center Test Track,other
+4028,Volvo Cars Torslanda Test Track,other
+4029,Fasadvägen,vägen
+4030,Smörkärnegatan,gatan
+4031,Pressplan,other
+4032,Befälsgatan,gatan
+4033,Olivedalsgatan,gatan
+4034,Alfhemsgatan,gatan
+4035,Rännvägen,vägen
+4036,Skogsbrynet,other
+4037,Stensötevägen,vägen
+4038,Björkdungen,other
+4039,Karolinernas Gata,gatan
+4040,Övralidsgatan,gatan
+4041,Heidenstams Gata,gatan
+4042,Skogsdungen,other
+4043,Ekdungen,other
+4044,Postegårdsvägen,vägen
+4045,Lövdungen,other
+4046,Kvilledalsvägen,vägen
+4047,Norra Uppegården,other
+4048,Ingebäcksgläntan,other
+4049,Rönnings Sörgård,other
+4050,Bergklinten,other
+4051,Rönnings Sörgårdsbacke,other
+4052,Stallvägen,vägen
+4053,Rönnings Mellangårdar,other
+4054,Södra Uppegården,other
+4055,Rönnings Uppegård,other
+4056,Rönnings Nedergård,other
+4057,Brynnkällevägen,vägen
+4058,Ellesbo Sörgårdsväg,vägen
+4059,Brostallsvägen,vägen
+4060,Ellesbo Sörgårdsgärde,other
+4061,Rallevägen,vägen
+4062,Ellesbo Hasselbacke,other
+4063,Alhaga,other
+4064,Slånbärsvägen,vägen
+4065,Martha Sennegårds Väg,other
+4066,Davideberg,other
+4067,Tyska gatan,gatan
+4068,Lilleby Bäckedalsväg,vägen
+4069,Bottnelyckan,other
+4070,Torslanda Mellangård,other
+4071,Lilleby Skolväg,vägen
+4072,Änghagsvägen,vägen
+4073,Gamla Torslandavägen,vägen
+4074,Dan Anderssons Gata,gatan
+4075,Torslanda Hästeviks Väg,other
+4076,Kodammsvägen,vägen
+4077,Korpralsgatan,gatan
+4078,Bollplansgatan,gatan
+4079,Smörslätten,other
+4080,Hotellplatsen,other
+4081,Gräddfilen,other
+4082,Olaus Petris Trappor,other
+4083,Skårsgatan,gatan
+4084,Östra Bräckevägen,vägen
+4085,Krokängsgatan,gatan
+4086,Tilburygatan,gatan
+4087,Gamla Hjuviksvägen,vägen
+4088,Brännekullavägen,vägen
+4089,Hornkamsgatan,gatan
+4090,Gamla Tumlehedsvägen,vägen
+4091,Runradsgatan,gatan
+4092,Kalles väg,vägen
+4093,Sidovägen,vägen
+4094,Burs Gård,other
+4095,Carlströms Väg,other
+4096,Kvarnkullevägen,vägen
+4097,Röds Norgård,other
+4098,Gatugårdsvägen,vägen
+4099,Spejarestigen,other
+4100,Falkebovägen,vägen
+4101,Organistvägen,vägen
+4102,Solängsvägen,vägen
+4103,Noleredsvägen,vägen
+4104,Källarbanken,other
+4105,Röds Tellusväg,vägen
+4106,Dammhagsvägen,vägen
+4107,Tuvängsvägen,vägen
+4108,Gossbydalsvägen,vägen
+4109,Kyrkvärdsvägen,vägen
+4110,Tallbarrsvägen,vägen
+4111,Gossbydalsstigen,other
+4112,Låkebergsgatan,gatan
+4113,Gullbrings väg,vägen
+4114,Ekvatorsvägen,vägen
+4115,Flygtornsvägen,vägen
+4116,Amhults Byväg,vägen
+4117,Håltavägen,vägen
+4118,Kölvägen,vägen
+4119,Snäckebergsvägen,vägen
+4120,Skeppfartsvägen,vägen
+4121,Sjökortsvägen,vägen
+4122,Bror Nilssons Gata,gatan
+4123,Fridkullagatan,gatan
+4124,Skeppsgränd,gränd
+4125,Mossfyndsgatan,gatan
+4126,Fallvägen,vägen
+4127,Salamandervägen,vägen
+4128,Stagvägen,vägen
+4129,Källdammsvägen,vägen
+4130,Landalagången,other
+4131,Rektorsgatan,gatan
+4132,Gundla Björklid,other
+4133,Gösta Andrées Gata,gatan
+4134,Kärrs hage,other
+4135,Linnefjällsvägen,vägen
+4136,Linnefjällsliden,other
+4137,Falkebohöjden,other
+4138,Guldkällestigen,other
+4139,Lundgrens trappor,other
+4140,Betongvägen,vägen
+4141,Skomakareängen,other
+4142,Låssby Äng,other
+4143,Skomakaregården,other
+4144,Kronängen,other
+4145,Kvisljungeby Kronogård,other
+4146,Hallevadsvägen,vägen
+4147,Zenithgården,other
+4148,Åkersbruksvägen,vägen
+4149,Lilleby Höjd,other
+4150,Innegårdsängen,other
+4151,Myrliljevägen,vägen
+4152,Ruggebergsvägen,vägen
+4153,Låssby Grind,other
+4154,Gamla Låssbyvägen,vägen
+4155,Bodloftsvägen,vägen
+4156,Olivias äng,other
+4157,Mangårdsvägen,vägen
+4158,Högloftsvägen,vägen
+4159,Härbrevägen,vägen
+4160,Ekströmsgatan,gatan
+4161,Syster Ainas gata,gatan
+4162,Lexby Västergård,other
+4163,Trulsegårds Gärde,other
+4164,Innegårdsvägen,vägen
+4165,Östra Trulsegårdsvägen,vägen
+4166,Väldigt Gamla Björlandavägen,vägen
+4167,Lexby Östergård,other
+4168,Skatetorpsvägen,vägen
+4169,Kålsereds Byväg,vägen
+4170,Emils väg,vägen
+4171,Kålseredsvägen,vägen
+4172,Trulsegårdslyckan,other
+4173,Östergårdsvägen,vägen
+4174,Lilla Kålseredsvägen,vägen
+4175,Lexby Skogsväg,vägen
+4176,Trulsegårdsbacken,backen
+4177,Ruggestensliden,other
+4178,Lexby Odlareväg,vägen
+4179,Trulsegårdsvägen,vägen
+4180,Lexby Lund,other
+4181,Vinterkullen,other
+4182,Fysikgränd,gränd
+4183,Elektrogården,other
+4184,Thorburnsgatan,gatan
+4185,Bomgatan,gatan
+4186,Lilla Framnäsgatan,gatan
+4187,Billerudsgatan,gatan
+4188,Varnhemsgatan,gatan
+4189,24,other
+4190,27,other
+4191,33,other
+4192,29,other
+4193,31,other
+4194,22,other
+4195,32,other
+4196,25,other
+4197,30,other
+4198,28,other
+4199,21,other
+4200,26,other
+4201,34,other
+4202,23,other
+4203,20,other
+4204,Högstensgatan,gatan
+4205,Domarringsgatan,gatan
+4206,Fornborgsgatan,gatan
+4207,Ormgatan,gatan
+4208,Burås Kyrkbacke,other
+4209,Cosselsgatan,gatan
+4210,Elsas Väg,other
+4211,Flyghamnsbacken,backen
+4212,Vikans Industriväg,vägen
+4213,Lulles Väg,other
+4214,Doktor Forselius gata,gatan
+4215,Doktor Forselius Gata,gatan
+4216,Paviljongvägen,vägen
+4217,Pilotvägen,vägen
+4218,Tingstadstunneln,other
+4219,Kornbodsvägen,vägen
+4220,Lilleby Kronogård,other
+4221,Lilleby Mellangård,other
+4222,Kråketegen,other
+4223,Älvegårdsvägen,vägen
+4224,Mjölkbodsvägen,vägen
+4225,Ladugårdsvägen,vägen
+4226,Skarpetegsvägen,vägen
+4227,Nils Ericsonsplatsen,other
+4228,Nordhemsgatan,gatan
+4229,Norskogsvägen,vägen
+4230,Kvarnfallsvägen,vägen
+4231,Södra Hamnefjällsvägen,vägen
+4232,Bergegårdsvägen,vägen
+4233,Sävbladsvägen,vägen
+4234,Konstnärsvägen,vägen
+4235,Näckrosvägen,vägen
+4236,Hamnefjällstorpet,other
+4237,Hamnefjällsvägen,vägen
+4238,Tallvägen,vägen
+4239,Sävstigen,other
+4240,Norra Sävviksvägen,vägen
+4241,Gröna Viken,other
+4242,Östra Hamnefjällsvägen,vägen
+4243,Sävviksvägen,vägen
+4244,Sofiehemsvägen,vägen
+4245,G,other
+4246,D,other
+4247,Smedjeholm,other
+4248,B,other
+4249,A,other
+4250,C,other
+4251,Askims Stationsväg,vägen
+4252,Erik Johannessons Gångbro,other
+4253,Västerhagen,other
+4254,Kallebäcksstigen,other
+4255,Slussplatsen,other
+4256,Bolerovägen,vägen
+4257,Separatorsgatan,gatan
+4258,Värmegatan,gatan
+4259,Väderlekstorget,torget
+4260,Mildvädersgatan,gatan
+4261,Nedre Kaserngården,other
+4262,Övre Kaserngården,other
+4263,Ågrändsbron,other
+4264,Operagatan,gatan
+4265,Krokerydsvägen,vägen
+4266,Kämpebron,other
+4267,Grustagsvägen,vägen
+4268,Tvärvägen,vägen
+4269,Planthagen,other
+4270,Björkhagen,other
+4271,Huketorpsvägen,vägen
+4272,Victoriapassagen,other
+4273,Klarvädersgatan,gatan
+4274,Kärleksstigen,other
+4275,Lysevägen,vägen
+4276,Myrbostigen,other
+4277,Flyghamnslyckan,other
+4278,Skeppstads Måsväg,vägen
+4279,Skeppstadsvägen,vägen
+4280,Solvarvsgatan,gatan
+4281,Kvibergs Kyrkogårdsväg,vägen
+4282,Kärragången,other
+4283,Dammengläntan,other
+4284,Larseredsdalen,other
+4285,Orrekulla Mellanväg,vägen
+4286,Larseredsvägen,vägen
+4287,Sankt Görans väg,vägen
+4288,Prilyckegången,other
+4289,Fänriksgatan,gatan
+4290,Ryttmästaregatan,gatan
+4291,Generalsgatan,gatan
+4292,Lillekärrsgången,other
+4293,Bua Gård,other
+4294,Kärrs Backe,other
+4295,Övre Linnefjällsvägen,vägen
+4296,Skyttepaviljongens Gata,gatan
+4297,Fanjunkaregatan,gatan
+4298,Uddevallagatan,gatan
+4299,Sparvgatan,gatan
+4300,Ågången,other
+4301,Björnekärrsgatan,gatan
+4302,Sagoskogen,other
+4303,Skolspåret,other
+4304,Skolstigen,other
+4305,Säve Djupedalsväg,vägen
+4306,Larsereds Lyckor,other
+4307,Larsereds mosse,other
+4308,Santessonsgatan,gatan
+4309,Lotta Svärdsgatan,gatan
+4310,Marbogatan,gatan
+4311,Bångegatan,gatan
+4312,Konstapelsgatan,gatan
+4313,Ludvig Tingströms gångbro,other
+4314,Björkstigen,other
+4315,Bremsegårdsvägen,vägen
+4316,Häggvägen,vägen
+4317,Fågleviksfjällväg,vägen
+4318,Gullfjällsvägen,vägen
+4319,Lilla Fågleviksvägen,vägen
+4320,Saxglimtsvägen,vägen
+4321,Motorklubbsvägen,vägen
+4322,Vintervädersgatan,gatan
+4323,Åsamossevägen,vägen
+4324,Ekereds höjd,other
+4325,Mona-Lisa Englunds väg,vägen
+4326,Sven Strömbergs väg,vägen
+4327,Kvibergs Ås,other
+4328,Bertil von Wachenfeldts Väg,other
+4329,Kanongränden,other
+4330,Stallmästaregatan,gatan
+4331,Furirsgatan,gatan
+4332,Herregårdsgärdet,other
+4333,Bronsvägen,vägen
+4334,Brottarvägen,vägen
+4335,Gamla Skarpetegen,other
+4336,Kohagsberget,other
+4337,Kromvägen,vägen
+4338,Lilleby Småängar,other
+4339,Rörhed,other
+4340,Solglimtsvägen,vägen
+4341,Tennvägen,vägen
+4342,Älvdanshagen,other
+4343,Älvkvarnsvägen,vägen
+4344,Lerbäcksterrassen,other
+4345,Djupedals Gård,other
+4346,Djupedals Mellangård,other
+4347,Djupedals Norgård,other
+4348,Djupedals Sörgård,other
+4349,Enebacken,backen
+4350,Furulundsvägen,vägen
+4351,Karlslundsvägen,vägen
+4352,Krokens Gård,other
+4353,Kung Borres Väg,other
+4354,Kyrkeby Norgård,other
+4355,Käringetorp,other
+4356,Lanåsvägen,vägen
+4357,Lunnarns Väg,other
+4358,Muleredsvägen,vägen
+4359,Sandens Gård,other
+4360,Skarpelandsvägen,vägen
+4361,Sofiedalsvägen,vägen
+4362,Stora Kärrs Väg,other
+4363,Svensby Mellangård,other
+4364,Svensby Norgård,other
+4365,Svensby Sörgård,other
+4366,Tåfjällsvägen,vägen
+4367,Tålyckan,other
+4368,Västra Äspetgården,other
+4369,Äspets Marker,other
+4370,Österslätts Gård,other
+4371,Österslätts Norgård,other
+4372,Östra Äspetgården,other
+4373,Backergårdsvägen,vägen
+4374,Jons Väg,other
+4375,Bergarns Backe,other
+4376,Bergkullen,other
+4377,Ellerödstäppan,other
+4378,Gamla Kornhallsvägen,vägen
+4379,Granheden,other
+4380,Gunnesby Sörgård,other
+4381,Kalsbobacken,backen
+4382,Kalsboängen,other
+4383,Karl Petters Väg,other
+4384,Kastellegårdsvägen,vägen
+4385,Klobergslyckan,other
+4386,Kohagen,other
+4387,Källaregården,other
+4388,Lia,other
+4389,Lilla Bolstensvägen,vägen
+4390,Maggeredsvägen,vägen
+4391,Nolhaga,other
+4392,Nordslätts Höjd,other
+4393,Pileröds Gård,other
+4394,Rammevägen,vägen
+4395,Rävekullevägen,vägen
+4396,Rödbo Lunnaväg,vägen
+4397,Skrälls Väg,other
+4398,Smens Väg,other
+4399,Södra Nordslättsvägen,vägen
+4400,Tolsegårdsvägen,vägen
+4401,Kringlekullen,other
+4402,Älvhemsvägen,vägen
+4403,Rastplats Delsjön,other
+4404,Storatorpsvägen,vägen
+4405,Bögatan,gatan
+4406,Silvandersgatan,gatan
+4407,Lilla Hökegatan,gatan
+4408,Gustavsgatan,gatan
+4409,Skidåkaren,other
+4410,Långeredsgatan,gatan
+4411,Hagforsgatan,gatan
+4412,Lindhultsgatan,gatan
+4413,Stenungsundsgatan,gatan
+4414,Förgyllarestråket,other
+4415,Mittgången,other
+4416,Fyrisvägen,vägen
+4417,Gärdsmygen,other
+4418,Höga Grimås,other
+4419,Högsäter Grimås,other
+4420,Kockheds Gård,other
+4421,Rönnings Marker,other
+4422,Solbräckevägen,vägen
+4423,Vägen till Lid,other
+4424,Åsens Väg,other
+4425,Askesby Norgård,other
+4426,Askesby Sörgård,other
+4427,Bärby Övergård,other
+4428,Kalsheds Norgård,other
+4429,Kalshedsbacken,backen
+4430,Kalshedevägen,vägen
+4431,Kvilleheds Bergegård,other
+4432,Kvilleheds Skattegård,other
+4433,Lilla Bärbyvägen,vägen
+4434,Niklasgården,other
+4435,Norgårdsliden,other
+4436,Norgårdsåsen,other
+4437,Snålstigen,other
+4438,Trolleredsvägen,vägen
+4439,Vasens Torp,other
+4440,Birgers Lycka,other
+4441,Ekstigen,other
+4442,Kanhalls Gård,other
+4443,Mannes Lycka,other
+4444,Nolhöjdsvägen,vägen
+4445,Tallåsvägen,vägen
+4446,Vickes Lycka,other
+4447,Adolfs Lycka,other
+4448,Ligårdsgången,other
+4449,Storkgatan,gatan
+4450,Läsö Fyrs Väg,other
+4451,Fiskefyrsvägen,vägen
+4452,Hanö Fyrs Väg,other
+4453,Tunnbojsvägen,vägen
+4454,Toppljusvägen,vägen
+4455,Blänkfyrsvägen,vägen
+4456,Mariaplan,other
+4457,Pressvägen,vägen
+4458,Hamntorgsgatan,gatan
+4459,Båtsman Grås Gata,gatan
+4460,Båtsman Bleks Gata,gatan
+4461,Båtsman Rems Gata,gatan
+4462,Skogaberg,other
+4463,Märlspiksgatan,gatan
+4464,Muraregatan,gatan
+4465,Rygången,other
+4466,Hellstedtsgatan,gatan
+4467,Amazonvägen,vägen
+4468,Östra Sörredsvägen,vägen
+4469,Gyllenstensgatan,gatan
+4470,Sandeslätt,other
+4471,Röseredsvägen,vägen
+4472,Brännbollsvägen,vägen
+4473,Hjällbo Lillgata,gatan
+4474,Eriksbo Backe,other
+4475,Dillgatan,gatan
+4476,Elof Lindälvs gata,gatan
+4477,Fritiof Anderssons Gata,gatan
+4478,Byvädersgången,other
+4479,Rödlöksvägen,vägen
+4480,Vapensmedsgatan,gatan
+4481,Lilla Gerrebackavägen,vägen
+4482,Ingebäckslyckan,other
+4483,Grimåsvägen,vägen
+4484,Masthuggsliden,other
+4485,Korgbollsvägen,vägen
+4486,Blomstigen,other
+4487,Barrstigen,other
+4488,Stombergsvägen,vägen
+4489,H,other
+4490,Grankullestigen,other
+4491,Tåsthultsvägen,vägen
+4492,Bågskyttebacken,backen
+4493,Mikael Ljungbergs väg,vägen
+4494,Gräslöksgången,other
+4495,Ärtgången,other
+4496,A4,other
+4497,A5,other
+4498,B1,other
+4499,B2,other
+4500,B5,other
+4501,A1,other
+4502,B3,other
+4503,B4,other
+4504,Rullagergatan,gatan
+4505,Arvid Palmgrens Gata,gatan
+4506,Dahlhemsvägen,vägen
+4507,Högens Gård,other
+4508,Kallhedsliden,other
+4509,Kallhedsängen,other
+4510,Lilla Kallhedsvägen,vägen
+4511,Lunnegårdsvägen,vägen
+4512,Norra Dahlhemsvägen,vägen
+4513,Smedjegårdsängen,other
+4514,Stora Hovgården,other
+4515,Södra Lunnegårdsvägen,vägen
+4516,Västra Smedjegården,other
+4517,Östra Smedjegården,other
+4518,Björlanda Lexbyväg,vägen
+4519,Kattedammen,other
+4520,Askesby Högengårdar,other
+4521,Björkberget,other
+4522,Högåsa Västra,other
+4523,Högåsa Östra,other
+4524,Lilla Räbbåsvägen,vägen
+4525,Räbbåslyckan,other
+4526,Räbbåsvägen,vägen
+4527,Snörpåsvägen,vägen
+4528,Öxnäs Mellangård,other
+4529,Tyvetvägen,vägen
+4530,Markbovägen,vägen
+4531,Höga Gård,other
+4532,Högabacken,backen
+4533,Fiskhamnspiren,other
+4534,Alekärrsgatan,gatan
+4535,Tvärflöjtsgatan,gatan
+4536,Delsjö Tvärväg,vägen
+4537,Dirigentgatan,gatan
+4538,Riksdalersgatan,gatan
+4539,Stokkebyes Kvarnväg,vägen
+4540,Fagottgatan,gatan
+4541,Kalvmossestigen,other
+4542,Björkkullen,other
+4543,Furudalen,other
+4544,Krämlevägen,vägen
+4545,Högtorp,other
+4546,Kantarellvägen,vägen
+4547,Kockhedsvägen,vägen
+4548,Murklevägen,vägen
+4549,Rödbo Björkhög,other
+4550,Rödbo Björkås,other
+4551,Rödbo Höglycka,other
+4552,Rösbodal,other
+4553,Svampvägen,vägen
+4554,Tryffelvägen,vägen
+4555,Vägen till kullen,other
+4556,Kallhedsvägen,vägen
+4557,Släktledsgatan,gatan
+4558,Övre Släktledsgatan,gatan
+4559,Björlanda Kile,other
+4560,Lilla Högenvägen,vägen
+4561,Lillegårdsvägen,vägen
+4562,Sjömarksbacken,backen
+4563,Sjömarksstigen,other
+4564,Västra Hovdalen,other
+4565,Östra Hovdalen,other
+4566,Övre Björlanda Strand,other
+4567,Flatåkern,other
+4568,Altarbacken,backen
+4569,Blåvingevägen,vägen
+4570,Ekoxevägen,vägen
+4571,Guldvingevägen,vägen
+4572,Klövåsvägen,vägen
+4573,Lilla Torskogsbacken,backen
+4574,Lilleby Mystelid,other
+4575,Lilleby Sörgård,other
+4576,Lillebydalen,other
+4577,Lorentz Väg,other
+4578,Lysmaskvägen,vägen
+4579,Småtrollens Väg,other
+4580,Soldatvägen,vägen
+4581,Svärmarevägen,vägen
+4582,Tordyvelsvägen,vägen
+4583,Torskogsbacken,backen
+4584,Torskogsliden,other
+4585,Torskogsvägen,vägen
+4586,Trollmors Väg,other
+4587,Linas Lycka,other
+4588,Skra Bro,other
+4589,Täppan,other
+4590,Per Wendelbos Väg,other
+4591,Säveåns Brygga,other
+4592,Lilla Munkebäcksgatan,gatan
+4593,Korta Gången,other
+4594,Munkebäckstorget,torget
+4595,Hjalmar Selandersgatan,gatan
+4596,Bovallstrandsgatan,gatan
+4597,Stockvagnsgatan,gatan
+4598,Bergslagsgatan,gatan
+4599,Kruthusgatan,gatan
+4600,Kornettgatan,gatan
+4601,Lilla Kornettgatan,gatan
+4602,Trombongatan,gatan
+4603,Doktor Forselius Backe,other
+4604,Doktor Liborius Gata,gatan
+4605,Doktor Sydows Gata,gatan
+4606,Helenebergsgatan,gatan
+4607,Snöhöjdsgatan,gatan
+4608,Syster Bojans Backe,other
+4609,Doktor Lidforss af Geijerstams Gångväg,vägen
+4610,Banjogatan,gatan
+4611,Amhults Uppegård,other
+4612,Amhultsvägen,vägen
+4613,Lille-Johans Lycka,other
+4614,Stenängens Lycka,other
+4615,Vännernas Gård,other
+4616,Heliotropvägen,vägen
+4617,Påskliljevägen,vägen
+4618,Lövkojevägen,vägen
+4619,Stormhattsvägen,vägen
+4620,Astervägen,vägen
+4621,Krokusvägen,vägen
+4622,Smedkullen,other
+4623,Nickes Väg,other
+4624,Krimlanns Gård,other
+4625,Krogens Gård,other
+4626,Kärrs Byväg,vägen
+4627,Olenas Lycka,other
+4628,Runskriftsgatan,gatan
+4629,Röds Tvärväg,vägen
+4630,Röds Backe,other
+4631,Vedbackavägen,vägen
+4632,Prästgårdsängen,other
+4633,Onyxgatan,gatan
+4634,Zirkongatan,gatan
+4635,Februarigatan,gatan
+4636,Sjusovaregatan,gatan
+4637,Lilla Korsåsgatan,gatan
+4638,Reningsverksgatan,gatan
+4639,Ängås Gård,other
+4640,Ängåsvallen,other
+4641,Skogsliden,other
+4642,Kniparedsgården,other
+4643,Turkduvevägen,vägen
+4644,Blåduvebacken,backen
+4645,Strömstarevägen,vägen
+4646,Solfågelsvägen,vägen
+4647,Sädesärlevägen,vägen
+4648,Ekereds byväg,vägen
+4649,Furustigen,other
+4650,Viggeliden,other
+4651,Byalagsgatan,gatan
+4652,Epiloggatan,gatan
+4653,Poesigatan,gatan
+4654,Skaldegatan,gatan
+4655,Gamla Bällskärsvägen,vägen
+4656,Backebogatan,gatan
+4657,Stigen,other
+4658,Byamannagatan,gatan
+4659,Väråsgatan,gatan
+4660,Östra Arödsgatan,gatan
+4661,Nyodlaregatan,gatan
+4662,Tryckerigatan,gatan
+4663,Glisterbackegatan,gatan
+4664,Sågverksgatan,gatan
+4665,Stenhedsgatan,gatan
+4666,Aspedalsgläntan,other
+4667,Burhällsvägen,vägen
+4668,Bygdeborgsvägen,vägen
+4669,Dalsänkan,other
+4670,Erlingsvägen,vägen
+4671,Gisslefjällsvägen,vägen
+4672,Gråstensliden,other
+4673,Lilla Myrekärrsvägen,vägen
+4674,Ljungliden,other
+4675,Mellangårdsvägen,vägen
+4676,Myrekärrsvägen,vägen
+4677,Måns Torbjörnsvägen,vägen
+4678,Snäckskalsvägen,vägen
+4679,Södra Snäckskalsvägen,vägen
+4680,Torbjörnsliden,other
+4681,Blåsippsgatan,gatan
+4682,Södra Rävlyevägen,vägen
+4683,Skogsgläntevägen,vägen
+4684,Bielkegatan,gatan
+4685,Blåhammarsgatan,gatan
+4686,Frödingsgatan,gatan
+4687,Intagsgatan,gatan
+4688,Kallkällegatan,gatan
+4689,Kyrkåsgatan,gatan
+4690,Kyrkåsplatsen,other
+4691,Lådspikaregatan,gatan
+4692,Ottfjällsgatan,gatan
+4693,Räntmästaregatan,gatan
+4694,Sofiagatan,gatan
+4695,de Geersgatan,gatan
+4696,Lindekullegatan,gatan
+4697,Vändgatan,gatan
+4698,Ulveliden,other
+4699,Sågmästaregatan,gatan
+4700,Hogenskilds Trappor,other
+4701,Hogenskildsgatan,gatan
+4702,Nobelgatan,gatan
+4703,Nobelplatsen,other
+4704,Sanatoriegatan,gatan
+4705,Sergelsgatan,gatan
+4706,Stobéegatan,gatan
+4707,Virginsgatan,gatan
+4708,Småstugevägen,vägen
+4709,Timotejgången,other
+4710,Guldregnsgången,other
+4711,Anaris Trappgata,gatan
+4712,Gullvivegången,other
+4713,Ormebäcksgatan,gatan
+4714,Daliagången,other
+4715,Klövergången,other
+4716,Flädergången,other
+4717,Lobeliagången,other
+4718,Bellisgången,other
+4719,Humlegången,other
+4720,Klängrosgången,other
+4721,Korngången,other
+4722,Häggången,other
+4723,Stockrosgången,other
+4724,Lavendelgången,other
+4725,Primulagången,other
+4726,Snödroppegången,other
+4727,Spireagången,other
+4728,Vetegången,other
+4729,Slåttervägen,vägen
+4730,Ligustervägen,vägen
+4731,Källebergsvägen,vägen
+4732,Skördevägen,vägen
+4733,Vändstigen,other
+4734,Barlastgatan,gatan
+4735,Johannesplatsen,other
+4736,Kronhusgården,other
+4737,Knut Marks väg,vägen
+4738,Rödgårdsvägen,vägen
+4739,Lammelyckan,other
+4740,Gropegårdsgatan,gatan
+4741,Romangatan,gatan
+4742,Sjunde Kvillängsvägen,vägen
+4743,Fredrikas Gård,other
+4744,Kronhjortsparken,other
+4745,Örgryte Klockarestig,other
+4746,Börsåsgatan,gatan
+4747,Dammgårdsgatan,gatan
+4748,Forskningsgången,other
+4749,Konsertgatan,gatan
+4750,Miragatan,gatan
+4751,Betzensgatan,gatan
+4752,Bläsgatan,gatan
+4753,Henriksbergsgatan,gatan
+4754,Masthuggsterrassen,other
+4755,Wilhelmsbergsstigen,other
+4756,Adrian Petersons Gångväg,vägen
+4757,Maja Kjellins Gångväg,vägen
+4758,Tor Bjurströms Gångväg,vägen
+4759,Louis Enders Gångväg,vägen
+4760,Jeanna Oterdahls Gångväg,vägen
+4761,Gillis Edenhjelms Gångväg,vägen
+4762,Maj Kullenbergs Gångväg,vägen
+4763,Carl Kylbergs Gångväg,vägen
+4764,Johanna Hedéns Gångväg,vägen
+4765,Bällskärsvägen,vägen
+4766,Apelgatan,gatan
+4767,Apelgrensgatan,gatan
+4768,Furåsgläntan,other
+4769,Långvågsgatan,gatan
+4770,Radiofyrsgatan,gatan
+4771,Safirgatan,gatan
+4772,Våglängdsgatan,gatan
+4773,Ernst Wigforss Allé,other
+4774,Släktforskarens Gångväg,vägen
+4775,Packhusgatan,gatan
+4776,Kaserngränden,other
+4777,J F Carpelans Gångväg,vägen
+4778,Beda Hallbergs Gångväg,vägen
+4779,Annexgatan,gatan
+4780,Scoutgatan,gatan
+4781,Katrinedalsgatan,gatan
+4782,Nordgårdsgatan,gatan
+4783,Relingsgatan,gatan
+4784,Björsbo stallväg,vägen
+4785,Gärdsgårdsstigen,other
+4786,Tullarns väg,vägen
+4787,Ganlevägen,vägen
+4788,Sandskäddegatan,gatan
+4789,Mallgatan,gatan
+4790,Linåkersgatan,gatan
+4791,Stenvägen,vägen
+4792,Hedgatan,gatan
+4793,Sköljestensgränd,gränd
+4794,Vingalandsgatan,gatan
+4795,Sörhallstorget,torget
+4796,Sagolandsvägen,vägen
+4797,Sörhallspromenaden,other
+4798,Skeppspromenaden,other
+4799,Norra Skeppspromenaden,other
+4800,Ehrenströmsgatan,gatan
+4801,E,other
+4802,F,other
+4803,J,other
+4804,K,other
+4805,Ängholmsgatan,gatan
+4806,Fyrktorget,torget
+4807,Eriksbergstorget,torget
+4808,Norra Säterigatan,gatan
+4809,Reveljgatan,gatan
+4810,Ångaren Figges Gata,gatan
+4811,Skonaren Ingos gata,gatan
+4812,Spontkajen,other
+4813,Maskinkajen,other
+4814,Pölsebobacken,backen
+4815,Ingenjörsgatan,gatan
+4816,Lasarettsgatan,gatan
+4817,Västra Liden,other
+4818,Käppslängareliden,other
+4819,Gnistgatan,gatan
+4820,L,other
+4821,Lönnrunan,other
+4822,Vårbäcksvägen,vägen
+4823,Änghagsliden,other
+4824,Gånggriftsgatan,gatan
+4825,Hembygdsgatan,gatan
+4826,Härdigs Trappa,other
+4827,Radarhöjden,other
+4828,Inez Svenssons väg,vägen
+4829,Johan i Bönns Väg,other
+4830,Lilla Bottnevägen,vägen
+4831,Lilleby Ås,other
+4832,Tjärnhöjdsvägen,vägen
+4833,Änghagsdalen,other
+4834,Runslingan,other
+4835,Bjurslättstorg,torget
+4836,X,other
+4837,Gustaf Dalénsgatan,gatan
+4838,E1,other
+4839,E3,other
+4840,E2,other
+4841,Lilla Torget,other
+4842,Milpålegatan,gatan
+4843,Stuxbergsgatan,gatan
+4844,Trappgången,other
+4845,Odinsgatan,gatan
+4846,Ranängsgatan,gatan
+4847,Västra Stampbron,other
+4848,Östra Stampbron,other
+4849,Gamla Brottkärrsvägen,vägen
+4850,Monteringsvägen,vägen
+4851,Stengetsgatan,gatan
+4852,Grills Väg,other
+4853,Båtsmansdalsgatan,gatan
+4854,Kometstråket,other
+4855,Källö Byväg,vägen
+4856,Källö Bryggväg,vägen
+4857,Myggan Ericsons Gata,gatan
+4858,Jaktgatan,gatan
+4859,Långåsliden,other
+4860,Pipblåsarebacken,backen
+4861,Pipblåsaregången,other
+4862,10,other
+4863,2,other
+4864,18,other
+4865,9,other
+4866,8,other
+4867,3,other
+4868,19,other
+4869,1,other
+4870,5,other
+4871,6,other
+4872,17,other
+4873,14,other
+4874,7,other
+4875,16,other
+4876,15,other
+4877,Edsviksvägen,vägen
+4878,Svarttjärnsvägen,vägen
+4879,Kryddkrassegatan,gatan
+4880,Kryddväxtgatan,gatan
+4881,Åke Göranssons Gångväg,vägen
+4882,Vildkaprifolen,other
+4883,Kraftrunegatan,gatan
+4884,Bildstensgatan,gatan
+4885,Trollrunan,other
+4886,Nordhagsvägen,vägen
+4887,Rödklövern,other
+4888,Runfyndsgatan,gatan
+4889,Hökällans väg,vägen
+4890,Johan Svenssons Gångväg,vägen
+4891,Gåsagången,other
+4892,Lådämnesgatan,gatan
+4893,Stabbegatan,gatan
+4894,Träringen,other
+4895,Sörensens gata,gatan
+4896,Örgryte Nya Kyrkogård,other
+4897,Wenngrensstigen,other
+4898,Sankt Pauli Trappor,other
+4899,Wrangels Trappgata,gatan
+4900,Redbergs Trappor,other
+4901,Backstugevägen,vägen
+4902,Björkgläntan,other
+4903,Gullö Skog,other
+4904,Brandenburg Torp,other
+4905,Elleröds Bergsklippa,other
+4906,Elleröds Ekeberga,other
+4907,Elleröds Ekelycka,other
+4908,Elleröds Gård,other
+4909,Froståsvägen,vägen
+4910,Furuhöjdsbacken,backen
+4911,Gullö Gård,other
+4912,Gullöhagen,other
+4913,Gunnesby Hembygdsgård,other
+4914,Gunnesby Kalsbogård,other
+4915,Göddereds Byväg,vägen
+4916,Göddereds Gård,other
+4917,Göddereds Norgård,other
+4918,Göddereds Sörgård,other
+4919,Hakeredsvägen,vägen
+4920,Karlsbolyckan,other
+4921,Livasgården,other
+4922,Pileröds Björklid,other
+4923,Pilerödsvägen,vägen
+4924,Rosenberg,other
+4925,Rösetgården,other
+4926,Rösetlyckan,other
+4927,Solgläntan,other
+4928,Stäckens Väg,other
+4929,Ärthögsvägen,vägen
+4930,Östra Gullöslätten,other
+4931,Snäppegatan,gatan
+4932,Ytterhamnsmotet,motet
+4933,Kvarnebäcksvägen,vägen
+4934,Axelinas Väg,other
+4935,Batterivägen,vägen
+4936,Prosten Grens Väg,other
+4937,Trångets Norra Väg,other
+4938,Flintstensgatan,gatan
+4939,Lottkärrsvägen,vägen
+4940,Äckrornavägen,vägen
+4941,Grå Lars Väg,other
+4942,Duvekärrsvägen,vägen
+4943,Lasse Dahlquists Plats,other
+4944,Grytstigen,other
+4945,Hovås Blåbärsstig,other
+4946,Märgelstigen,other
+4947,Båtsman Dubbels Gata,gatan
+4948,Brummarebacken,backen
+4949,Brunstorpsnäsvägen,vägen
+4950,Färjeroddarvägen,vägen
+4951,Kornhalls Ekebo,other
+4952,Lökekullen,other
+4953,Ristvägen,vägen
+4954,Sandgropsvägen,vägen
+4955,Skäggevägen,vägen
+4956,Säve Hasselbacke,other
+4957,Torslanda Torg,other
+4958,Torslanda Kyrkväg,vägen
+4959,Flaggberget,other
+4960,Brottkärrs Park,other
+4961,Brottkärrs Röseväg,vägen
+4962,Bjurslätts Torg,other
+4963,Hovås Bräckaväg,vägen
+4964,Lilla Karlavagnsgatan,gatan
+4965,Hovås Björnbärsgång,other
+4966,Hovås Mullbärsgång,other
+4967,Hovås Stenbärsväg,vägen
+4968,Hovås Rönnbärsgång,other
+4969,Brännekullabacken,backen
+4970,Ättestigen,other
+4971,Härlanda Park,other
+4972,Källstigen,other
+4973,Tofteliden,other
+4974,Lindholmsplatsen,other
+4975,Lennart Svegelius Väg,other
+4976,Gröna Annas Gata,gatan
+4977,Övre Sanatoriegatan,gatan
+4978,Tallhöjdsgatan,gatan
+4979,Promenadstigen,other
+4980,Långa Gången,other
+4981,Havsfruns Väg,other
+4982,Gårdstomtestigen,other
+4983,Lorensbergsgatan,gatan
+4984,Journalvägen,vägen
+4985,Gurkstigen,other
+4986,Utbergsvägen,vägen
+4987,Domherrevägen,vägen
+4988,Lövsångarevägen,vägen
+4989,Odenssvalevägen,vägen
+4990,Blåmesvägen,vägen
+4991,Piplärkevägen,vägen
+4992,A3,other
+4993,Helleforsgatan,gatan
+4994,Hallongången,other
+4995,Linnèagången,other
+4996,Vallmogången,other
+4997,Syrèngången,other
+4998,Boulevarden,other
+4999,Smultrongången,other
+5000,Pärtåsgatan,gatan
+5001,Dämmebron,other
+5002,Graffmansgatan,gatan
+5003,Jörgensgatan,gatan
+5004,Strömmensbergs Trappor,other
+5005,Carl Wilhelmsons Väg,other
+5006,Distingsgatan,gatan
+5007,Bökersgatan,gatan
+5008,Jakobigatan,gatan
+5009,Gösta Sandelsgatan,gatan
+5010,Edelfeltsgatan,gatan
+5011,Aroseniusgatan,gatan
+5012,Björkfeldtsgatan,gatan
+5013,Prins Eugens väg,vägen
+5014,Nösundsgatan,gatan
+5015,Ribbas gata,gatan
+5016,Uddevallaplatsen,other
+5017,Storhöjdstrappan,other
+5018,Prospect Hills Trappor,other
+5019,Blidbergs Trappor,other
+5020,Fredsgatan,gatan
+5021,Gunnar Carlssons Trappor,other
+5022,Göketorpstrappan,other
+5023,Vårfrugatan,gatan
+5024,Genomgången,other
+5025,Yttre Järnvågsbron,other
+5026,Qvidingsgatan,gatan
+5027,Albanusbacken,backen
+5028,Älgstråket,other
+5029,Uggledalsvägen,vägen
+5030,Lilla Vårvädersgatan,gatan
+5031,Hästlyckan,other
+5032,Aspedalsvägen,vägen
+5033,Kärrsgårdsgatan,gatan
+5034,Frodestigen,other
+5035,Dalklintsvägen,vägen
+5036,Skogsbacken,backen
+5037,Wollins trappor,other
+5038,Ringnotsvägen,vägen
+5039,Bleckvarugatan,gatan
+5040,Landstormsgatan,gatan
+5041,Latitudvägen,vägen
+5042,Fyrans backe,other
+5043,Horisontvägen,vägen
+5044,Meridianvägen,vägen
+5045,Knopvägen,vägen
+5046,Hobergs Trappor,other
+5047,Dammen på Kärr,other
+5048,Remmetorpsvägen,vägen
+5049,Trappstigen,other
+5050,Haga Nygata,gatan
+5051,Kvillebergsås,other
+5052,Femhörningsbacken,backen
+5053,Erling Skackers Gata,gatan
+5054,Ingebäcks Byväg,vägen
+5055,Oklandsåsen,other
+5056,Sankt Olofs källa,other
+5057,Tynneredsmotet,motet
+5058,Gerdas Gård,other
+5059,Nortagene Gård,other
+5060,"Riksväg 40,27",other
+5061,Nils Oderstams Gångstig,other
+5062,Makarna Åbergs Gångstig,other
+5063,Runhällsgatan,gatan
+5064,Bottne Broväg,vägen
+5065,Bua-Skogen,other
+5066,Oxholmsgatan,gatan
+5067,Dansbanevägen,vägen
+5068,Horisontstigen,other
+5069,Navigationsvägen,vägen
+5070,Lilla Pölsans väg,vägen
+5071,Stora Pölsans väg,vägen
+5072,Majstenavägen,vägen
+5073,Vedskärsvägen,vägen
+5074,Gradmansplatsen,other
+5075,Ättekullen,other
+5076,Amhults undergång,other
+5077,Lilla Sörredsvägen,vägen
+5078,Kungspassagen,other
+5079,Grand Passage,other
+5080,Torgpassagen,other
+5081,Stora Gårda,other
+5082,Ysters Väg,other
+5083,Drottningpassagen,other
+5084,Ledetstigen,other
+5085,Frisksportaren,other
+5086,Orienteraren,other
+5087,Allsångsgången,other
+5088,Kvintettgången,other
+5089,Sologången,other
+5090,Duettgången,other
+5091,Sextettgången,other
+5092,Septettgången,other
+5093,Kvartettgången,other
+5094,Gåseklovan,other
+5095,Trallgången,other
+5096,Södra Tandåstrappan,other
+5097,Skeppstads Trastväg,vägen
+5098,Skeppstads Ringväg,vägen
+5099,Skeppstads Gateskärsväg,vägen
+5100,Liedbergsgatan,gatan
+5101,Hammarbergs Backe,other
+5102,Triangeln,other
+5103,Majvivsgatan,gatan
+5104,Kvillebäcksplatsen,other
+5105,Sixten Camps gata,gatan
+5106,Bältbron,other
+5107,Polkettvägen,vägen
+5108,Masurkavägen,vägen
+5109,Schottisvägen,vägen
+5110,Älvåsbacken,backen
+5111,Gammaldansvägen,vägen
+5112,Duvans Väg,other
+5113,Berghemsvägen,vägen
+5114,Rödklintsgatan,gatan
+5115,Björsaråsvägen,vägen
+5116,Gråbo,other
+5117,Öckeröleden,leden
+5118,Hallspjällsgatan,gatan
+5119,Bergsjösvängen,other
+5120,Gunnilse Ljungbacke,other
+5121,Kvarnpiren,other
+5122,Pir 4,other
+5123,Pir 5,other
+5124,Tomtebacken,backen
+5125,Hildebrandsgatan,gatan
+5126,Lilla Ellesbovägen,vägen
+5127,Eriksbo Lilläng,other
+5128,Eriksbovägen,vägen
+5129,Tennisvägen,vägen
+5130,Rosenhällsvägen,vägen
+5131,Borstbindaregatan,gatan
+5132,Gamla Tuvevägen,vägen
+5133,Penselgatan,gatan
+5134,Solventilsgatan,gatan
+5135,Badvikshöjden,other
+5136,Badviksvägen,vägen
+5137,Stommavägen,vägen
+5138,Björkdalen,other
+5139,Lilla Badviksvägen,vägen
+5140,Skogsmarksvägen,vägen
+5141,Smörvattnestigen,other
+5142,Danseredsvägen,vägen
+5143,Lysetorpsvägen,vägen
+5144,Torvhögs Nordgårdsväg,vägen
+5145,Krokstorpsvägen,vägen
+5146,Högsjöåsvägen,vägen
+5147,Bureds Gärde,other
+5148,Östra Björredsvägen,vägen
+5149,Rydetvägen,vägen
+5150,Berggrottevägen,vägen
+5151,T-vägen,vägen
+5152,Torvhögsbrovägen,vägen
+5153,Gärdhemsvägen,vägen
+5154,Torvhögs Gärde,other
+5155,Bergums Skattegårdsväg,vägen
+5156,Bergums Hovgårdsväg,vägen
+5157,Rydståvägen,vägen
+5158,Björsaredsvägen,vägen
+5159,Nilses Bratter,other
+5160,Brändamosse,other
+5161,Bergums Högenväg,vägen
+5162,Västra Rydetvägen,vägen
+5163,Ströms Väg,other
+5164,Dansereds Södergårdsväg,vägen
+5165,Lövhagavägen,vägen
+5166,Minas väg,vägen
+5167,Snipebergsvägen,vägen
+5168,Ardalsberget,other
+5169,Hålstigen,other
+5170,Lilla Hålskogsgatan,gatan
+5171,Ekeredsvägen,vägen
+5172,Gunnilse Skolväg,vägen
+5173,Grusbrantsvägen,vägen
+5174,Hällmarksvägen,vägen
+5175,Ekåsvägen,vägen
+5176,Nämndemansgärdet,other
+5177,Ekskogsliden,other
+5178,Albotorget,torget
+5179,Carl-Erik Hammaréns backe,other
+5180,Göketorpsgatan,gatan
+5181,Bergfinksvägen,vägen
+5182,Bingaredsvägen,vägen
+5183,Björredsvägen,vägen
+5184,Ekberget,other
+5185,Fanjunkarens Lycka,other
+5186,Fyrväpplingen,other
+5187,Grönfinksvägen,vägen
+5188,Jättestugorna,other
+5189,Kull-Augustes Väg,other
+5190,Lamparnavägen,vägen
+5191,Lilla Tyrsjövägen,vägen
+5192,Nöthultsvägen,vägen
+5193,Nötveckestupet,other
+5194,Olofslättsvägen,vägen
+5195,Ringduvevägen,vägen
+5196,Skogsduvevägen,vägen
+5197,Slaktarns Backe,other
+5198,Stenbrottsvägen,vägen
+5199,Sånglärkevägen,vägen
+5200,Hallengårdsvägen,vägen
+5201,Ströms Vinkelväg,vägen
+5202,Åkes Väg,other
+5203,Rastestället,other
+5204,Övre Ströms Väg,other
+5205,Oskarsbergsvägen,vägen
+5206,Mistlursvägen,vägen
+5207,Marieholmstunneln,other
+5208,Walckesgatan,gatan
+5209,Salsmästaregatan,gatan
+5210,Förö Bergstig,other
+5211,Förö Södra Strandväg,vägen
+5212,Förö Ejderväg,vägen
+5213,Berguvsgatan,gatan
+5214,Strandskategatan,gatan
+5215,Hvitfeldtsplatsen,other
+5216,Bergums Källegårdsväg,vägen
+5217,Bergums Karlslund,other
+5218,Bergums Källebacke,other
+5219,Björsbo Grenåsväg,vägen
+5220,Björsbo Gård,other
+5221,Dansereds Gärde,other
+5222,Dansered Mellangård,other
+5223,Dansereds Nordgård,other
+5224,Dansereds Skogaväg,vägen
+5225,Dansereds Äng,other
+5226,Gulleredsvägen,vägen
+5227,Kappereds Kulle,other
+5228,Kapperedsvägen,vägen
+5229,Liden,other
+5230,Lilla Björsaredsvägen,vägen
+5231,Lysebrunnsvägen,vägen
+5232,Långevatten,other
+5233,Mollsjönäsvägen,vägen
+5234,Mollsjövägen,vägen
+5235,Ormåsvägen,vägen
+5236,Skårbergsvägen,vägen
+5237,T-backen,backen
+5238,Västra Stigen,other
+5239,Industrivägen,vägen
+5240,Kjell Hjerns Gata,gatan
+5241,Ella Hillbäcks Gata,gatan
+5242,Sophie Elkans Gata,gatan
+5243,Kornhallsvägen,vägen
+5244,Gödderedsbacken,backen
+5245,Oxhagens Rosenhill,other
+5246,Rönnings Gård,other
+5247,Bessemergatan,gatan
+5248,Tackjärnsgatan,gatan
+5249,Nordstans lastgata,gatan
+5250,Stenebyvägen,vägen
+5251,LX-Port,other
+5252,M,other
+5253,N,other
+5254,O,other
+5255,P,other
+5256,Traktorgatan,gatan
+5257,Högbrogatan,gatan
+5258,Bredmossegatan,gatan
+5259,Knipeflogsgatan,gatan
+5260,Råbäcksgatan,gatan
+5261,Rörmossegatan,gatan
+5262,Torvmossegatan,gatan
+5263,Sven Hultins Plats,other
+5264,Bryggaregatan,gatan
+5265,Halvorsäng,other
+5266,Ytterhamnsvägen,vägen
+5267,Surbrunnsgatan,gatan
+5268,Blixtbrickegatan,gatan
+5269,Lilleby Badväg,vägen
+5270,Stureplatsen,other
+5271,Rusthållareplatsen,other
+5272,Ekåsbergsvägen,vägen
+5273,Spånkullen,other
+5274,Vitaminvägen,vägen
+5275,Bandsågsgatan,gatan
+5276,Klyvsågsgatan,gatan
+5277,Sågställaregatan,gatan
+5278,Hyvelmästaregatan,gatan
+5279,Sågbladsgatan,gatan
+5280,Receptvägen,vägen
+5281,Oscar Fredriks Kyrkoplan,other
+5282,Bångejordsgatan,gatan
+5283,Norra Tandåstrappan,other
+5284,Örgryte Kyrkogata,gatan
+5285,Sannegårdsbron,other
+5286,Bazarbron,other
+5287,Jungfrustigen,other
+5288,Mäster Palmsgatan,gatan
+5289,Bulteklubbsgatan,gatan
+5290,Britta-Lisas gata,gatan
+5291,Gamla Bastebergsvägen,vägen
+5292,Skallviksvägen,vägen
+5293,Liljekonvaljen,other
+5294,Röds Jupiterstig,other
+5295,Röds Marsstig,other
+5296,Röds Månstig,other
+5297,Röds Pallasstig,other
+5298,Röds Plutostig,other
+5299,Röds Saturnusstig,other
+5300,Röds Uranusstig,other
+5301,Vitklövern,other
+5302,Stegerholmsvägen,vägen
+5303,Runstensvägen,vägen
+5304,Långebergs bygata,gatan
+5305,Fornlämningsgatan,gatan
+5306,Kålhagen,other
+5307,Tygvaktaregatan,gatan
+5308,Gunviken,other
+5309,Ugglegården,other
+5310,Tabergsstigen,other
+5311,Lefflersgatan,gatan
+5312,Tumlebacken,backen
+5313,Floras kulle,other
+5314,Ludde Gentzels Gångväg,vägen
+5315,Lilla Brännekullavägen,vägen
+5316,Skeppstads Ärleväg,vägen
+5317,Skeppstads Ejderväg,vägen
+5318,Skeppstads Strandväg,vägen
+5319,Snickaregången,other
+5320,Rektor Ohlons Gångväg,vägen
+5321,Sophus Petersens Backe,other
+5322,Segelflyget,other
+5323,Benjamins Lycka,other
+5324,Mörängens Lycka,other
+5325,Eriksgården,other
+5326,Fjärrkallevägen,vägen
+5327,Skovelvägen,vägen
+5328,Sabinas Väg,other
+5329,Lilla Trulsdal,other
+5330,Trulsdal,other
+5331,Sofiedal,other
+5332,Aronsberg,other
+5333,Lilla Bergkullavägen,vägen
+5334,Småkulla Äng,other
+5335,Stjärnkullavägen,vägen
+5336,Källöstigen,other
+5337,Lilla Tunnlandsgatan,gatan
+5338,Aspirantgatan,gatan
+5339,Kadettgatan,gatan
+5340,Ordonnansgatan,gatan
+5341,Rustmästaregatan,gatan
+5342,Soldathemsgatan,gatan
+5343,Jupitergatan,gatan
+5344,Trädgårdsstigen,other
+5345,Ångaren Artemis gata,gatan
+5346,John Bunyans Väg,other
+5347,Västra Dockpiren,other
+5348,Västra Dockvallen,other
+5349,Arne Augustssons Plats,other
+5350,Östra Dockvallen,other
+5351,Blockflöjtsgatan,gatan
+5352,Cymbalgatan,gatan
+5353,Trumgatan,gatan
+5354,Trumpetgatan,gatan
+5355,Gunnareds Industriväg,vägen
+5356,Trädgårdsberget,other
+5357,Dansereds Gård,other
+5358,Öxnabergsvägen,vägen
+5359,Linnefjället,other
+5360,Oktangatan,gatan
+5361,Ryavägen,vägen
+5362,Skärhamnsgatan,gatan
+5363,Smögengatan,gatan
+5364,Styckegodsgatan,gatan
+5365,Djuråsvägen,vägen
+5366,Huggåsvägen,vägen
+5367,Garnfot,other
+5368,Karnevalsstråket,other
+5369,Lilla Mosstuvevägen,vägen
+5370,Byvädersgatan,gatan
+5371,Dammkärrsbacken,backen
+5372,Hagge Geigerts Trappor,other
+5373,Nilssonsberg,other
+5374,Skeppstads Andväg,vägen
+5375,Skeppstads Ljungväg,vägen
+5376,Flygstationsvägen,vägen
+5377,Fraktflyget,other
+5378,Rungången,other
+5379,Salviaterrassen,other
+5380,Gröngölingsgatan,gatan
+5381,Lilla Solsätervägen,vägen
+5382,Decenniumgatan,gatan
+5383,Solståndsgatan,gatan
+5384,Lärje Bangårdsgata,gatan
+5385,Arons väg,vägen
+5386,Billdals allé,other
+5387,Byggens väg,vägen
+5388,Resliden,other
+5389,Skintebovägen,vägen
+5390,Åsdammsstigen,other
+5391,Billdals Kläppeväg,vägen
+5392,Billdals Trädgårdsväg,vägen
+5393,Forsythiavägen,vägen
+5394,Clara Olbers Väg,other
+5395,Gustegårdsvägen,vägen
+5396,Lilla Ekebacken,backen
+5397,Ekebacken,backen
+5398,Ekebackavägen,vägen
+5399,Holmedalen,other
+5400,Björkelundsvägen,vägen
+5401,Gunseredsgården,other
+5402,Lövkullen,other
+5403,Lövkulleskogen,other
+5404,Lill-Edvards väg,vägen
+5405,Lilla Askimsvägen,vägen
+5406,Lassegårdsvägen,vägen
+5407,Hambovägen,vägen
+5408,Lilla Grusåsvägen,vägen
+5409,Furet,other
+5410,Norra Hultet,other
+5411,Södra Hultet,other
+5412,Bergsfoten,other
+5413,Talldungen,other
+5414,Rydsvägen,vägen
+5415,Grönbräckavägen,vägen
+5416,Grönbräcka Äng,other
+5417,Rangeltorpsstigen,other
+5418,Korallgränd,gränd
+5419,Solbacken,backen
+5420,Hasselgången,other
+5421,Oxelgången,other
+5422,Flyttblocksvägen,vägen
+5423,Berghagavägen,vägen
+5424,Berghagagången,other
+5425,J Sigfrid Edströms Gata,gatan
+5426,C A Reuterswärds Gata,gatan
+5427,Tuvlyckevägen,vägen
+5428,Skintebo Stora,other
+5429,Olaus Petrigatan,gatan
+5430,Backängen,other
+5431,Holmbacken,backen
+5432,Kvarnlyckan,other
+5433,Ängslyckan,other
+5434,Klyfteråsen,other
+5435,Bassåsbacken,backen
+5436,Furuslätten,other
+5437,Nyhagen,other
+5438,Humlekärret,other
+5439,Uggledals byväg,vägen
+5440,Sareks Trappgata,gatan
+5441,Bergsgatan,gatan
+5442,Tulebergsstigen,other
+5443,Nypongången,other
+5444,Påls väg,vägen
+5445,Gunnareds Kyrkväg,vägen
+5446,Nils Mattssons väg,vägen
+5447,Sommarbovägen,vägen
+5448,Grävlingstigen,other
+5449,Letsegårdsängen,other
+5450,Stora Badhusgatan,gatan
+5451,Grannsämjan,other
+5452,Kolonilyckan,other
+5453,Vänskapen,other
+5454,Sommarlyckan,other
+5455,Berghagabacken,backen
+5456,Lövåsen,other
+5457,Lövskogen,other
+5458,Lärkträdet,other
+5459,Partihandelstorget,torget
+5460,Billdals Bokväg,vägen
+5461,Elins Gård,other
+5462,Falutorget,torget
+5463,Kultivatorgatan,gatan
+5464,Triörgatan,gatan
+5465,Walckesbron,other
+5466,Lilla Waterloogatan,gatan
+5467,Båtsman Långs Gata,gatan
+5468,Kastmyntsgatan,gatan
+5469,Skotvägen,vägen
+5470,Matildebergsgatan,gatan
+5471,Knipplebergsvägen,vägen
+5472,Bergviksvägen,vägen
+5473,Lotsarnas Väg,other
+5474,Återbruksvägen,vägen
+5475,Örnekulans Väg,other
+5476,Öxnäs By,other
+5477,Brunstorps Gärde,other
+5478,Ormelidsvägen,vägen
+5479,Sörslättsvägen,vägen
+5480,Nyströmsstigen,other
+5481,Länsgränd,gränd
+5482,Nötholmsvägen,vägen
+5483,Klockstigen,other
+5484,Kattkärrsvägen,vägen
+5485,Gema-Kjells Väg,other
+5486,Lärjeågatan,gatan
+5487,Lärje Stationsgata,gatan
+5488,Vattenverksgatan,gatan
+5489,Nellickevägen,vägen
+5490,Gamlebo,other
+5491,Lexby Bergegård,other
+5492,Långholmen,other
+5493,Ivar Wikers Väg,other
+5494,Torpavallsparken,other
+5495,Ceresplatsen,other
+5496,Synvillans Gata,gatan
+5497,Gunnilse Mellangård,other
+5498,Gunnilse Västergård,other
+5499,Stuguåsvägen,vägen
+5500,Väverskans Bro,other
+5501,Slakthusbron,other
+5502,Textilpassagen,other
+5503,Lilla Rödjans Gård,other
+5504,Tylö fyrs väg,vägen
+5505,Norra Dragspelsgatan,gatan
+5506,Lanternavägen,vägen
+5507,Hulda Mellgrens gata,gatan
+5508,Förö Östra Strandväg,vägen
+5509,Förö Västra Strandväg,vägen
+5510,Förö Utterstig,other
+5511,Förö Flaggstig,other
+5512,Sven Wingquists Gata,gatan
+5513,Glöstorps Röseväg,vägen
+5514,Genomfart Majorsgatan 6,other
+5515,Genomfart Majorsgatan 4,other
+5516,Genomfart Sveag 10,other
+5517,Olofshöjdsgatan,gatan
+5518,Appelbergs Väg,other
+5519,Stabbetorget,torget
+5520,Bergums Mellangårdsväg,vägen
+5521,Lassegården,other
+5522,Rättaregården,other
+5523,Östadsvägen,vägen
+5524,Slakthuset,other
+5525,Türks bro,other
+5526,Berättelsegatan,gatan
+5527,Första Kvillängsvägen,vägen
+5528,Epistelgatan,gatan
+5529,Fabelgatan,gatan
+5530,Komedigatan,gatan
+5531,Krönikegatan,gatan
+5532,Lyrikgatan,gatan
+5533,Rösbo Sventorp,other
+5534,Norra Porten,other
+5535,Klostergången,other
+5536,Wingårdsgatan,gatan
+5537,Skrapestigen,other
+5538,Leveransvägen,vägen
+5539,Slintins Gångväg,vägen
+5540,Brygghusvägen,vägen
+5541,Bergartsgatan,gatan
+5542,Marmorgatan,gatan
+5543,Kalkstensgatan,gatan
+5544,Sandstensgatan,gatan
+5545,Amhult Nedergård,other
+5546,Forskarlens Väg,other
+5547,Hjulormsgången,other
+5548,Huldragången,other
+5549,Lyktgubbegången,other
+5550,Näckengången,other
+5551,Tomtegången,other
+5552,Tomtenissegången,other
+5553,Trollgången,other
+5554,Vitormsgången,other
+5555,Vittragången,other
+5556,Vättegången,other
+5557,Barbro Hörbergs Gata,gatan
+5558,Gunn Wållgrens Gata,gatan
+5559,Jan Johanssons Gata,gatan
+5560,Kent Anderssons Gata,gatan
+5561,Märta Ternstedts Gata,gatan
+5562,Nils Dahlbecks Gata,gatan
+5563,Sonya Hedenbratts Gata,gatan
+5564,Steen Priwins Gata,gatan
+5565,Sten-åke Cederhöks Gata,gatan
+5566,Viveka Seldahls Gata,gatan
+5567,Åke Falcks Gata,gatan
+5568,Kålseredsslingan,other
+5569,Meli Johanssons Väg,other
+5570,Oskars Lycka,other
+5571,Bönekullevägen,vägen
+5572,TBV,other
+5573,Utrustningsvägen,vägen
+5574,Containerterminalen TAV,other
+5575,Granåsgatan,gatan
+5576,Pepitas Gata,gatan
+5577,Björlanda Prästgårdsväg,vägen
+5578,Brattenbryggan,other
+5579,Klingners Plats,other
+5580,Nelly Thürings Trappa,other
+5581,Burgårdens Gcm Väg,other
+5582,Victor Bensows Trappor,other
+5583,Banvaktsvägen,vägen
+5584,Tumlestigen,other
+5585,Aspelundsgården,other
+5586,Börjeshöjd,other
+5587,Erikshöjd,other
+5588,Fjällhultsvägen,vägen
+5589,Gräshultsgården,other
+5590,Gräshultslid,other
+5591,Jonsberg,other
+5592,Kvarnhagen,other
+5593,Lapparns Väg,other
+5594,Olofsberg,other
+5595,Solbackevägen,vägen
+5596,Stenareds Eriksberg,other
+5597,Stenareds Skogslid,other
+5598,Stenaredsbacken,backen
+5599,Stenaredslyckan,other
+5600,Fråmgangen,other
+5601,Tvärdraget,other
+5602,Tofsmesgången,other
+5603,Trädkryparegången,other
+5604,Gråsparvsgången,other
+5605,Liljegången,other
+5606,Bigarrågången,other
+5607,Morellgången,other
+5608,Anemongången,other
+5609,Rabarbergången,other
+5610,Verkstadsgatan,gatan
+5611,Hantlangargatan,gatan
+5612,Hermans Broväg,vägen
+5613,Smuttenstigen,other
+5614,Tåstigen,other
+5615,Gullbergsvassgatan,gatan
+5616,Humlegårdsgatan,gatan
+5617,Björsjövägen,vägen
+5618,Hovgårdsvägen,vägen
+5619,Murklockegången,other
+5620,Hunnebostrandsgatan,gatan
+5621,Vidkärrsallén,other
+5622,Lilla Brunnehagsvägen,vägen
+5623,Döda Dalen,other
+5624,Designgatan,gatan
+5625,Tunnelvägen,vägen
+5626,Klimatvägen,vägen
+5627,Smedjeliden,other
+5628,Svea Lunds Stig,other
+5629,Svea Lunds Trappor,other
+5630,Hinderbanan,other
+5631,Stora Holm Övningsväg Serviceväg 2,other
+5632,Stora Holm Övningsväg Serviceväg 1,other
+5633,Stora Holm Övningsväg Serviceväg 3,other
+5634,Saltsilon,other
+5635,Brunnsparken,other
+5636,Erik Kuus Gata,gatan
+5637,Rönnängsgatan,gatan
+5638,Sune Berntsons Väg,other
+5639,Kvillehedsvägen,vägen
+5640,Dunörtsvägen,vägen
+5641,Millenniumgatan,gatan
+5642,Krusbärsgången,other
+5643,Jordgubbsgången,other
+5644,Olle Nystedts Plats,other
+5645,Hisingsbron,other
+5646,Stadstjänaregatan,gatan
+5647,Servicetunnel Haga,other
+5648,Halmtorget,torget
+5649,Stallkullevägen,vägen
+5650,Björsaredshöjden,other
+5651,Förö Godtemplardal,other
+5652,Förö Blöta Vik,other
+5653,Förö Delfinväg,vägen
+5654,Förö Tärnväg,vägen
+5655,Förö Brandstig,other
+5656,Hjalmar Melins Väg,other
+5657,Lerbäckskullen,other
+5658,Lerbäcksgläntan,other
+5659,Lerbäcksgården,other
+5660,Lerbäcksängen,other
+5661,Lerbäcksbacken,backen
+5662,Trädgårdsängen,other
+5663,Trädgårdsbacken,backen
+5664,Servicetunnel Korsvägen,vägen
+5665,Servicetunnel Liseberget,other
+5666,Servicetunnel Skår,other
+5667,Fåfängan,other
+5668,Sjöportsgatan,gatan
+5669,Kaveldunsgatan,gatan
+5670,Norra Knarrholmsvägen,vägen
+5671,Tältstadsvägen,vägen
+5672,Östra Knarrholmsvägen,vägen
+5673,Klippans Strandpromenad,other
+5674,Angereds Gård,other
+5675,Erna Johanssons Gata,gatan
+5676,Folkskolegatan,gatan
+5677,Väpplingvägen,vägen
+5678,Rörläggarens Väg,other
+5679,Sven-Agne Larssons Väg,other
+5680,Vättlefjälls Väg,other
+5681,Vassdalskärr,other
+5682,Strussnässtigen,other
+5683,Stämmestigen,other
+5684,Björsaredsleden,leden
+5685,Björlanda Storegård,other
+5686,Fällesåsvägen,vägen
+5687,Björreds Äng,other
+5688,Häljeredslyckan,other
+5689,Häljereds Gård,other
+5690,Lönndal,other
+5691,Reservstig,other
+5692,Valmossen Kvia,other
+5693,Olofstorps Lyckhem,other
+5694,Lejontrappan,other
+5695,Gustavsplatsen,other
+5696,Kössö Brevik,other
+5697,Rördalsvägen,vägen
+5698,Kerstin Hasselgrens gångväg,vägen
+5699,Volvo Bil Sörredsmotet,motet
+5700,Volvo Bil Sörredsmotet Tvätt,other
+5701,Plikta,other
+5702,Södra Tagenevägen,vägen
+5703,Postflyget,other
+5704,Fåhraeus Trappor,other
+5705,Gamlestadstorget,torget
+5706,Brettegatan,gatan
+5707,Måns Bryntessonsplatsen,other
+5708,Solhemsstigen,other
+5709,Torslanda Idrottsväg,vägen
+5710,Göpåsgatan,gatan
+5711,Tollebacken,backen
+5712,Räfsunds stigen,other
+5713,Linkulabacken,backen
+5714,Kärre stigen,other
+5715,Hedtångsvägen,vägen
+5716,Grönsaksgatan,gatan
+5717,Bergums södergårdsväg,vägen
+5718,Skolgången,other
+5719,Kroastigen,other
+5720,Spår 7,other
+5721,Spår 6,other
+5722,Spår 4,other
+5723,Spår 3,other
+5724,Spår 2,other
+5725,Spår 1,other
+5726,Spår 5,other
+5727,Oskars Äng,other
+5728,Dalagärdet,other
+5729,Erisgatan,gatan
+5730,Kolmadsstigen,other
+5731,Tellusbacken,backen
+5732,Rymdbacken,backen
+5733,Sandeklevsvägen,vägen
+5734,Karlavagnstorget,torget
+5735,Callistotorget,torget
+5736,Aurorastråket,other
+5737,Kuskens Gata,gatan
+5738,Liberagatan,gatan
+5739,Lodjursstråket,other
+5740,Cassiopejagatan,gatan
+5741,Andromedagatan,gatan
+5742,Birgitta Lilliehööks Gata,gatan
+5743,Karin Parrows Gata,gatan
+5744,Edna Martins Väg,other
+5745,Nanna Ullmans Torg,other
+5746,Gamlestads Brygga,other
+5747,Nykroppagatan,gatan
+5748,Munkforsgatan,gatan
+5749,Libbstickegatan,gatan
+5750,Koriandergatan,gatan
+5751,Nordslättsberget,other
+5752,Skalldalsbacken,backen
+5753,Herman Anderssons Väg,other
+5754,Arves Marias Väg,other
+5755,Gubbe-Lars Väg,other
+5756,Bunkebergsgatan,gatan
+5757,Dalermyntsgatan,gatan
+5758,Handelsmyntet,other
+5759,Piastern,other
+5760,51,other
+5761,52,other
+5762,53,other
+5763,54,other
+5764,55,other
+5765,56,other
+5766,57,other
+5767,58,other
+5768,Linvävaregatan,gatan
+5769,Rönnen,other
+5770,Böneredslyckan,other
+5771,Fatabursvägen,vägen
+5772,Loftvägen,vägen
+5773,Lossboms Väg,other
+5774,Kärnmjölksgränd,gränd
+5775,Råmjölksgränd,gränd
+5776,Skummjölksgränd,gränd
+5777,Filmjölksgränd,gränd
+5778,Skogsdrottningen,other
+5779,Talltickan,other
+5780,Björktickan,other
+5781,Spanjolettgatan,gatan
+5782,Walter Bengtssons Gata,gatan
+5783,Guldkällegatan,gatan
+5784,Mirandagatan,gatan
+5785,Asmunds Lycka,other
+5786,Knapebacken,backen
+5787,Sisjöbäckens Väg,other
+5788,Ellerödsträdgården,other
+5789,Birgittaplatsen,other
+5790,Kalshed Skattegård,other
+5791,Gamla Bergets Väg,other
+5792,Ugglebergsstigen,other
+5793,Björklundavägen,vägen
+5794,Björklundabacken,backen
+5795,Berguven,other
+5796,Uggleberget,other
+5797,Glasmäastareplatsen,other
+5798,Folke Bernadottes gata,gatan
+5799,Älvegårdsgränden,other
+5800,Falutorgslänken,other
+5801,Gert Tommessons Gata,gatan
+5802,Gårdstens Industriväg,vägen
+5803,Centralslingan,other
+5804,Borrsvängsgatan,gatan
+5805,Kryssdäcket,other
+5806,Sjöporten,other
+5807,Colin Campbells Plats,other
+5808,Helgereds Gårdar,other
+5809,Ametistgatan,gatan
+5810,Ekevadsbron,other
+5811,Ligårdslyckan,other
+5812,Lilla Sparvgatan,gatan
+5813,Melodigången,other
+5814,Sånggången,other
+5815,Körsångsgången,other
+5816,Kärrskroken,other
+5817,Triogången,other
+5818,Oktettgången,other
+5819,Älvsborgsmässens Väg,other
+5820,Lilla Arendalsvägen,vägen
+5821,Kvarnbacken,backen
+5822,Maria Johansdotters backe,other
+5823,Lindåkrastigen,other
+5824,Burs Skogsväg,vägen
+5825,Flygmotorsvägen,vägen
+5826,Hangarvägen,vägen
+5827,Petter-Jons gränd,gränd
+5828,Vaktgatan,gatan
+5829,Vänersborgsgatan,gatan
+5830,Adolfsbergs Trappor,other
+5831,Kärrs Ängar,other
+5832,Bönereds ängen,other
+5833,Kyrkbygatan,gatan
+5834,Vattenlinjen,other
+5835,Sörhallskajen,other
+5836,Andningsbacken,backen
+5837,Fänkålsgatan,gatan
+5838,Dragonörtsgatan,gatan
+5839,Senapsgatan,gatan
+5840,Vaniljgatan,gatan
+5841,TM,other
+5842,1 & 2,other
+5843,3 & 4,other
+5844,Blå gården,other
+5845,Kanaltorgsgatan,gatan
+5846,Bandtraktorgatan,gatan
+5847,Betselvägen,vägen
+5848,Västra Ardalsvägen,vägen
+5849,GM TAÖN,other
+5850,GM TA,other
+5851,GM TVN,other
+5852,GM TVS,other
+5853,GM TCV,other
+5854,Teknologplatsen,other
+5855,Gärdegatan,gatan
+5856,Cykelvädersgatan,gatan
+5857,Anna Branzells Gata,gatan
+5858,Emil Klassons Väg,other
+5859,Gibraltarkroken,other
+5860,Stuguåsen,other
+5861,Lilleråsvägen,vägen
+5862,Havssilvers Gränd,other
+5863,Korstörnegatan,gatan
+5864,Rödlönnsgången,other
+5865,Trollhasselgatan,gatan
+5866,Rosenapelgatan,gatan
+5867,Trädgårdsmästarens Väg,other
+5868,Vallinebergsvägen,vägen
+5869,Nils Svenssons Gata,gatan
+5870,Västra Sjöfarten,other
+5871,Gråbacka Äng,other
+5872,Gråbackavägen,vägen
+5873,Rosenhällsstigen,other
+5874,Kvibergs Port,other
+5875,Kvibergs Stallgårdar,other
+5876,Ingrid Wallbergs Gata,gatan
+5877,Ingeborg Hammarskjölds Gata,gatan
+5878,Margit Halls Gata,gatan
+5879,Nolereds Skolväg,vägen
+5880,Lillgårdens Gränd,other
+5881,Ängsäters Gränd,other
+5882,Kunga-Amandas Gränd,other
+5883,Bäckelyckan,other
+5884,Viktoriagården.,other
+5885,Viktoriagården,other
+5886,Superintendent 79410,other
+5887,Ringvängen,other
+5888,Kruthuslänken,other
+5889,Södra Brygghusvägen,vägen
+5890,Lillhagens Sandlycka,other
+5891,Korsvägen,vägen
+5892,Lärje Albogård,other
+5893,Västra Nyebrovägen,vägen
+5894,Östra Nyebrovägen,vägen
+5895,Fredenslundsvägen,vägen
+5896,Björsjöbackavägen,vägen
+5897,Ann-Ida Broströms Gata,gatan
+5898,Väverskans Gata,gatan
+5899,Stora Dödskallebacken,backen
+5900,Lilla Dödskallebacken,backen
+5901,VOLVO TX Lastbilsparkering,other
+5902,Odinslundsgatan,gatan
+5903,Lung & Ro,other
+5904,Volvo Cars Torslanda Truckservice,other
+5905,TPN,other
+5906,Containerterminalen TAÖN,other
+5907,Nils Holgerssons Plats,other
+5908,Fisktorget,torget
+5909,Majbergsstigen,other
+5910,Svaleboplatsen,other
+5911,Mjölkbacken,backen
+5912,Lafingatan 5,other
+5913,Foderrumsvägen,vägen
+5914,Östra Gjutegården,other
+5915,Bergslänten,other
+5916,Högåsadungen,other
+5917,Sandvadet,other
+5918,Sillviksvägen,vägen
+5919,Lilians väg,vägen
+5920,Almgården,other
+5921,Poppelgården,other
+5922,Askgården,other
+5923,Lönngården,other
+5924,Oxelgården,other
+5925,Garpen Fyrs Väg,other
+5926,Fredsflottiljens Väg,other
+5927,Apelsingången,other
+5928,Gamlestads bro,other
+5929,Tranchells Gångbro,other
+5930,Iris I Buas Väg,other
+5931,Rondvägen,vägen
+5932,Stabbebacken,backen
+5933,Alelyckegatan,gatan
+5934,Sagogången,other
+5935,Tamburingatan,gatan
+5936,Säckgränd,gränd
+5937,Textilgatan,gatan
+5938,Stampereds Gård,other
+5939,Sjöflyget,other
+5940,Nordstan,other
+5941,Östra Sävviksvägen,vägen
+5942,Pauls Höjd,other
+5943,Farbror Hilmers Väg,other
+5944,Knektebrovägen,vägen
+5945,Styrsö Kålgård,other
+5946,Styrsö Byväg,vägen
+5947,Lilla Källö,other
+5948,Villa Kvarnkullen,other
+5949,Sörtorpsvägen,vägen
+5950,Skoghultsvägen,vägen
+5951,Bergums Lyckeväg,vägen
+5952,Emma Lindbergs Väg,other
+5953,Missionshusvägen,vägen
+5954,Kvickrotsvägen,vägen
+5955,Eriksbogården,other
+5956,Vänderotsvägen,vägen
+5957,Gökärtsvägen,vägen
+5958,Stenkullegatan,gatan
+5959,Kalvmossen,other
+5960,Fürstenbergsgatan,gatan
+5961,Johan Willins Plats,other
+5962,Påveleken,other
+5963,Skillingmyntsgatan,gatan
+5964,Knuts väg,vägen
+5965,Fässbergsgatan,gatan
+5966,Halvors länk,other
+5967,Ambrosgården,other
